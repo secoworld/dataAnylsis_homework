@@ -1,0 +1,2637 @@
+{
+  "msg": "",
+  "data": {
+    "max_retry": 1,
+    "description": "",
+    "show_answer": 0,
+    "show_answer_time": 0,
+    "is_show_answer": true,
+    "problems": [
+      {
+        "max_retry": 1,
+        "index": 1,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 0,
+          "Score": 2.0,
+          "ProblemID": 1668691,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "problem_type": 1,
+          "LibraryName": "数据挖掘",
+          "problem_id": 1668691,
+          "score": 2.0,
+          "TemplateID": 457356,
+          "TypeText": "单选题",
+          "Body": "<p>1. 下面属于维归约常用的线性代数技术的有（ ）</p>",
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>主成分分析</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>特征提取；</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>特征加权</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>离散化</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "44c09738cbed43f9be0ca5c5b5f78583",
+          "HasRemark": false,
+          "template_id": 457356
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-06 21:47",
+          "answer": [
+            "A"
+          ],
+          "my_answer": [
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668691
+      },
+      {
+        "max_retry": 1,
+        "index": 2,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 2,
+          "Score": 2.0,
+          "ProblemID": 1668692,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457358,
+          "TypeText": "单选题",
+          "Body": "<p>2. 将原始数据进行集成、变换、维度规约、数值规约是在以下哪个步骤的任务（ ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>频繁模式挖掘</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>分类和预测</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>数据预处理</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>数据流挖掘</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "78473d313ecd452bba6177c86fee5b14",
+          "HasRemark": false,
+          "template_id": 457358
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-06 21:48",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668692
+      },
+      {
+        "max_retry": 1,
+        "index": 3,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Score": 2.0,
+          "ProblemID": 1668693,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457359,
+          "TypeText": "单选题",
+          "Body": "<p>3. 假设12个销售价格记录组已经排序如下：5, 10, 11, 13, 15, 35, 50, 55, 72, 92, 204, 215 使用如下每种方法将它们划分成四个箱。等频（等深）划分时，15在第几个箱子内（ ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>第一个</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>第二个</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>第三个</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>第四个</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "c575c6e377e841249258c19fc290efbf",
+          "HasRemark": false,
+          "template_id": 457359
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-06 21:49",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668693
+      },
+      {
+        "max_retry": 1,
+        "index": 4,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 2,
+          "Score": 2.0,
+          "ProblemID": 1668694,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457361,
+          "TypeText": "单选题",
+          "Body": "<p>4. 数据清理不包括以下哪些处理（&nbsp; )</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>缺失值的处理</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>噪声的处理</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>重复数据的处理</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>不一致数据的处理</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "d8451d2d7ea544a2a38ba352524a7a3a",
+          "HasRemark": false,
+          "template_id": 457361
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-06 21:50",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668694
+      },
+      {
+        "max_retry": 1,
+        "index": 5,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 3,
+          "Score": 2.0,
+          "ProblemID": 1668695,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457362,
+          "TypeText": "单选题",
+          "Body": "<p>5. 数据规范化方法包括（&nbsp; &nbsp; ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>数据归约</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>数据泛化</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>数据集成</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>最小最大规范化</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "1c28242a3cd64647b5e31801afbe6612",
+          "HasRemark": false,
+          "template_id": 457362
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-06 21:50",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668695
+      },
+      {
+        "max_retry": 1,
+        "index": 6,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 0,
+          "Score": 2.0,
+          "ProblemID": 1668696,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457364,
+          "TypeText": "单选题",
+          "Body": "<p>6. 给定一组二维样本S,S = {S1, S2, S3, S4, S5}= {(1,2),(3,0),(4,3),(5,7),(1,6)},在距离阈值d大于等于4、非邻点样本的阈值部分p大于等于3时的噪声数据为（&nbsp; &nbsp; ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>S4, S5</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>&nbsp;S1, S4</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>S2, S5</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>&nbsp;S1, S5</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "0bdd4999b30844ac8be322cd39e36c49",
+          "HasRemark": false,
+          "template_id": 457364
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-06 22:10",
+          "answer": [
+            "A"
+          ],
+          "my_answer": [
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668696
+      },
+      {
+        "max_retry": 1,
+        "index": 7,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Score": 2.0,
+          "ProblemID": 1668697,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457368,
+          "TypeText": "单选题",
+          "Body": "<p>7. 两组向量x={6,4,7,10,8},y={5,6,1,4,12}的协方差为（&nbsp; &nbsp; ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>0.1</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>0.2</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>&nbsp;0.3</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>&nbsp;0.4</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "cab9ec2a20ce4479ae3e6d65103dccfa",
+          "HasRemark": false,
+          "template_id": 457368
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-06 22:21",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668697
+      },
+      {
+        "max_retry": 1,
+        "index": 8,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 2,
+          "Version": "ae8c9aa56d3640aeadc832712fa1349b",
+          "ProblemID": 1668698,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457371,
+          "TypeText": "单选题",
+          "Body": "<p>8. 假定用于分析的数据包含属性age,数据元祖中age的值如下(按递增序)：</p><p>13,15,16,16,19,20,20,21,22,22,25,25,25,25,30,33,33,33,35,35,35,35,36,40,45,46,52,70。</p><p>对age值35进行小数定标规范化转换，转换后的值为（&nbsp; &nbsp; ）</p><p><br/></p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>0.32</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>&nbsp;0.38</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>&nbsp;0.35</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>0.40</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457371
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-06 22:22",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668698
+      },
+      {
+        "max_retry": 1,
+        "index": 9,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 0,
+          "Score": 2.0,
+          "ProblemID": 1668699,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457377,
+          "TypeText": "单选题",
+          "Body": "<p>9. 已知某工厂车间工人的年终奖，其均值为34 349元，标准差为16 928元，对于观测值为57 000元，使用z-score方法对其进行规范化为（&nbsp; &nbsp; ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>1.34</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>1.43</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>&nbsp;0.35</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>&nbsp;0.57</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "bdc1063d0bb14e38a7f52a6ac7fa091f",
+          "HasRemark": false,
+          "template_id": 457377
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-06 22:24",
+          "answer": [
+            "A"
+          ],
+          "my_answer": [
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668699
+      },
+      {
+        "max_retry": 1,
+        "index": 10,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 3,
+          "Version": "cf50643bd5524883bc810c2302e92dd2",
+          "ProblemID": 1668700,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457380,
+          "TypeText": "单选题",
+          "Body": "<p>10. 假定用于分析的数据包含属性age,数据元祖中age的值如下(按递增序)：</p><p>13,15,16,16,19,20,20,21,22,22,25,25,25,25,30,33,33,33,35,35,35,35,36,40,45,46,52,70。使用min-max规范化，将age值35转换d到[0.0,1.0]区间的值为（&nbsp; &nbsp; ）</p><p><br/></p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>0.35</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p>0.70</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p>&nbsp;0.175</p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>0.386</p>"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457380
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-06 22:25",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668700
+      },
+      {
+        "max_retry": 1,
+        "index": 11,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "ProblemID": 1668701,
+          "Version": "ced6aed9f4784c2d967cacc262efe68e",
+          "Body": "<p>1. 下列数据变换类型及方法正确的是（&nbsp; &nbsp; ）</p>",
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457384,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>数据平滑：去噪，将连续数据离散化，增加粒度</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>数据聚集：对数值属性进行监督或无监督离散化</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>特征构造：构造出新的属性</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>数据规范化：使数据按照比例缩放，落入特定区域</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457384
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "A": true,
+            "C": true,
+            "D": true
+          },
+          "submit_time": "2020-03-06 22:29",
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668701
+      },
+      {
+        "max_retry": 1,
+        "index": 12,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "Score": 3.0,
+          "ProblemID": 1668702,
+          "max_retry": 1,
+          "Type": "MultipleChoice",
+          "Body": "<p>2. 数据变换的类型包括（&nbsp; &nbsp; ）</p>",
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457388,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>数据预处理</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>&nbsp;数据泛化</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>&nbsp;数据离散化</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>&nbsp;特征构造</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "eed2ae2620eb4b339201100561d4c351",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457388
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "C": true,
+            "B": true,
+            "D": true
+          },
+          "submit_time": "2020-03-06 22:29",
+          "answer": [
+            "C",
+            "D",
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668702
+      },
+      {
+        "max_retry": 1,
+        "index": 13,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "Score": 3.0,
+          "ProblemID": 1668703,
+          "max_retry": 1,
+          "Type": "MultipleChoice",
+          "Body": "<p>3. 数据归约技术包括（&nbsp; &nbsp; ）</p>",
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457389,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>维归约</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>数量归约</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>数据压缩</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>数据清理</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "fe28b1d71229437182df458e8bf0149e",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457389
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "A": true,
+            "C": true,
+            "B": true
+          },
+          "submit_time": "2020-03-06 22:32",
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668703
+      },
+      {
+        "max_retry": 1,
+        "index": 14,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "Score": 3.0,
+          "ProblemID": 1668704,
+          "max_retry": 1,
+          "Type": "MultipleChoice",
+          "Body": "<p>4. 下面哪些属于数据预处理的方法（&nbsp; &nbsp; ）</p>",
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457391,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>变量代换</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>离散化</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>聚集</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>&nbsp;估计遗漏值</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "7d7ee0a47d2945e3996458db2fc383c3",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457391
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "A": true,
+            "C": true,
+            "B": true
+          },
+          "submit_time": "2020-03-06 22:32",
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668704
+      },
+      {
+        "max_retry": 1,
+        "index": 15,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "Score": 3.0,
+          "ProblemID": 1668705,
+          "max_retry": 1,
+          "Type": "MultipleChoice",
+          "Body": "<p>5. 在现实世界的数据中，元组在某些属性上缺少值是常有的。描述处理该问题的各方法正确的有（&nbsp; &nbsp; ）</p>",
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457397,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>忽略元组</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>从数据中挑选一个数据填写</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>使用属性的平均值填充空缺值</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>使用与给定元组属同一类的所有样本的平均值</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "f71aa8521f5242858f826d9eb907f109",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457397
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "A": true,
+            "C": true,
+            "D": true
+          },
+          "submit_time": "2020-03-06 22:32",
+          "answer": [
+            "C",
+            "D",
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668705
+      },
+      {
+        "max_retry": 1,
+        "index": 16,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "Score": 3.0,
+          "ProblemID": 1668706,
+          "max_retry": 1,
+          "Type": "MultipleChoice",
+          "Body": "<p>6. 数据清理的原则包括（&nbsp; &nbsp; ）</p>",
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457399,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>相异性原则</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>连续性原则</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>唯一性原则</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>空值原则</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "2e2f1f7b9e314a4aa97306ee85a2ece8",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457399
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 2,
+          "is_right": true,
+          "my_answers": {
+            "C": true,
+            "B": true,
+            "D": true
+          },
+          "submit_time": "2020-03-06 22:41",
+          "answer": [
+            "D",
+            "C",
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668706
+      },
+      {
+        "max_retry": 1,
+        "index": 17,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "c3eefdb270124dc1985f319b3824d4ba",
+          "ProblemID": 1668730,
+          "Type": "FillBlank",
+          "Body": "<p>2. 高质量数据的要求有<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>、<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>、<span class=\"blank-item\" style=\"display:inline-block;\">[填空3]</span>。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": true
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 2,
+              "FuzzyMatch": true
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 3,
+              "FuzzyMatch": true
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 4.5,
+          "TemplateID": 457474,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 4.5,
+          "HasRemark": false,
+          "template_id": 457474
+        },
+        "score": 4.5,
+        "blank_count": 3,
+        "problem_id": 1668730,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "4.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              " 准确性"
+            ],
+            "3": [
+              "一致性"
+            ],
+            "2": [
+              "完整性"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "准确性",
+              "is_right": true
+            },
+            "3": {
+              "answer": "一致性",
+              "is_right": true
+            },
+            "2": {
+              "answer": "完整性",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-06 22:38",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 18,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 6.0,
+          "ProblemID": 1668731,
+          "Type": "FillBlank",
+          "Body": "<p>3. 数据预处理的技术手段包括<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>、<span class=\"blank-item\" style=\"display: inline-block;\">[填空2]</span>、<span class=\"blank-item\" style=\"display:inline-block;\">[填空3]</span>、<span class=\"blank-item\" style=\"display:inline-block;\">[填空4]</span>。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": true
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 2,
+              "FuzzyMatch": true
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 3,
+              "FuzzyMatch": true
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 4,
+              "FuzzyMatch": true
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 6.0,
+          "TemplateID": 457476,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "3064e07e6f304a0e8c465d3a6b712ae7",
+          "HasRemark": false,
+          "template_id": 457476
+        },
+        "score": 6.0,
+        "blank_count": 4,
+        "problem_id": 1668731,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "6.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              " 数据清理"
+            ],
+            "3": [
+              "数据变换"
+            ],
+            "2": [
+              "数据集成"
+            ],
+            "4": [
+              "数据归约"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "数据清理",
+              "is_right": true
+            },
+            "3": {
+              "answer": "数据归约",
+              "is_right": true
+            },
+            "2": {
+              "answer": "数据集成",
+              "is_right": true
+            },
+            "4": {
+              "answer": "数据变换",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-06 22:38",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 19,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "BlanksScore": [],
+          "Version": "a8b2b8ef8ab44f1cbd4c23724b4978fd",
+          "ProblemID": 1668707,
+          "Type": "FillBlank",
+          "max_retry": 1,
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 2,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457402,
+          "TypeText": "填空题",
+          "Body": "<p>5. 假定用于分析的数据包含属性age,数据元祖中age的值如下(按递增序)：</p><p>13,15,16,16,19,20,20,21,22,22,25,25,25,25,30,33,33,33,35,35,35,35,36,40,45,46,52,70。</p><p>已知age的标准偏差为12.94年，使用z-score规范化对age值35进行转换，转换后得到的值为<span class=\"blank-item\" style=\"display: inline-block;\">[填空1]</span>。</p><p><br/></p>",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457402
+        },
+        "score": 2.0,
+        "blank_count": 1,
+        "problem_id": 1668707,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "0.386",
+              "0.38",
+              "0.39"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "0.386",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-06 22:39",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 20,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "d65d5b45f44a4fe795a833d7596f2130",
+          "ProblemID": 1668708,
+          "Type": "FillBlank",
+          "Body": "<p>6. 在现实世界的数据中，元组在某些属性上的缺失值是常有的。处理该问题的常用方法有<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>、<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>、<span class=\"blank-item\" style=\"display:inline-block;\">[填空3]</span>。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": true
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 2,
+              "FuzzyMatch": true
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 3,
+              "FuzzyMatch": true
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 4.5,
+          "TemplateID": 457417,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 4.5,
+          "HasRemark": false,
+          "template_id": 457417
+        },
+        "score": 4.5,
+        "blank_count": 3,
+        "problem_id": 1668708,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "4.50",
+          "my_count": 2,
+          "answers": {
+            "1": [
+              "删除数据对象或属性"
+            ],
+            "3": [
+              "忽略遗漏值"
+            ],
+            "2": [
+              "估计遗漏值"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "删除数据对象或属性",
+              "is_right": true
+            },
+            "3": {
+              "answer": "忽略遗漏值",
+              "is_right": true
+            },
+            "2": {
+              "answer": "估计遗漏值",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-06 23:05",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 21,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "d5cd2798d0eb4e5aa8829f73a4fad259",
+          "ProblemID": 1668710,
+          "Type": "FillBlank",
+          "Body": "<p>8. 对数据进行偏差检测的3个原则分别是<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>、<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>、<span class=\"blank-item\" style=\"display:inline-block;\">[填空3]</span>。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 2,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 3,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 4.5,
+          "TemplateID": 457423,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 4.5,
+          "HasRemark": false,
+          "template_id": 457423
+        },
+        "score": 4.5,
+        "blank_count": 3,
+        "problem_id": 1668710,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "4.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "唯一性原则"
+            ],
+            "3": [
+              "空值原则"
+            ],
+            "2": [
+              "连续性原则"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "唯一性原则",
+              "is_right": true
+            },
+            "3": {
+              "answer": "空值原则",
+              "is_right": true
+            },
+            "2": {
+              "answer": "连续性原则",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-06 22:43",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 22,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "2a07679074c6436abbdbaa44af3d214d",
+          "ProblemID": 1668711,
+          "Type": "FillBlank",
+          "Body": "<p>9. 数据归约技术包括<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>、<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>、<span class=\"blank-item\" style=\"display:inline-block;\">[填空3]</span>。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 2,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 3,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 4.5,
+          "TemplateID": 457426,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 4.5,
+          "HasRemark": false,
+          "template_id": 457426
+        },
+        "score": 4.5,
+        "blank_count": 3,
+        "problem_id": 1668711,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "4.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "维归约"
+            ],
+            "3": [
+              "数据压缩"
+            ],
+            "2": [
+              "数量归约"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "维归约",
+              "is_right": true
+            },
+            "3": {
+              "answer": "数据压缩",
+              "is_right": true
+            },
+            "2": {
+              "answer": "数量归约",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-06 22:44",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 23,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "b542aece07a74eb7b207fc2ee363cbd6",
+          "ProblemID": 1668712,
+          "Type": "FillBlank",
+          "Body": "<p>10. 在使用分箱法实现特征离散化时，可以用每个箱中的___<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>_____或___<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>_____替换箱中所有的值。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": true
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 2,
+              "FuzzyMatch": true
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457428,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457428
+        },
+        "score": 3.0,
+        "blank_count": 2,
+        "problem_id": 1668712,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "中位数",
+              "中值"
+            ],
+            "2": [
+              "平均值",
+              "平均数"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "平均值",
+              "is_right": true
+            },
+            "2": {
+              "answer": "中值",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-06 22:45",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 24,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 4.0,
+          "ProblemID": 1668713,
+          "Type": "FillBlank",
+          "Body": "<p>11. 某工厂车间工人的年终奖金结果如下（已按照递增排序）：15 750，20 000，25 000，36 000，48 000，50 000，52 000，56 000，57 000，68 000，10 000，135 000（元）。使用最小-最大值规范化将奖金57 000转换到[0.0, 1.0]区间为&nbsp; &nbsp;<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span> &nbsp; &nbsp; ；使用小数定标规范化将奖金57 000转换到[-1,1]区间为&nbsp;&nbsp;<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 2,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 2,
+              "Num": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 4.0,
+          "TemplateID": 457431,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "d17a31bef66745b0b88b57be9b84ca3a",
+          "HasRemark": false,
+          "template_id": 457431
+        },
+        "score": 4.0,
+        "blank_count": 2,
+        "problem_id": 1668713,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "4.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "0.35"
+            ],
+            "2": [
+              "0.057"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "0.35",
+              "is_right": true
+            },
+            "2": {
+              "answer": "0.057",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-06 22:47",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 25,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 3.0,
+          "ProblemID": 1668714,
+          "Type": "FillBlank",
+          "Body": "<p>12. 数据清理一般需要对&nbsp; <span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>&nbsp; 和<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>&nbsp;进行处理。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457433,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "dcf48042d1b84df5a69947f6d209a3d5",
+          "HasRemark": false,
+          "template_id": 457433
+        },
+        "score": 3.0,
+        "blank_count": 2,
+        "problem_id": 1668714,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "缺失值"
+            ],
+            "2": [
+              "噪声",
+              "噪声数据"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "缺失值",
+              "is_right": true
+            },
+            "2": {
+              "answer": "噪声数据",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-06 22:51",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 26,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "4cc568429523416898b960928e38254a",
+          "ProblemID": 1668715,
+          "Type": "FillBlank",
+          "Body": "<p>&nbsp;13. 我们要进行数据预处理，是因为原始数据大多都是“&nbsp;<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>&nbsp;”。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457436,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457436
+        },
+        "score": 1.5,
+        "blank_count": 1,
+        "problem_id": 1668715,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "脏数据"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "脏数据",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-06 22:54",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 27,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 6.0,
+          "ProblemID": 1668716,
+          "Type": "FillBlank",
+          "Body": "<p>14. 四种处理缺失数据的方法是<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>、<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>、<span class=\"blank-item\" style=\"display:inline-block;\">[填空3]</span>、<span class=\"blank-item\" style=\"display:inline-block;\">[填空4]</span>。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": true
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 2,
+              "FuzzyMatch": true
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 3,
+              "FuzzyMatch": true
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 4,
+              "FuzzyMatch": true
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 6.0,
+          "TemplateID": 457438,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "86bab0a38a164f02af49fca26568e029",
+          "HasRemark": false,
+          "template_id": 457438
+        },
+        "score": 6.0,
+        "blank_count": 4,
+        "problem_id": 1668716,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "6.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "直接删除缺失属性的记录"
+            ],
+            "3": [
+              "使用全局常量填充缺失值"
+            ],
+            "2": [
+              "人工填写"
+            ],
+            "4": [
+              "使用属性的中心趋势度量值填充缺失值"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "直接删除缺失属性的记录",
+              "is_right": true
+            },
+            "3": {
+              "answer": "使用全局常量填充缺失值",
+              "is_right": true
+            },
+            "2": {
+              "answer": "人工填写",
+              "is_right": true
+            },
+            "4": {
+              "answer": "使用属性的中心趋势度量值填充缺失值",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-06 22:55",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 28,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 4.5,
+          "ProblemID": 1668717,
+          "Type": "FillBlank",
+          "Body": "<p>15. 数据平滑的方法包括&nbsp;<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>&nbsp;、<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>&nbsp;和&nbsp;<span class=\"blank-item\" style=\"display:inline-block;\">[填空3]</span> &nbsp; 。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 2,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 3,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 4.5,
+          "TemplateID": 457441,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "885437d750964f29aba33676942690b6",
+          "HasRemark": false,
+          "template_id": 457441
+        },
+        "score": 4.5,
+        "blank_count": 3,
+        "problem_id": 1668717,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "4.50",
+          "my_count": 2,
+          "answers": {
+            "1": [
+              "分箱"
+            ],
+            "3": [
+              "聚类"
+            ],
+            "2": [
+              "回归"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "分箱",
+              "is_right": true
+            },
+            "3": {
+              "answer": "聚类",
+              "is_right": true
+            },
+            "2": {
+              "answer": "回归",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-06 23:09",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 29,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "bf2bbcc1fb9d49839ed8677b63900c10",
+          "ProblemID": 1668718,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457443,
+          "TypeText": "判断题",
+          "Body": "<p>1. 噪声是指被测量的变量产生的错误或误差。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.0,
+          "HasRemark": false,
+          "template_id": 457443
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 2,
+          "is_right": true,
+          "submit_time": "2020-03-06 23:05",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668718
+      },
+      {
+        "max_retry": 1,
+        "index": 30,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "a95ce78302d1455f83f20cec67c539ef",
+          "ProblemID": 1668719,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457445,
+          "TypeText": "判断题",
+          "Body": "<p>2. 数据规约技术可以得到数据集的规约表示，虽然小，但仍大致保持原数据的完整性。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.0,
+          "HasRemark": false,
+          "template_id": 457445
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-06 23:02",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668719
+      },
+      {
+        "max_retry": 1,
+        "index": 31,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "2045f19ea3b1444ea7f405205c19b148",
+          "ProblemID": 1668720,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457447,
+          "TypeText": "判断题",
+          "Body": "<p>3. 数据变换是通过平滑聚集、数据概化、规范化等方式将数据转换成适用于数据挖掘的形式。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.0,
+          "HasRemark": true,
+          "template_id": 457447
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "explain": "",
+          "submit_time": "2020-03-06 22:57",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": true
+        },
+        "problem_id": 1668720
+      },
+      {
+        "max_retry": 1,
+        "index": 32,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "9ee571b5fa864658bb7792dbc7e5cefe",
+          "ProblemID": 1668721,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457448,
+          "TypeText": "判断题",
+          "Body": "<p>4. 数据预处理的任务包括数据清理、数据集成、数据规约和数据泛化。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.0,
+          "HasRemark": false,
+          "template_id": 457448
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 2,
+          "is_right": true,
+          "submit_time": "2020-03-06 23:05",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668721
+      },
+      {
+        "max_retry": 1,
+        "index": 33,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "8a76f42ed55e4590becc1a81050d38f1",
+          "ProblemID": 1668722,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457450,
+          "TypeText": "判断题",
+          "Body": "<p>5. 唯一性原则是指一个属性的每个值都是唯一的，不能和这个属性的其他值相同。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.0,
+          "HasRemark": false,
+          "template_id": 457450
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 2,
+          "is_right": true,
+          "submit_time": "2020-03-06 23:06",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668722
+      },
+      {
+        "max_retry": 1,
+        "index": 34,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "b7bc7e0692a849aa93c3900485532149",
+          "ProblemID": 1668723,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457452,
+          "TypeText": "判断题",
+          "Body": "<p>6. 数据变换策略主要包括光滑、聚集、数据泛化、规范化、属性构造和离散化。</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": true,
+          "template_id": 457452
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "explain": "<p>首先要满足唯一性原则，然后每个属性的最大值和最小值之间没有缺失值才满足连续性原则。</p>",
+          "submit_time": "2020-03-06 22:58",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": true
+        },
+        "problem_id": 1668723
+      },
+      {
+        "max_retry": 1,
+        "index": 35,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "c78ec27ba77a4eb994bdea8f80f8910f",
+          "ProblemID": 1668724,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457454,
+          "TypeText": "判断题",
+          "Body": "<p>7. 每个属性的最大值和最小值之间没有缺失值既满足连续性原则。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457454
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-06 22:58",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668724
+      },
+      {
+        "max_retry": 1,
+        "index": 36,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "c502a681242c4aad9249a45c745d9d7c",
+          "ProblemID": 1668725,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457455,
+          "TypeText": "判断题",
+          "Body": "<p>8. 数据挖掘所处理的数据必须具有准确性、完整性、一致性、时效性、可信性和可解释性。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457455
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 2,
+          "is_right": false,
+          "submit_time": "2020-03-06 23:06",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668725
+      },
+      {
+        "max_retry": 1,
+        "index": 37,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "60f3d7551a59444aa01178a913170d56",
+          "ProblemID": 1668726,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457457,
+          "TypeText": "判断题",
+          "Body": "<p>9. 数据规约就是指对数据集进行简化表示。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457457
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 2,
+          "is_right": true,
+          "submit_time": "2020-03-06 23:06",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668726
+      },
+      {
+        "max_retry": 1,
+        "index": 38,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "40f7225aafe04125af416c979639a43f",
+          "ProblemID": 1668727,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457459,
+          "TypeText": "判断题",
+          "Body": "<p>10. 数据集成有助于减少结果数据集的冗余和不一致，可以提高集成之后的挖掘过程的准确性和速度。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": true,
+          "template_id": 457459
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "explain": "",
+          "submit_time": "2020-03-06 23:00",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": true
+        },
+        "problem_id": 1668727
+      },
+      {
+        "max_retry": 1,
+        "index": 39,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "27156657bdfd46229433a40593bcaa4f",
+          "ProblemID": 1668728,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457461,
+          "TypeText": "判断题",
+          "Body": "<p>11. 在确定数据中的离群点时，一般不必检查整个数据集</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457461
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-06 23:02",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668728
+      }
+    ],
+    "answer_count": 39,
+    "exercise_id": 235662,
+    "name": "第3章 作业"
+  },
+  "success": true
+}

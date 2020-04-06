@@ -1,0 +1,1642 @@
+{
+  "msg": "",
+  "data": {
+    "max_retry": 1,
+    "description": "",
+    "show_answer": 2,
+    "show_answer_time": 1586707200,
+    "is_show_answer": false,
+    "problems": [
+      {
+        "max_retry": 1,
+        "index": 1,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Score": 3.0,
+          "ProblemID": 1668954,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457590,
+          "TypeText": "单选题",
+          "Body": "<p>&nbsp;下面哪种距离度量方法为欧几里得距离（ ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205817495143976960.png\" alt=\"图片.png\"/></p>",
+              "key": "A"
+            },
+            {
+              "value": "<p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205817516455235584.png\" alt=\"图片.png\"/></p>",
+              "key": "B"
+            },
+            {
+              "value": "<p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205817555508400128.png\" alt=\"图片.png\"/></p>",
+              "key": "C"
+            },
+            {
+              "value": "<p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205817574571511808.png\" alt=\"图片.png\"/></p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "2109ae3584e84260a3d1698ed2ef75da",
+          "HasRemark": false,
+          "template_id": 457590
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:16",
+          "my_answer": [
+            "B"
+          ]
+        },
+        "problem_id": 1668954
+      },
+      {
+        "max_retry": 1,
+        "index": 2,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Score": 3.0,
+          "ProblemID": 1668956,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457592,
+          "TypeText": "单选题",
+          "Body": "<p>以下哪些算法是分类算法（ ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>&nbsp;DBSCAN</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>C4.5</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>K-Mean</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>EM</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "b9da7b697af241febcc70ad1f9fce4c9",
+          "HasRemark": false,
+          "template_id": 457592
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:17",
+          "my_answer": [
+            "B"
+          ]
+        },
+        "problem_id": 1668956
+      },
+      {
+        "max_retry": 1,
+        "index": 3,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 2,
+          "Score": 3.0,
+          "ProblemID": 1668958,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457595,
+          "TypeText": "单选题",
+          "Body": "<p>以下哪个算法将两个簇的邻近度定义为不同簇的所有点对的平均逐对邻近度，它是一种凝聚层次聚类技术（ ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>MIN（单链）</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>MAX（全链）</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>&nbsp;组平均</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>Ward方法</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "ffdbdb2a48ae40bba66d3f8f076e68aa",
+          "HasRemark": false,
+          "template_id": 457595
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:19",
+          "my_answer": [
+            "C"
+          ]
+        },
+        "problem_id": 1668958
+      },
+      {
+        "max_retry": 1,
+        "index": 4,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 3,
+          "Score": 3.0,
+          "ProblemID": 1668960,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457598,
+          "TypeText": "单选题",
+          "Body": "<p>以下哪个聚类算法不属于基于网格的聚类算法（ ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>STING</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>&nbsp;CLIQUE</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>MAFIA</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>BIRCH</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "7be5e486b03b487a825a3be27986b874",
+          "HasRemark": false,
+          "template_id": 457598
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:22",
+          "my_answer": [
+            "D"
+          ]
+        },
+        "problem_id": 1668960
+      },
+      {
+        "max_retry": 1,
+        "index": 5,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Score": 3.0,
+          "ProblemID": 1668961,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457599,
+          "TypeText": "单选题",
+          "Body": "<p>关于混合模型聚类算法的优缺点，下面说法正确的是（ ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>当簇只包含少量数据点，或者数据点近似协线性时，混合模型也能很好地处理</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>混合模型比K均值或模糊c均值更一般，因为它可以使用各种类型的分布</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>混合模型很难发现不同大小和椭球形状的簇</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>混合模型在有噪声和离群点时不会存在问题</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "224c3cd5c6dc4d37aa0104455ca550b7",
+          "HasRemark": false,
+          "template_id": 457599
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:23",
+          "my_answer": [
+            "B"
+          ]
+        },
+        "problem_id": 1668961
+      },
+      {
+        "max_retry": 1,
+        "index": 6,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "ProblemID": 1668965,
+          "Version": "4a9d54b7030b4ddd8de00fb340752cba",
+          "Body": "<p>DIANA算法中，定义两个数据点之间的平均距离的为（ ）</p>",
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457605,
+          "TypeText": "单选题",
+          "answerIndex": 1,
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>簇的直径；</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>平均相异度；</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>欧几里得距离；</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>范式距离；</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457605
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:24",
+          "my_answer": [
+            "B"
+          ]
+        },
+        "problem_id": 1668965
+      },
+      {
+        "max_retry": 1,
+        "index": 7,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "ProblemID": 1668964,
+          "Score": 3.0,
+          "Body": "<p>下列说法正确的是（&nbsp; ）</p>",
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457603,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>聚类是物理或抽象对象的集合分组成为多个类或簇（cluster）的过程；</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>聚类中不同簇中的对象差别较小；</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>聚类和分类要划分的类是未知的；</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>聚类是一种无指导学习，属于观察式学习，分类则属于有指导的学习，是示例式学习；</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "aabfebddba5c4622aec71bb76688f894",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457603
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "my_answers": {
+            "A": null,
+            "D": null
+          },
+          "submit_time": "2020-04-05 11:27"
+        },
+        "problem_id": 1668964
+      },
+      {
+        "max_retry": 1,
+        "index": 8,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "Version": "c206d4b8000747499200df86dcd321d5",
+          "ProblemID": 1668966,
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457607,
+          "TypeText": "多选题",
+          "Body": "下列属于聚类分析方法的是（ ）",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>&nbsp;基于层次的聚类方法；</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p>基于划分的聚类方法；</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p>基于密度的聚类方法；</p>"
+            },
+            {
+              "key": "D",
+              "value": "基于网格的聚类方法"
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457607
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "my_answers": {
+            "A": null,
+            "C": null,
+            "B": null,
+            "D": null
+          },
+          "submit_time": "2020-04-05 11:28"
+        },
+        "problem_id": 1668966
+      },
+      {
+        "max_retry": 1,
+        "index": 9,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "ProblemID": 1668967,
+          "Score": 3.0,
+          "Body": "<p>&nbsp;聚类质量评估的主要任务包括（ ）</p>",
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457610,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>估计聚类趋势 ；</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>确定簇数；</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>&nbsp;确定层次结构 ；</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>确定聚类质量</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "ce054186ae944da5857e6c523ce2608e",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457610
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "my_answers": {
+            "A": null,
+            "B": null,
+            "D": null
+          },
+          "submit_time": "2020-04-05 11:30"
+        },
+        "problem_id": 1668967
+      },
+      {
+        "max_retry": 1,
+        "index": 10,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "ProblemID": 1668968,
+          "Score": 3.0,
+          "Body": "<p>&nbsp;聚类分析中最常用的距离有（ ）</p>",
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457611,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>切比雪夫距离；</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>欧几里的距离；</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>曼哈坦距离；</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>&nbsp;明可夫斯基距离</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "54b936a7a6ad4ec39ecaae4f354040d0",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457611
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "0.00",
+          "my_count": 1,
+          "my_answers": {
+            "A": null,
+            "C": null,
+            "B": null,
+            "D": null
+          },
+          "submit_time": "2020-04-05 11:36"
+        },
+        "problem_id": 1668968
+      },
+      {
+        "max_retry": 1,
+        "index": 11,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "Version": "271f7dce6d464290ad408c165d481961",
+          "ProblemID": 1668969,
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457612,
+          "TypeText": "多选题",
+          "Body": "数据的哪些特性对聚类分析具有很强的影响（ ）",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "高维性；"
+            },
+            {
+              "key": "B",
+              "value": "规模；"
+            },
+            {
+              "key": "C",
+              "value": "稀疏性；"
+            },
+            {
+              "key": "D",
+              "value": "噪声和离群点"
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457612
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "my_answers": {
+            "A": null,
+            "C": null,
+            "B": null,
+            "D": null
+          },
+          "submit_time": "2020-04-05 11:38"
+        },
+        "problem_id": 1668969
+      },
+      {
+        "max_retry": 1,
+        "index": 12,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "f8e5b79715a54d11a8baf8f111ee8473",
+          "ProblemID": 1668983,
+          "Type": "FillBlank",
+          "Body": "基于&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 的聚类方法是基于距离判断数据对象相似度的聚类。",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Num": 1,
+              "Score": 5,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 5.0,
+          "TemplateID": 457629,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 5.0,
+          "HasRemark": false,
+          "template_id": 457629
+        },
+        "score": 5.0,
+        "blank_count": 1,
+        "problem_id": 1668983,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "5.00",
+          "my_count": 1,
+          "my_answers": {
+            "1": {
+              "answer": "划分"
+            }
+          },
+          "submit_time": "2020-04-05 11:41"
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 13,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "b4fc24a6e39b4a94b7d590088d9465e4",
+          "ProblemID": 1668986,
+          "Type": "FillBlank",
+          "Body": "基于&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>&nbsp;&nbsp; 的聚类方法可以发现任意形状的簇。",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Num": 1,
+              "Score": 5,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 5.0,
+          "TemplateID": 457633,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 5.0,
+          "HasRemark": false,
+          "template_id": 457633
+        },
+        "score": 5.0,
+        "blank_count": 1,
+        "problem_id": 1668986,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "5.00",
+          "my_count": 1,
+          "my_answers": {
+            "1": {
+              "answer": "密度"
+            }
+          },
+          "submit_time": "2020-04-05 11:42"
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 14,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "a542a5eaca3d4680bb8bc3a7c125a67c",
+          "ProblemID": 1668990,
+          "Type": "FillBlank",
+          "Body": "层次聚类方法通过将数据对象组织成若干组形成一个相应的树进行聚类，可分为&nbsp;<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 和&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>&nbsp;&nbsp;&nbsp; 层次聚类",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Num": 1,
+              "Score": 2.5,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Num": 2,
+              "Score": 2.5,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 5.0,
+          "TemplateID": 457638,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 5.0,
+          "HasRemark": false,
+          "template_id": 457638
+        },
+        "score": 5.0,
+        "blank_count": 2,
+        "problem_id": 1668990,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "5.00",
+          "my_count": 1,
+          "my_answers": {
+            "1": {
+              "answer": "凝聚"
+            },
+            "2": {
+              "answer": "分裂"
+            }
+          },
+          "submit_time": "2020-04-05 11:44"
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 15,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "bfd33b25058b4876bb4c42566c756b4d",
+          "ProblemID": 1668999,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457652,
+          "TypeText": "判断题",
+          "Body": "DBSCAN算法能够很好的区分原始数据的形状，但受限于用户指定的参数。",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457652
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:45",
+          "my_answer": [
+            "true"
+          ]
+        },
+        "problem_id": 1668999
+      },
+      {
+        "max_retry": 1,
+        "index": 16,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "094b5dc711904c52994d4a82801e2f74",
+          "ProblemID": 1669000,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457653,
+          "TypeText": "判断题",
+          "Body": "在通过相似度矩阵评估簇时，如果相似度矩阵是块对角的，说明具有明显分离的簇。",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457653
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:45",
+          "my_answer": [
+            "true"
+          ]
+        },
+        "problem_id": 1669000
+      },
+      {
+        "max_retry": 1,
+        "index": 17,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "16b55d48a5324297bced9c941a1cbc95",
+          "ProblemID": 1669001,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457654,
+          "TypeText": "判断题",
+          "Body": "SSE在无监督的簇评估中能起到很好的作用。",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457654
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:46",
+          "my_answer": [
+            "true"
+          ]
+        },
+        "problem_id": 1669001
+      },
+      {
+        "max_retry": 1,
+        "index": 18,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1669002,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457655,
+          "TypeText": "判断题",
+          "Body": "<p>DBSCAN会把所有点划分到各自的簇中。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Version": "c33735c1b61f43429361ca51b24651aa",
+          "HasRemark": true,
+          "template_id": 457655
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:46",
+          "my_answer": [
+            "false"
+          ]
+        },
+        "problem_id": 1669002
+      },
+      {
+        "max_retry": 1,
+        "index": 19,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "567cad83ef08453ca635405e6b723075",
+          "ProblemID": 1669003,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457656,
+          "TypeText": "判断题",
+          "Body": "判断簇的个数不属于簇评估。",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457656
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "0.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:46",
+          "my_answer": [
+            "true"
+          ]
+        },
+        "problem_id": 1669003
+      },
+      {
+        "max_retry": 1,
+        "index": 20,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "03df8eb9029240619ae8a613b4a69ce5",
+          "ProblemID": 1669004,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457657,
+          "TypeText": "判断题",
+          "Body": "&nbsp;K-中心点算法采用簇中对象的平均值作为参考点。",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457657
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:47",
+          "my_answer": [
+            "false"
+          ]
+        },
+        "problem_id": 1669004
+      },
+      {
+        "max_retry": 1,
+        "index": 21,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "a3a5b748d26e4452acbe8d651d178661",
+          "ProblemID": 1669005,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457658,
+          "TypeText": "判断题",
+          "Body": "DIANA算法中平均相异度指两个数据点之间的平均距离。",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457658
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:47",
+          "my_answer": [
+            "true"
+          ]
+        },
+        "problem_id": 1669005
+      },
+      {
+        "max_retry": 1,
+        "index": 22,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "7b50de6940924048a7d2d65dac580d43",
+          "ProblemID": 1669006,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457659,
+          "TypeText": "判断题",
+          "Body": "在聚类分析当中，簇内的相似性越大，簇将的差别越大，聚类的效果就越差。",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457659
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:48",
+          "my_answer": [
+            "false"
+          ]
+        },
+        "problem_id": 1669006
+      },
+      {
+        "max_retry": 1,
+        "index": 23,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "d1a9af3f4bf8482985ac35505f294c1d",
+          "ProblemID": 1669007,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457660,
+          "TypeText": "判断题",
+          "Body": "K均值是一种产生划分聚类的基于密度的聚类算法，簇的个数由算法自动地确定。",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457660
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:49",
+          "my_answer": [
+            "false"
+          ]
+        },
+        "problem_id": 1669007
+      },
+      {
+        "max_retry": 1,
+        "index": 24,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "4810ab3340c842f0996d8dba55ea4472",
+          "ProblemID": 1669008,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457661,
+          "TypeText": "判断题",
+          "Body": "若一个对象不属于任何簇，那么该对象是基于聚类的离群点。",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457661
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:50",
+          "my_answer": [
+            "true"
+          ]
+        },
+        "problem_id": 1669008
+      },
+      {
+        "max_retry": 1,
+        "index": 25,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1669009,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457662,
+          "TypeText": "判断题",
+          "Body": "<p>分裂层次聚类和凝聚层次聚类可以对已经做出的划分决策进行回溯，聚类之间可以交换对象。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Version": "fb6cf376ae144b30aa591c16c83d3998",
+          "HasRemark": false,
+          "template_id": 457662
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:50",
+          "my_answer": [
+            "false"
+          ]
+        },
+        "problem_id": 1669009
+      },
+      {
+        "max_retry": 1,
+        "index": 26,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "a950df43a5294750812cc170711f9b88",
+          "ProblemID": 1669010,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457663,
+          "TypeText": "判断题",
+          "Body": "同一种层次的聚类方法，选定的类间距度量不同，聚类的次序和结果也可能不同。",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457663
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:51",
+          "my_answer": [
+            "true"
+          ]
+        },
+        "problem_id": 1669010
+      },
+      {
+        "max_retry": 1,
+        "index": 27,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "7dca41b584b2434ba24736750f1c4fea",
+          "ProblemID": 1669011,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457664,
+          "TypeText": "判断题",
+          "Body": "&nbsp;STING算法是一种基于网格的多分辨率聚类技术。",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457664
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:51",
+          "my_answer": [
+            "true"
+          ]
+        },
+        "problem_id": 1669011
+      },
+      {
+        "max_retry": 1,
+        "index": 28,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "c84174be432042ba8e250ffdb81e9b41",
+          "ProblemID": 1669012,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457665,
+          "TypeText": "判断题",
+          "Body": "同一层次的聚类方法，选定的类间距度量不同，聚类的结果可能相同也可能不同。",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457665
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:53",
+          "my_answer": [
+            "true"
+          ]
+        },
+        "problem_id": 1669012
+      },
+      {
+        "max_retry": 1,
+        "index": 29,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "11545a8be5994d7e9017e6e30febd305",
+          "ProblemID": 1669013,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457666,
+          "TypeText": "判断题",
+          "Body": "一种正确选择簇数的启发式方法是使用簇内方差和关于簇数曲线的拐点。",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457666
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:54",
+          "my_answer": [
+            "true"
+          ]
+        },
+        "problem_id": 1669013
+      },
+      {
+        "max_retry": 1,
+        "index": 30,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "1dd980f77da54b439a4b713f593ab576",
+          "ProblemID": 1669014,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457667,
+          "TypeText": "判断题",
+          "Body": "层次聚类仅局限与基于距离，不能基于密度或空间。",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457667
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": false,
+          "my_score": "3.00",
+          "my_count": 1,
+          "submit_time": "2020-04-05 11:55",
+          "my_answer": [
+            "false"
+          ]
+        },
+        "problem_id": 1669014
+      }
+    ],
+    "answer_count": 30,
+    "exercise_id": 235667,
+    "name": "第8章 作业"
+  },
+  "success": true
+}

@@ -1,0 +1,1821 @@
+{
+  "msg": "",
+  "data": {
+    "max_retry": 1,
+    "description": "",
+    "show_answer": 0,
+    "show_answer_time": 0,
+    "is_show_answer": true,
+    "problems": [
+      {
+        "max_retry": 1,
+        "index": 1,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 2,
+          "Score": 3.0,
+          "ProblemID": 1668733,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457669,
+          "TypeText": "单选题",
+          "Body": "<p>数据仓库是随着时间变化的，下面的描述不正确的是（&nbsp;&nbsp;&nbsp; ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>捕捉到的新数据会覆盖原来的快照</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>数据仓库随时间的变化不断增加新的数据内容</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>数据仓库随着事件变化不断删去旧的数据内容</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>数据仓库中的综合数据会随着时间的变化不断地进行重新综合</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "ffbab47965964d28999455ea3543ad2f",
+          "HasRemark": false,
+          "template_id": 457669
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "submit_time": "2020-03-14 13:51",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668733
+      },
+      {
+        "max_retry": 1,
+        "index": 2,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 3,
+          "Score": 3.0,
+          "ProblemID": 1668734,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457670,
+          "TypeText": "单选题",
+          "Body": "<p>关于基本数据的元数据是指（&nbsp;&nbsp;&nbsp; ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>基本元数据包括与企业相关的管理方面的数据和信息</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>基本元数据包括日志文件和简历执行处理的时序调度信息</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>基本元数据包括数据源，数据仓库和应用程序等结构相关的信息</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>基本元数据包括关于装载和更新处理，分析处理以及管理方面的信息</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "b218f8c23f304d28ba039cdfa32c7f7b",
+          "HasRemark": false,
+          "template_id": 457670
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "submit_time": "2020-03-14 13:54",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668734
+      },
+      {
+        "max_retry": 1,
+        "index": 3,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "9e896286fbce4f81a9282c880c7eb040",
+          "ProblemID": 1668735,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457672,
+          "TypeText": "单选题",
+          "Body": "&nbsp;下面关于数据粒度的描述不正确的是（&nbsp;&nbsp;&nbsp; ）",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "数据越详细，粒度就越小，级别也就越高"
+            },
+            {
+              "key": "B",
+              "value": "粒度是指数据仓库小数据单元的详细程度和级别"
+            },
+            {
+              "key": "C",
+              "value": "数据综合度越高，粒度也就越大，级别也就越高"
+            },
+            {
+              "key": "D",
+              "value": "粒度的具体划分将直接影响数据仓库中的数据量以及查询质量"
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457672
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 13:55",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668735
+      },
+      {
+        "max_retry": 1,
+        "index": 4,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "c587f9c8b1db4205ac2e869cf4f77983",
+          "ProblemID": 1668736,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457673,
+          "TypeText": "单选题",
+          "Body": "有关数据仓库的开发特点，不正确的描述是（&nbsp;&nbsp;&nbsp; ）",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "数据仓库开发要从数据出发"
+            },
+            {
+              "key": "B",
+              "value": "数据仓库使用的需求在开发时就要明确"
+            },
+            {
+              "key": "C",
+              "value": "数据仓库的开发是一个不断循环的过程，是启发式的开发"
+            },
+            {
+              "key": "D",
+              "value": "在数据仓库环境中，并不存在操作型环境中所固定的和较确切的处理流，数据仓库中数据分析和处理更灵活，且没有固定的模式<br/><br/>"
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": true,
+          "template_id": 457673
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "explain": "",
+          "submit_time": "2020-03-14 13:57",
+          "answer": [
+            "A"
+          ],
+          "my_answer": [
+            "A"
+          ],
+          "is_show_explain": true
+        },
+        "problem_id": 1668736
+      },
+      {
+        "max_retry": 1,
+        "index": 5,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "3a388226cd664f1b96a80b2effa38540",
+          "ProblemID": 1668737,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457675,
+          "TypeText": "单选题",
+          "Body": "在有关数据仓库测试，下列说法不正确的是（&nbsp;&nbsp;&nbsp; ）",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "在完成数据仓库的实施过程中，需要对数据仓库进行各种测试"
+            },
+            {
+              "key": "B",
+              "value": "在数据仓库进行测试之前一般不必要制定非常详细的测试计划"
+            },
+            {
+              "key": "C",
+              "value": "系统测试需要对数据仓库的组件进行大量的功能测试和回归测试"
+            },
+            {
+              "key": "D",
+              "value": "当数据仓库的每个单独组件完成后，就需要对他们进行单元测试 <br/>"
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457675
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 13:58",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668737
+      },
+      {
+        "max_retry": 1,
+        "index": 6,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 3,
+          "Score": 3.0,
+          "ProblemID": 1668738,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457676,
+          "TypeText": "单选题",
+          "Body": "<p>OLAP技术的核心是（&nbsp;&nbsp;&nbsp; ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>在线性</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>快速响应</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>互操作性</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>多维分析</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "6b9ca2928fdc4fdabd630872540e64ce",
+          "HasRemark": false,
+          "template_id": 457676
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 13:58",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668738
+      },
+      {
+        "max_retry": 1,
+        "index": 7,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "2cfc62c823ae47b78e5f8189595e13ec",
+          "ProblemID": 1668739,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457677,
+          "TypeText": "单选题",
+          "Body": "关于OLAP和OLTP的说法，下列不正确的是（&nbsp;&nbsp;&nbsp; ）",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "OLAP管理大量历史数据，OLTP仅管理当前数据"
+            },
+            {
+              "key": "B",
+              "value": "OLAP主要用于事务和查询处理，而OLTP用于数据分析"
+            },
+            {
+              "key": "C",
+              "value": "OLAP中综合提炼的数据主要来自OLTP所依赖的底层数据库"
+            },
+            {
+              "key": "D",
+              "value": "OLAP数据较之OLTP数据要进行更多的数据维护或预处理的操作"
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457677
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 14:01",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668739
+      },
+      {
+        "max_retry": 1,
+        "index": 8,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "b277303cb21543489ecd75969fb12c9c",
+          "ProblemID": 1668740,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457678,
+          "TypeText": "单选题",
+          "Body": "数据仓库设计的三级数据模型不包含（&nbsp;&nbsp;&nbsp; ）",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "概念模型"
+            },
+            {
+              "key": "B",
+              "value": "逻辑模型"
+            },
+            {
+              "key": "C",
+              "value": "关系模型"
+            },
+            {
+              "key": "D",
+              "value": "物理模型"
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457678
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 14:01",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668740
+      },
+      {
+        "max_retry": 1,
+        "index": 9,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 3,
+          "Score": 3.0,
+          "ProblemID": 1668741,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457679,
+          "TypeText": "单选题",
+          "Body": "<p>改变数据立方体维次序的操作是（&nbsp;&nbsp;&nbsp; ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>切片</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>切块</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>上卷</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>旋转<br/><br/></p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "902aaab965ff42c2a10d974dd8442b77",
+          "HasRemark": false,
+          "template_id": 457679
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 14:02",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668741
+      },
+      {
+        "max_retry": 1,
+        "index": 10,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 0,
+          "Score": 3.0,
+          "ProblemID": 1668742,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457680,
+          "TypeText": "单选题",
+          "Body": "<p>在给定的数据立方体的一个维度上进行的选择操作为（&nbsp;&nbsp;&nbsp; ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>切片</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>切块</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>下卷</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>旋转</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "1fcfbd01180e4d9090a86cbcd862c21b",
+          "HasRemark": false,
+          "template_id": 457680
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "submit_time": "2020-03-14 14:02",
+          "answer": [
+            "A"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668742
+      },
+      {
+        "max_retry": 1,
+        "index": 11,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Score": 3.0,
+          "ProblemID": 1668743,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457681,
+          "TypeText": "单选题",
+          "Body": "<p>下列选项中关于粒度描述错误的是：</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>粒度是指数据仓库的数据单位中保存数据细化或综合程度的级别；</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>粒度影不响存放在数据仓库中的数据量的大小</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>粒度影响数据仓库所能回答查询问题的细节程度；</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>粒度组织数据的方式有：①简单堆积结构；②轮转综合结构；③简单直接结构；④连续结构。</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "810f188f14754fb082ccc4bc447f36f8",
+          "HasRemark": false,
+          "template_id": 457681
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 14:11",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668743
+      },
+      {
+        "max_retry": 1,
+        "index": 12,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 3,
+          "Version": "e4df305d74594c779315e9b6a292960f",
+          "ProblemID": 1668744,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457682,
+          "TypeText": "单选题",
+          "Body": "<p>简述数据仓库设计的三级模型及其基本内容,不正确的是。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>概念模型设计：对问题域内事务进行描述，是在较高的抽象层次上的设计，其主要内容包括：界定系统边界和确定主要的主题域；</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p>逻辑模型设计：对概念模型细化，定义实体属性及其关系，主要内容包括：分析主题域、确定粒度层次划分、确定数据分割策略、定义关系模式、定义记录系统；</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p>&nbsp;物理数据模型设计：在数据库中建立表及索引，主要内容包括确定数据存储结构、确定数据存放位置、确定存储分配以及确定索引策略等。</p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>三种模型设计时主要考虑的因素有I/O存取时间、空间利用率和维护代价等。</p>"
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457682
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "submit_time": "2020-03-14 14:16",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668744
+      },
+      {
+        "max_retry": 1,
+        "index": 13,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "ProblemID": 1668745,
+          "Score": 4.0,
+          "Body": "<p>关于OLAP的特性，下面正确的是（&nbsp;&nbsp;&nbsp; ）</p>",
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 4.0,
+          "TemplateID": 457684,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>集成性</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>快速性</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>多维性</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>可分析性</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "0d6319edf92f42f790181c9ec2a26f89",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457684
+        },
+        "score": 4.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "my_answers": {
+            "A": false,
+            "C": true,
+            "B": true,
+            "D": true
+          },
+          "submit_time": "2020-03-14 14:17",
+          "answer": [
+            "B",
+            "C",
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668745
+      },
+      {
+        "max_retry": 1,
+        "index": 14,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": null,
+          "Version": "678b2440a8a245f494f0017e9e47a023",
+          "ProblemID": 1668746,
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 4.0,
+          "TemplateID": 457685,
+          "TypeText": "多选题",
+          "Body": "&nbsp;数据模型是数据仓库建设的基础，一个完整、灵活、稳定的数据模型对数据仓库项目的成功起到的重要作用有（&nbsp;&nbsp;&nbsp; ）",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "利于数据的整合"
+            },
+            {
+              "key": "B",
+              "value": "消除数据仓库的冗余数据"
+            },
+            {
+              "key": "C",
+              "value": "排除数据描述的不一致性"
+            },
+            {
+              "key": "D",
+              "value": "为整个系统建设提供导航图"
+            }
+          ],
+          "isEdit": false,
+          "Score": 4.0,
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457685
+        },
+        "score": 4.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "4.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "A": true,
+            "C": true,
+            "B": true,
+            "D": true
+          },
+          "submit_time": "2020-03-14 14:19",
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668746
+      },
+      {
+        "max_retry": 1,
+        "index": 15,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "ProblemID": 1668747,
+          "Version": "49e5aaca056949b69f0240bd82478a2b",
+          "Body": "<p>根据使用情况的不同，元数据可以分为（&nbsp;&nbsp;&nbsp; ）</p>",
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 4.0,
+          "TemplateID": 457686,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>静态元数据</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>技术元数据</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>业务元数据</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>动态元数据</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 4.0,
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457686
+        },
+        "score": 4.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "my_answers": {
+            "A": false,
+            "C": true,
+            "B": true,
+            "D": false
+          },
+          "submit_time": "2020-03-14 14:19",
+          "answer": [
+            "B",
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668747
+      },
+      {
+        "max_retry": 1,
+        "index": 16,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "ProblemID": 1668748,
+          "Score": 4.0,
+          "Body": "<p>关于数据仓库的逻辑模型，正确的说法有（&nbsp;&nbsp;&nbsp; ）</p>",
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 4.0,
+          "TemplateID": 457687,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>是数据仓库设计中的核心基础</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>对概念数据模型的分解和细化</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>对物理模型设计和实现具有指导作用</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>为全局服务，集成全方位数据形成统一蓝图</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "a253adaf1fee42319923ed2b1568897e",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457687
+        },
+        "score": 4.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "my_answers": {
+            "A": true,
+            "C": true,
+            "B": true,
+            "D": false
+          },
+          "submit_time": "2020-03-14 14:22",
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668748
+      },
+      {
+        "max_retry": 1,
+        "index": 17,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 3,
+          "Version": "f2b7f92459364ae08453880d252dbb1c",
+          "ProblemID": 1668749,
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 5.0,
+          "TemplateID": 457688,
+          "TypeText": "多选题",
+          "Body": "关于OLAP和OLTP的区别描述，正确的是（&nbsp;&nbsp;&nbsp; ）",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "OLAP是信息处理，OLTP是操作处理 <br/>"
+            },
+            {
+              "key": "B",
+              "value": ".OLAP面向底层管理人员，OLTP面向高层决策人员"
+            },
+            {
+              "key": "C",
+              "value": "OLAP管理大量历史数据，OLTP主要关注当前数据"
+            },
+            {
+              "key": "D",
+              "value": "OLAP数据是细节性数据，OLTP数据则是综合性数据"
+            }
+          ],
+          "isEdit": false,
+          "Score": 5.0,
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457688
+        },
+        "score": 5.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "5.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "A": true,
+            "C": true
+          },
+          "submit_time": "2020-03-14 14:23",
+          "answer": [
+            "A",
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668749
+      },
+      {
+        "max_retry": 1,
+        "index": 18,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "1fb4d825ac584dedb91a3dab5ea083bc",
+          "ProblemID": 1668751,
+          "Type": "FillBlank",
+          "Body": "<p>OLAP按照数据存储格式划分，实现方式有&nbsp;<span class=\"blank-item\" style=\"display: inline-block;\">[填空1]</span>、<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>和HOLAP三种</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 6.0,
+          "TemplateID": 457690,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 6.0,
+          "HasRemark": false,
+          "template_id": 457690
+        },
+        "score": 6.0,
+        "blank_count": 2,
+        "problem_id": 1668751,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "6.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "ROLAP  "
+            ],
+            "2": [
+              "MOLAP"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "ROLAP",
+              "is_right": true
+            },
+            "2": {
+              "answer": "MOLAP",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-14 14:24",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 19,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "354c195bda984cca81f6f9c53f519018",
+          "ProblemID": 1668753,
+          "Type": "FillBlank",
+          "Body": "<p>根据使用情况的不同，元数据可以分为<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>和业务元数据；根据数据状态的区别又可分为<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>和动态元数据。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 6.0,
+          "TemplateID": 457692,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 6.0,
+          "HasRemark": false,
+          "template_id": 457692
+        },
+        "score": 6.0,
+        "blank_count": 2,
+        "problem_id": 1668753,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "6.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "技术元数据  "
+            ],
+            "2": [
+              "静态元数据"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "技术元数据",
+              "is_right": true
+            },
+            "2": {
+              "answer": "静态元数据",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-14 14:24",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 20,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 9.0,
+          "ProblemID": 1668756,
+          "Type": "FillBlank",
+          "Body": "<p>数据仓库按照设计顺序，依次分为<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>、<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>&nbsp;和<span class=\"blank-item\" style=\"display:inline-block;\">[填空3]</span>三个设计步骤</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 1,
+              "FuzzyMatch": true
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 2,
+              "FuzzyMatch": true
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 3,
+              "FuzzyMatch": true
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 9.0,
+          "TemplateID": 457695,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "d836995718394f6c843fbfbe0e8550da",
+          "HasRemark": false,
+          "template_id": 457695
+        },
+        "score": 9.0,
+        "blank_count": 3,
+        "problem_id": 1668756,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "9.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "概念模型设计  "
+            ],
+            "3": [
+              "  物理模型设计"
+            ],
+            "2": [
+              "逻辑模型设计"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "概念模型设计",
+              "is_right": true
+            },
+            "3": {
+              "answer": "物理模型设计",
+              "is_right": true
+            },
+            "2": {
+              "answer": "逻辑模型设计",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-14 14:26",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 21,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "2d2efd15b9b54c30bbc5e5eb3d2230dc",
+          "ProblemID": 1668762,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457701,
+          "TypeText": "判断题",
+          "Body": "OLAP技术侧重于把数据库中的数据进行分析、转换成辅助决策信息，是继数据库技术发展之后迅猛发展起来的一种新技术",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457701
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 14:26",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668762
+      },
+      {
+        "max_retry": 1,
+        "index": 22,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "30d37aa25b674caca75815fc60bc9fc1",
+          "ProblemID": 1668763,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457702,
+          "TypeText": "判断题",
+          "Body": "数据仓库中间层OLAP服务器只能采用关系型OLAP。",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457702
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 14:26",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668763
+      },
+      {
+        "max_retry": 1,
+        "index": 23,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "85beec0c584f4b29a83b684ac1c89d06",
+          "ProblemID": 1668764,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457703,
+          "TypeText": "判断题",
+          "Body": "<p>数据仓库系统的组成部分包括数据仓库，仓库管理，数据抽取，分析工具等四个部分。</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457703
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 14:29",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668764
+      },
+      {
+        "max_retry": 1,
+        "index": 24,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "31707e78cbca447392cdf162cf2e6200",
+          "ProblemID": 1668765,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457704,
+          "TypeText": "判断题",
+          "Body": "数据仓库测试工作中主要包括单元测试和系统测试。",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457704
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 14:30",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668765
+      },
+      {
+        "max_retry": 1,
+        "index": 25,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "58a1d8e313084ec5a176615150fb8fc6",
+          "ProblemID": 1668766,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457705,
+          "TypeText": "判断题",
+          "Body": "<p>改变数据立方体维度的操作称为下钻。</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457705
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 14:31",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668766
+      },
+      {
+        "max_retry": 1,
+        "index": 26,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "7345b4c69e43408e999bed3e35ddc4e4",
+          "ProblemID": 1668767,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457706,
+          "TypeText": "判断题",
+          "Body": "数据仓库实际的三级模型中的概念模型不是对软件实际的描述。",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457706
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 14:31",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668767
+      },
+      {
+        "max_retry": 1,
+        "index": 27,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 2,
+          "Score": 5.0,
+          "ProblemID": 3072766,
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 5.0,
+          "TemplateID": 1048080,
+          "TypeText": "多选题",
+          "Body": "<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; display: inline;\">&nbsp;数据仓库就是一个面向什么的数据集合？</p><p><br/></p><p><br/></p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>主题的</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p>集成的</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p>非易失的</p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>时变</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "82dbfa65bc384acb828977ab360585ab",
+          "HasRemark": false,
+          "awardingRule": 0,
+          "template_id": 1048080
+        },
+        "score": 5.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "5.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "A": true,
+            "C": true,
+            "B": true,
+            "D": true
+          },
+          "submit_time": "2020-03-14 14:31",
+          "answer": [
+            "D",
+            "C",
+            "B",
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 3072766
+      },
+      {
+        "max_retry": 1,
+        "index": 28,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 2,
+          "Version": "d30a96c3e79147028b9e5eb2aa8d6c13",
+          "ProblemID": 3072767,
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 5.0,
+          "TemplateID": 1048083,
+          "TypeText": "多选题",
+          "Body": "<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; padding: 0px; display: inline;\">&nbsp;数据仓库体系结构通常采用一种三层体系结构，底层、中间层、顶层分别通常为什么？</p><p><br/></p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>OLAP服务器</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p>数据仓库服务器</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p>前端工具</p>"
+            },
+            {
+              "key": "D",
+              "value": "<p><span style=\"color: #606266; font-family: &quot;PingFang Sc&quot;, DIN-Medium, DIN, arial, &quot;Helvetica Neue&quot;, tahoma, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 宋体; background-color: #F5F7FA;\">OLAP操作</span></p>"
+            }
+          ],
+          "isEdit": false,
+          "Score": 5.0,
+          "HasRemark": false,
+          "awardingRule": 0,
+          "template_id": 1048083
+        },
+        "score": 5.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "5.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "A": true,
+            "C": true,
+            "B": true
+          },
+          "submit_time": "2020-03-14 14:32",
+          "answer": [
+            "C",
+            "B",
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 3072767
+      }
+    ],
+    "answer_count": 28,
+    "exercise_id": 235663,
+    "name": "第4章 作业"
+  },
+  "success": true
+}

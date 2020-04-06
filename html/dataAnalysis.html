@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>数据挖掘作业</title>
+    <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+    <link href="https://cdn.bootcss.com/twitter-bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <style>
+        .list-group-item p{
+            display: inline-block;
+        }
+        .panel-body p{
+            display: inline-block;
+        }
+
+        .panel-body img{
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1 class="text-center">数据挖掘作业</h1>
+    <div class="row">
+        <div class="col-md-12" id="show_body">
+            
+        </div>
+    </div>
+</div>
+
+<script>
+<!--    读取json文件并将其显示在html文档中  -->
+
+    $(document).ready(function () {
+        $.ajaxSettings.async = false;  //ajax同步执行，防止文件的顺序被破坏
+        for(var i=0; i<9; i++){
+            var path = "../homework/23566"+i+".json";
+            get_json_file(path)
+        }
+
+    });
+
+
+    function get_json_file(path) {
+        $.getJSON(path, function (data) {
+            if(data.success){
+                read_problems(data)
+            }
+        })
+    }
+    
+    function read_problems(data){
+         var problems = data.data.problems;
+        // console.log(problems);
+        console.log(data.data.name)
+        $("#show_body").append($("<h2></h2>").addClass("text-center").text(data.data.name));
+        for(var i =0; i<problems.length; i++){
+            var problem = problems[i];
+            // console.log(problem)
+            var type = problem.content.Type;
+            switch (type) {
+                case 'SingleChoice': SingleChoice(i, problem); break;
+                case 'MultipleChoice': MultiChoice(i, problem); break;
+                case 'FillBlank': FillBlank(i, problem); break;
+                case 'Judgement': Judgement(i, problem); break;
+                default:
+                    console.log("这个problem类型错误！"+ problem);
+                    break;
+            }
+        }
+    }
+    
+    function SingleChoice(index, problem){
+        var question = problem.content.Body;
+        var type = problem.content.TypeText;
+        var options = problem.content.Options;
+
+
+        var html_options = $("<ul></ul>").addClass("list-group");
+        for(var i=0; i<options.length; i++){
+            var option = options[i];
+            $("<li></li>").addClass("list-group-item").html(""+option.key +". "+ option.value).appendTo(html_options);
+        }
+
+        var parent = $("<div></div>").addClass("panel panel-success");
+        var body = $("<div></div>").addClass("panel-body");
+        var html_type = $("<span></span>").addClass("label label-primary").text(type) ;
+
+        var head = $("<div></div>").addClass("panel-heading").text((index+1)+ "、 ").append(html_type);
+        parent.append(head);
+        body.append(question);
+        body.append(html_options);
+
+        if(problem.user.hasOwnProperty('answer')){
+            var answer = problem.user.answer;
+            var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-success").text("[答案] "+answer[0]));
+
+        }else{
+            var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-danger").text("[答案] 暂时没有答案"));
+        }
+          body.append(html_answer);
+
+        parent.append(body).appendTo($("#show_body"));
+
+    }
+    
+    function MultiChoice(index, problem) {
+        var question = problem.content.Body;
+        var options = problem.content.Options;
+        var type = problem.content.TypeText;
+
+        var html_options = $("<ul></ul>").addClass("list-group");
+        for(var i=0; i<options.length; i++){
+            var option = options[i];
+            $("<li></li>").addClass("list-group-item").html(""+option.key +". "+ option.value).appendTo(html_options);
+        }
+
+        var parent = $("<div></div>").addClass("panel panel-info");
+        var body = $("<div></div>").addClass("panel-body");
+        var html_type = $("<span></span>").addClass("label label-success").text(type) ;
+        var head = $("<div></div>").addClass("panel-heading").text((index+1)+ "、 ").append(html_type);
+        parent.append(head);
+        body.append(question);
+        body.append(html_options);
+
+        if(problem.user.hasOwnProperty('answer')){
+            var answer = problem.user.answer;
+            var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-success").text("[答案] "+answer.join(",")));
+        }else{
+            var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-danger").text("[答案]: 暂时不存在"));
+        }
+        body.append(html_answer);
+        parent.append(body).appendTo($("#show_body"));
+        
+    }
+    
+    function FillBlank(index, problem) {
+        var question = problem.content.Body;
+        var type = problem.content.TypeText;
+
+        var parent = $("<div></div>").addClass("panel panel-primary");
+        var body = $("<div></div>").addClass("panel-body");
+        var html_type = $("<span></span>").addClass("label label-warning").text(type) ;
+
+        var head = $("<div></div>").addClass("panel-heading").text((index+1)+ "、 ").append(html_type);
+        parent.append(head);
+        body.append(question);
+
+        if(problem.user.hasOwnProperty('answers')){
+            var answer = problem.user.answers;
+            var html_an = $("<li></li>").addClass("list-group-item list-group-item-success").text("[答案]");
+            for(var an in answer){
+                html_an.append(answer[an].join(",")).append(";&nbsp;&nbsp;");
+            }
+            var html_answer = $("<ul></ul>").addClass("list-group").append(html_an);
+        }else{
+            var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-danger").text("[答案]: 暂时不存在"));
+        }
+        body.append(html_answer);
+        parent.append(body).appendTo($("#show_body"));
+    }
+    
+    function Judgement(index, problem) {
+        var question = problem.content.Body;
+        var options = problem.content.Options;
+
+        var type = problem.content.TypeText;
+
+        var parent = $("<div></div>").addClass("panel panel-default");
+        var body = $("<div></div>").addClass("panel-body");
+        var html_type = $("<span></span>").addClass("label label-info").text(type) ;
+        // var html_an = $("<li></li>").addClass("list-group-item list-group-item-success").text("[答案]");
+        var head = $("<div></div>").addClass("panel-heading").text((index+1)+ "、 ").append(html_type);
+        parent.append(head);
+        body.append(question);
+
+        if(problem.user.hasOwnProperty('answer')){
+            var answer = problem.user.answer;
+            var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-success").text("[答案] "+(answer[0] == "true"?"对":"错")));
+        }else{
+            var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-danger").text("[答案]: 暂时不存在"));
+        }
+        body.append(html_answer);
+        parent.append(body).appendTo($("#show_body"));
+    }
+</script>
+
+
+</body>
+</html>

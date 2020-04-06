@@ -1,0 +1,2679 @@
+{
+  "msg": "",
+  "data": {
+    "max_retry": 1,
+    "description": "",
+    "show_answer": 0,
+    "show_answer_time": 0,
+    "is_show_answer": true,
+    "problems": [
+      {
+        "max_retry": 1,
+        "index": 1,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 3,
+          "Score": 2.0,
+          "ProblemID": 1668768,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457475,
+          "TypeText": "单选题",
+          "Body": "<p>回归分析中使用的距离是点到直线的垂直坐标距离，最小二乘准则是指（&nbsp; &nbsp; ）。</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205740850332700672.png\" alt=\"image.png\"/></p>",
+              "key": "A"
+            },
+            {
+              "value": "<p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205740914073538560.png\" alt=\"image.png\"/></p>",
+              "key": "B"
+            },
+            {
+              "value": "<p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205740972231757824.png\" alt=\"image.png\"/></p>",
+              "key": "C"
+            },
+            {
+              "value": "<p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205741066133835776.png\" alt=\"image.png\"/></p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "949a50d36a9e43e1bc4379d00774f75f",
+          "HasRemark": false,
+          "template_id": 457475
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 18:26",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668768
+      },
+      {
+        "max_retry": 1,
+        "index": 2,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 2,
+          "Score": 2.0,
+          "ProblemID": 1668769,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457366,
+          "TypeText": "单选题",
+          "Body": "<p>回归分析的步骤为（&nbsp; &nbsp; ）。</p><p>① 进行相关分析 ② 建立预测模型&nbsp; ③ 确定变量&nbsp; ④ 确定预测值&nbsp; ⑤ 计算预测误差</p><p><br/></p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>①③④⑤②</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>③①⑤②④</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>③②①⑤④</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>③⑤①②④</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "c0222d56cf3d4d279a73280cbcef1cd6",
+          "HasRemark": false,
+          "template_id": 457366
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 18:27",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668769
+      },
+      {
+        "max_retry": 1,
+        "index": 3,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 0,
+          "Version": "f6cca681943444ecb47d406e60a34343",
+          "ProblemID": 1668770,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "problem_id": 1668770,
+          "score": 2.0,
+          "TemplateID": 457373,
+          "TypeText": "单选题",
+          "Body": "<p>下列变量之间的关系是函数关系的是（&nbsp; &nbsp; ）。</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>已知二次函数y＝ax2+bx+c，其中a，c是已知常数，取b为自变量，因变量是这个函数的判别式Δ＝b2－4ac。</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>光照时间和果树亩产量</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>降雪量和交通事故发生率</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>每亩施用肥料量和粮食产量</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457373
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 18:30",
+          "answer": [
+            "A"
+          ],
+          "my_answer": [
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668770
+      },
+      {
+        "max_retry": 1,
+        "index": 4,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 3,
+          "Version": "9e069b2d831c40abad23be80d35edff8",
+          "ProblemID": 1668771,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457478,
+          "TypeText": "单选题",
+          "Body": "<p>对于回归分析，下列说法错误的是（&nbsp; &nbsp; ）。</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>在回归分析中，变量间的关系若是非确定性关系，那么因变量不能由自变量唯一确定</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>线性相关系数可以是正的，也可以是负的</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>.回归分析中，如果<img class=\"kfformula\" style=\"vertical-align: middle;\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAAuCAYAAAB+vtSwAAABjElEQVRoQ+2YsUoDQRRFT8TGysImtb+hjY1+gkiwjNbaa2NnIwgW1tEfECzENn6BlZ21IDaChSAyZBbGZNRHYObtwg0saSY7886euW82PfSZIdATk1kCgpKxQlAExRYWMkWmyBQbAZli46RMkSndN2UJOAP2k1KOgRNbafOPavP2GQCrCYQV4Bp4Bg6Aj/nL/vuXbYaSW/kacAFsA0+CMiEgKBkTwpbaBcL3q0yZWDIGiodtVzIlmHEFXJYO2WCfN5QFYBn4BN4z26HpOFs1DGnmrwklLXA9ttTzGJ53mZxoxvdLd5vph+EFZQfYAzbignJQjiKwoqGaC2svKLfAI3AKvAGLwFe8wjobS0bxwFaq0WTv6wXlBhgCL79Um2613JCiHcgLymF8r6lqgHUyLyibwL11kbXHeUEJ3eehdrHW+QTF+U+m6XOKTEnabDidavtEQ2XKP+8xMkWmWPtei8fVbMktxvBzaYLifE6RKZ0hIFNsj0qZIlNkio2ATLFxUqbIFJliIyBTbJy+Afb3QS9wKhy6AAAAAElFTkSuQmCC\" data-display=\"inline-block\" data-slatex=\"{r}^{2}\" data-latex=\"{r}^{2}\"/>=1，说明x与y之间完全相关</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>样本相关系数r∈(-1,1)</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457478
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 18:32",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668771
+      },
+      {
+        "max_retry": 1,
+        "index": 5,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Version": "6a988d46d0a34dd393e81f09ed911e9c",
+          "ProblemID": 1668772,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "problem_id": 1668772,
+          "score": 2.0,
+          "TemplateID": 457383,
+          "TypeText": "单选题",
+          "Body": "<p>某地区调查了2~9岁儿童的身高，由此建立的身高y（cm）与年龄x（岁）的回归模型为ŷ=8.25x+60.13，下列叙述正确的是（&nbsp; &nbsp; ）。</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>该地区一个儿童的身高为142.63cm</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>该地区2~9岁的儿童每年的身高约增加8.25cm</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>该地区9岁儿童的平均身高是134.38cm</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>利用这个模型可以准确地预测该地区每个2~9岁儿童的身高</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457383
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 18:33",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668772
+      },
+      {
+        "max_retry": 1,
+        "index": 6,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 0,
+          "Score": 2.0,
+          "ProblemID": 1668773,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457485,
+          "TypeText": "单选题",
+          "Body": "<p>已知对一组观察值做出散点图后确定具有线性相关关系，若对于y=bx+a，求得b=0.51， x̅=61.75&quot; ， y̅=38.14 ，则线性回归方程为（&nbsp; &nbsp; ）。</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>&nbsp;y = 0.51x + 6.65&nbsp;</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>y = 6.65x + 0.51</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>y = 0.51x + 42.30</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>y = 42.30x + 0.51</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "93b0bdc6458c4fdf833ea1d3128c9348",
+          "HasRemark": false,
+          "template_id": 457485
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 18:37",
+          "answer": [
+            "A"
+          ],
+          "my_answer": [
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668773
+      },
+      {
+        "max_retry": 1,
+        "index": 7,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 2,
+          "Version": "1a22ce4ec35e441c95998f8327fd22ad",
+          "ProblemID": 1668774,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457488,
+          "TypeText": "单选题",
+          "Body": "<p>下表是x和y之间的一组数据，则y关于x的回归方程必过（&nbsp; &nbsp;）。</p><p><br/></p><p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205743689922646016.png\" alt=\"image.png\"/></p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>点(2, 3)</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>点(1.5, 4)</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>点(2.5, 4)</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>点(2.5, 5)</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457488
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 19:14",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668774
+      },
+      {
+        "max_retry": 1,
+        "index": 8,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Version": "04087c1a16364bf489ae69699db556ad",
+          "ProblemID": 1668775,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "problem_id": 1668775,
+          "score": 2.0,
+          "TemplateID": 457392,
+          "TypeText": "单选题",
+          "Body": "<p>反映由模型中解释变量所解释的那部分离差大小的是（&nbsp; &nbsp; ）。</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>总离差平方和</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>回归平方和</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>残差平方和</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>可决系数</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457392
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 19:14",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668775
+      },
+      {
+        "max_retry": 1,
+        "index": 9,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Score": 2.0,
+          "ProblemID": 1668776,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "problem_id": 1668776,
+          "score": 2.0,
+          "TemplateID": 457396,
+          "TypeText": "单选题",
+          "Body": "<p>总离差平方和TSS、残差平方和RSS与回归平方和ESS三者的关系是（&nbsp; &nbsp; ）。</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>TSS&gt;RSS+ESS</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>TSS＝RSS＋ESS</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>TSS&lt;RSS+ESS</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p><img class=\"kfformula\" style=\"vertical-align: middle;\" src=\"data:image/png;base64,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\" data-display=\"inline-block\" data-slatex=\"{TSS}^{2}={RSS}^{2}+{ESS}^{2}\" data-latex=\"{TSS}^{2}={RSS}^{2}+{ESS}^{2}\"/></p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "a9f65b9356774e2ea1f164cffde1f2b3",
+          "HasRemark": false,
+          "template_id": 457396
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 19:15",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668776
+      },
+      {
+        "max_retry": 1,
+        "index": 10,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 2,
+          "Score": 2.0,
+          "ProblemID": 1668777,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "problem_id": 1668777,
+          "score": 2.0,
+          "TemplateID": 457400,
+          "TypeText": "单选题",
+          "Body": "<p>决定系数<img class=\"kfformula\" style=\"vertical-align: middle;\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAAuCAYAAACCq/96AAACWklEQVRoQ+3YP+hNYRzH8dePQcLComwWkYQkZbIwyKYofyZiZJESA5EUigz+bP7HwMDAREYmpWTwZ7JQMsjgT0+dW7fbuZ37vXXueX48z3K6936e83y/7/P5fp/n3CllhAhMhdRFrAALmqAAK8CCBILy4rACLEggKC8OK8CCBILy4rACLEggKJ+uDpuN89jXl+8xnAjmH5ZPV2A7sLgP0ALcxAccxI8wiREnTBrYXMyqie03viFdxx3rcQnb8HbcmzTNmzSwozg+JKiveFiV2uumwGt+/6eBJQd8rJJO/Wgl5lWf0/cH8CAILZXpLqTrl+DckeVdOWywQc/AapzERjzDbnwaMZPkrhdovfHnAqzHZQXuYGkF7ukIwJKjbuBy2w0/xZIbsN5utwk7q51vGLN+bevO6gWRM7DtuDuEVg/WwrZ3xcH1cwO2tq/Zb8GrIcDSbpv6VqsNvm7tnIClg+gFbMZZHMHPmqB77rreULIjtL+4pCtgj/G8CjcdJ9YhuSuNiziN7w3lmPpc3Wi1n3UFrC7ReziM9/gTf/aTmdEVsKu4VaW4qnqJXlKdo84MKcXJEGlYpStgg2WzHNewDPtxO1eX5QIsPdd0jLiCN9UrzrssLDUQRE7A5lQv3nsbdslOOeYELIFYg/uYj6140imdmsVzAzYTh3AKj7AHn3OClhuwxGYR0qF0QwXvHH7lAi1HYP0bQPpTMZXmy/8VWC55jx3HpB02dqC5TCzAgk+iACvAggSC8uKwAixIICgvDivAggSC8uKwAixIICgvDivAggSC8uKwILC/R9JxL2mYlW4AAAAASUVORK5CYII=\" data-display=\"inline-block\" data-slatex=\"{R}^{2}\" data-latex=\"{R}^{2}\"/>的取值范围是（&nbsp; &nbsp; ）。</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p><img class=\"kfformula\" style=\"vertical-align: middle;\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAAuCAYAAACCq/96AAACWklEQVRoQ+3YP+hNYRzH8dePQcLComwWkYQkZbIwyKYofyZiZJESA5EUigz+bP7HwMDAREYmpWTwZ7JQMsjgT0+dW7fbuZ37vXXueX48z3K6936e83y/7/P5fp/n3CllhAhMhdRFrAALmqAAK8CCBILy4rACLEggKC8OK8CCBILy4rACLEggKJ+uDpuN89jXl+8xnAjmH5ZPV2A7sLgP0ALcxAccxI8wiREnTBrYXMyqie03viFdxx3rcQnb8HbcmzTNmzSwozg+JKiveFiV2uumwGt+/6eBJQd8rJJO/Wgl5lWf0/cH8CAILZXpLqTrl+DckeVdOWywQc/AapzERjzDbnwaMZPkrhdovfHnAqzHZQXuYGkF7ukIwJKjbuBy2w0/xZIbsN5utwk7q51vGLN+bevO6gWRM7DtuDuEVg/WwrZ3xcH1cwO2tq/Zb8GrIcDSbpv6VqsNvm7tnIClg+gFbMZZHMHPmqB77rreULIjtL+4pCtgj/G8CjcdJ9YhuSuNiziN7w3lmPpc3Wi1n3UFrC7ReziM9/gTf/aTmdEVsKu4VaW4qnqJXlKdo84MKcXJEGlYpStgg2WzHNewDPtxO1eX5QIsPdd0jLiCN9UrzrssLDUQRE7A5lQv3nsbdslOOeYELIFYg/uYj6140imdmsVzAzYTh3AKj7AHn3OClhuwxGYR0qF0QwXvHH7lAi1HYP0bQPpTMZXmy/8VWC55jx3HpB02dqC5TCzAgk+iACvAggSC8uKwAixIICgvDivAggSC8uKwAixIICgvDivAggSC8uKwILC/R9JxL2mYlW4AAAAASUVORK5CYII=\" data-display=\"inline-block\" data-slatex=\"{R}^{2}\" data-latex=\"{R}^{2}\"/>&lt;=1</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p><img class=\"kfformula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAAuCAYAAACCq/96AAACWklEQVRoQ+3YP+hNYRzH8dePQcLComwWkYQkZbIwyKYofyZiZJESA5EUigz+bP7HwMDAREYmpWTwZ7JQMsjgT0+dW7fbuZ37vXXueX48z3K6936e83y/7/P5fp/n3CllhAhMhdRFrAALmqAAK8CCBILy4rACLEggKC8OK8CCBILy4rACLEggKJ+uDpuN89jXl+8xnAjmH5ZPV2A7sLgP0ALcxAccxI8wiREnTBrYXMyqie03viFdxx3rcQnb8HbcmzTNmzSwozg+JKiveFiV2uumwGt+/6eBJQd8rJJO/Wgl5lWf0/cH8CAILZXpLqTrl+DckeVdOWywQc/AapzERjzDbnwaMZPkrhdovfHnAqzHZQXuYGkF7ukIwJKjbuBy2w0/xZIbsN5utwk7q51vGLN+bevO6gWRM7DtuDuEVg/WwrZ3xcH1cwO2tq/Zb8GrIcDSbpv6VqsNvm7tnIClg+gFbMZZHMHPmqB77rreULIjtL+4pCtgj/G8CjcdJ9YhuSuNiziN7w3lmPpc3Wi1n3UFrC7ReziM9/gTf/aTmdEVsKu4VaW4qnqJXlKdo84MKcXJEGlYpStgg2WzHNewDPtxO1eX5QIsPdd0jLiCN9UrzrssLDUQRE7A5lQv3nsbdslOOeYELIFYg/uYj6140imdmsVzAzYTh3AKj7AHn3OClhuwxGYR0qF0QwXvHH7lAi1HYP0bQPpTMZXmy/8VWC55jx3HpB02dqC5TCzAgk+iACvAggSC8uKwAixIICgvDivAggSC8uKwAixIICgvDivAggSC8uKwILC/R9JxL2mYlW4AAAAASUVORK5CYII=\" data-display=\"inline-block\" data-slatex=\"{R}^{2}\" data-latex=\"{R}^{2}\" style=\"white-space: normal; vertical-align: middle;\"/>&gt;=1</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>0&lt;<img class=\"kfformula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAAuCAYAAACCq/96AAACWklEQVRoQ+3YP+hNYRzH8dePQcLComwWkYQkZbIwyKYofyZiZJESA5EUigz+bP7HwMDAREYmpWTwZ7JQMsjgT0+dW7fbuZ37vXXueX48z3K6936e83y/7/P5fp/n3CllhAhMhdRFrAALmqAAK8CCBILy4rACLEggKC8OK8CCBILy4rACLEggKJ+uDpuN89jXl+8xnAjmH5ZPV2A7sLgP0ALcxAccxI8wiREnTBrYXMyqie03viFdxx3rcQnb8HbcmzTNmzSwozg+JKiveFiV2uumwGt+/6eBJQd8rJJO/Wgl5lWf0/cH8CAILZXpLqTrl+DckeVdOWywQc/AapzERjzDbnwaMZPkrhdovfHnAqzHZQXuYGkF7ukIwJKjbuBy2w0/xZIbsN5utwk7q51vGLN+bevO6gWRM7DtuDuEVg/WwrZ3xcH1cwO2tq/Zb8GrIcDSbpv6VqsNvm7tnIClg+gFbMZZHMHPmqB77rreULIjtL+4pCtgj/G8CjcdJ9YhuSuNiziN7w3lmPpc3Wi1n3UFrC7ReziM9/gTf/aTmdEVsKu4VaW4qnqJXlKdo84MKcXJEGlYpStgg2WzHNewDPtxO1eX5QIsPdd0jLiCN9UrzrssLDUQRE7A5lQv3nsbdslOOeYELIFYg/uYj6140imdmsVzAzYTh3AKj7AHn3OClhuwxGYR0qF0QwXvHH7lAi1HYP0bQPpTMZXmy/8VWC55jx3HpB02dqC5TCzAgk+iACvAggSC8uKwAixIICgvDivAggSC8uKwAixIICgvDivAggSC8uKwILC/R9JxL2mYlW4AAAAASUVORK5CYII=\" data-display=\"inline-block\" data-slatex=\"{R}^{2}\" data-latex=\"{R}^{2}\" style=\"white-space: normal; vertical-align: middle;\"/>&lt;1</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>-1&lt;<img class=\"kfformula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAAuCAYAAACCq/96AAACWklEQVRoQ+3YP+hNYRzH8dePQcLComwWkYQkZbIwyKYofyZiZJESA5EUigz+bP7HwMDAREYmpWTwZ7JQMsjgT0+dW7fbuZ37vXXueX48z3K6936e83y/7/P5fp/n3CllhAhMhdRFrAALmqAAK8CCBILy4rACLEggKC8OK8CCBILy4rACLEggKJ+uDpuN89jXl+8xnAjmH5ZPV2A7sLgP0ALcxAccxI8wiREnTBrYXMyqie03viFdxx3rcQnb8HbcmzTNmzSwozg+JKiveFiV2uumwGt+/6eBJQd8rJJO/Wgl5lWf0/cH8CAILZXpLqTrl+DckeVdOWywQc/AapzERjzDbnwaMZPkrhdovfHnAqzHZQXuYGkF7ukIwJKjbuBy2w0/xZIbsN5utwk7q51vGLN+bevO6gWRM7DtuDuEVg/WwrZ3xcH1cwO2tq/Zb8GrIcDSbpv6VqsNvm7tnIClg+gFbMZZHMHPmqB77rreULIjtL+4pCtgj/G8CjcdJ9YhuSuNiziN7w3lmPpc3Wi1n3UFrC7ReziM9/gTf/aTmdEVsKu4VaW4qnqJXlKdo84MKcXJEGlYpStgg2WzHNewDPtxO1eX5QIsPdd0jLiCN9UrzrssLDUQRE7A5lQv3nsbdslOOeYELIFYg/uYj6140imdmsVzAzYTh3AKj7AHn3OClhuwxGYR0qF0QwXvHH7lAi1HYP0bQPpTMZXmy/8VWC55jx3HpB02dqC5TCzAgk+iACvAggSC8uKwAixIICgvDivAggSC8uKwAixIICgvDivAggSC8uKwILC/R9JxL2mYlW4AAAAASUVORK5CYII=\" data-display=\"inline-block\" data-slatex=\"{R}^{2}\" data-latex=\"{R}^{2}\" style=\"white-space: normal; vertical-align: middle;\"/>&lt;1</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "f4de086fe01c4f44ab0f6ca97fab012f",
+          "HasRemark": false,
+          "template_id": 457400
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "submit_time": "2020-03-14 19:16",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668777
+      },
+      {
+        "max_retry": 1,
+        "index": 11,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Score": 2.0,
+          "ProblemID": 1668778,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457496,
+          "TypeText": "单选题",
+          "Body": "<p>回归分析中定义的（&nbsp; &nbsp; ）。</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>解释变量和被解释变量都是随机变量</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>解释变量为非随机变量，被解释变量为随机变量</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>解释变量和被解释变量都为非随机变量 </p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>解释变量为随机变量，被解释变量为非随机变量</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "97d36740e19146cab0823f46e28e6ff5",
+          "HasRemark": false,
+          "template_id": 457496
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "submit_time": "2020-03-14 19:17",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668778
+      },
+      {
+        "max_retry": 1,
+        "index": 12,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 2,
+          "Version": "588d040d7cc14654bda2e0e70410b6f9",
+          "ProblemID": 1668779,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "problem_id": 1668779,
+          "score": 2.0,
+          "TemplateID": 457411,
+          "TypeText": "单选题",
+          "Body": "<p>最大或然准则是按从模型中得到既得的n组样本观测值的什么最大的准则确定样本回归方程（&nbsp; &nbsp; ）。</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>离差平方和</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>均值</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>概率</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>方差</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457411
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 19:18",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668779
+      },
+      {
+        "max_retry": 1,
+        "index": 13,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Version": "4fbbe4f5f31742069a79f9eb55c6418b",
+          "ProblemID": 1668780,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457497,
+          "TypeText": "单选题",
+          "Body": "<p>下表为日本的汇率与汽车出口数量数据，其中X为平均汇率（日元/美元），Y为汽车出口数量（万辆）,那么，X与Y的相关系数为（&nbsp; &nbsp; ）。</p><p><br/></p><p><img src=\"http://sc0.ykt.io/ue_i/20200312/1238065362717773824.png\" alt=\"image.png\"/></p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>0.0769</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>0.9321</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>0.9203</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>0.0679</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457497
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 19:24",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668780
+      },
+      {
+        "max_retry": 1,
+        "index": 14,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 3,
+          "Score": 2.0,
+          "ProblemID": 1668782,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457499,
+          "TypeText": "单选题",
+          "Body": "<p>已知某农场通过试验取得早稻收获量与春季降雨量和春季温度的数据如下,则早稻收获量对春季降雨量和春季温度的二元线性回归方程为（&nbsp; &nbsp; ）。</p><p><br/></p><p><img src=\"http://sc0.ykt.io/ue_i/20200313/1238467937048858624.png\" alt=\"image.png\"/></p><p><br/></p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205749325838290944.png\" alt=\"image.png\"/></p>",
+              "key": "A"
+            },
+            {
+              "value": "<p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205749374030843904.png\" alt=\"image.png\"/></p>",
+              "key": "B"
+            },
+            {
+              "value": "<p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205749426036019200.png\" alt=\"image.png\"/></p>",
+              "key": "C"
+            },
+            {
+              "value": "<p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205749471535828992.png\" alt=\"image.png\"/></p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "4f53b72a8d46405bb3ecee4472cec8da",
+          "HasRemark": false,
+          "template_id": 457499
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 19:27",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668782
+      },
+      {
+        "max_retry": 1,
+        "index": 15,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 2,
+          "Version": "870e08c1433b43fe826be664577c02ac",
+          "ProblemID": 1668783,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457500,
+          "TypeText": "单选题",
+          "Body": "<p>为研究某市家庭收入与月平均生活支出的关系，该市统计部门随机调查了10个家庭，得数据如下,则回归直线方程为()。</p><p><img src=\"http://sc0.ykt.io/ue_i/20200313/1238469442770440192.png\" alt=\"image.png\"/><br/></p><p><br/></p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205749857499877376.png\" alt=\"image.png\"/></p>",
+              "key": "A"
+            },
+            {
+              "value": "<p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205749903586889728.png\" alt=\"image.png\"/></p>",
+              "key": "B"
+            },
+            {
+              "value": "<p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205749943143370752.png\" alt=\"image.png\"/></p>",
+              "key": "C"
+            },
+            {
+              "value": "<p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205750010109628416.png\" alt=\"image.png\"/></p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457500
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 19:34",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668783
+      },
+      {
+        "max_retry": 1,
+        "index": 16,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "Score": 3.0,
+          "ProblemID": 1668787,
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457504,
+          "TypeText": "多选题",
+          "Body": "<p>在回归分析中，检验线性相关显著性常用的三种检验方法，包含（&nbsp; &nbsp; ）。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>相关系数显著性检验法</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>t检验法</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>F检验法（即方差检验法）</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>χ2检验法</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "78c2c0e0dc69483e89723c89223fd8da",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457504
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "A": true,
+            "C": true,
+            "B": true
+          },
+          "submit_time": "2020-03-14 19:36",
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668787
+      },
+      {
+        "max_retry": 1,
+        "index": 17,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 2,
+          "ProblemID": 1668788,
+          "Score": 4.0,
+          "Body": "<p>回归方程<img src=\"http://sc0.ykt.io/ue_i/20191214/1205752778509651968.png\" alt=\"image.png\" class=\"loadingclass\"/>&nbsp; ,则下列说法不正确的有（&nbsp; &nbsp; ）。</p>",
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 4.0,
+          "TemplateID": 457505,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>&nbsp;y=1.5x - 15</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p>15是回归系数a</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p>1.5是回归系数a</p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>x=10时，y=0</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "8ba90c1477e7470fb60165854d5aaf88",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457505
+        },
+        "score": 4.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "my_answers": {
+            "A": true,
+            "C": false,
+            "B": true,
+            "D": true
+          },
+          "submit_time": "2020-03-14 19:39",
+          "answer": [
+            "D",
+            "B",
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668788
+      },
+      {
+        "max_retry": 1,
+        "index": 18,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 2,
+          "Score": 4.0,
+          "ProblemID": 1668789,
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 4.0,
+          "TemplateID": 457506,
+          "TypeText": "多选题",
+          "Body": "<p>下列关系中具有相关关系的是（&nbsp; &nbsp; ）。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>人的年龄与他拥有的财富之间的关系</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>曲线上的点与该点的坐标之间的关系</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>苹果的产量与气候之间的关系</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>森林中的同一种树木，其断面直径与高度之间的关系</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "6463fcddc18e48b5b76c1316762b8d73",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457506
+        },
+        "score": 4.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "4.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "A": true,
+            "C": true,
+            "D": true
+          },
+          "submit_time": "2020-03-14 19:41",
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668789
+      },
+      {
+        "max_retry": 1,
+        "index": 19,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "Score": 3.0,
+          "ProblemID": 1668790,
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457507,
+          "TypeText": "多选题",
+          "Body": "<p>下列变量中，属于正相关的是（&nbsp; &nbsp; ）。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>收入增加，储蓄额增加</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>产量增加，生产费用增加</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>收入增加，支出增加</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>价格下降，消费增加</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "9df286b1c66540a48da44bb34d2fb23e",
+          "HasRemark": true,
+          "awardingRule": 1,
+          "template_id": 457507
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "A": true,
+            "C": true,
+            "B": true
+          },
+          "submit_time": "2020-03-14 19:41",
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "explain": "",
+          "is_show_explain": true
+        },
+        "problem_id": 1668790
+      },
+      {
+        "max_retry": 1,
+        "index": 20,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "BlanksScore": [],
+          "Version": "357dbbb4acdb439dab6da09d49c7b6ad",
+          "ProblemID": 1668791,
+          "Type": "FillBlank",
+          "max_retry": 1,
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Num": 1,
+              "Score": 2,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Num": 2,
+              "Score": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 4.0,
+          "TemplateID": 457508,
+          "TypeText": "填空题",
+          "Body": "<p>回归分析按照涉及变量的多少，分为:<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span><span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span></p>",
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 4.0,
+          "HasRemark": false,
+          "template_id": 457508
+        },
+        "score": 4.0,
+        "blank_count": 2,
+        "problem_id": 1668791,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "4.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "一元回归分析"
+            ],
+            "2": [
+              "多元回归分析"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "一元回归分析",
+              "is_right": true
+            },
+            "2": {
+              "answer": "多元回归分析",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-14 19:42",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 21,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 2.5,
+          "ProblemID": 1668792,
+          "Type": "FillBlank",
+          "Body": "<p>&nbsp;若线性回归方程中的回归系数b = 0,则相关系数r为:<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Num": 1,
+              "Score": 2.5,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 2.5,
+          "TemplateID": 457509,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "994bacfb8bd0438399df104718b1cf35",
+          "HasRemark": false,
+          "template_id": 457509
+        },
+        "score": 2.5,
+        "blank_count": 1,
+        "problem_id": 1668792,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "0"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "0",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-14 19:42",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 22,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 3.0,
+          "ProblemID": 1668794,
+          "Type": "FillBlank",
+          "Body": "<p>某化工厂为预测产品的回收率y，需要研究它和原料有效成分含量x之间的相关关系，现取8对观测值，计算得<img src=\"http://sc0.ykt.io/ue_i/20191214/1205755131128320000.png\" alt=\"image.png\" class=\"loadingclass\"/>&nbsp;，则其线性回归方程为（系数保留两位小数）<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 1,
+              "FuzzyMatch": true
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457511,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "11fb600bc45c4ebab7bb578691f75909",
+          "HasRemark": false,
+          "template_id": 457511
+        },
+        "score": 3.0,
+        "blank_count": 1,
+        "problem_id": 1668794,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "y=2.62x+11.47",
+              "y=11.47+2.62x"
+            ]
+          },
+          "is_right": false,
+          "my_answers": {
+            "1": {
+              "answer": "y=-0.16x+37.04",
+              "is_right": false
+            }
+          },
+          "submit_time": "2020-03-14 19:47",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 23,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "00515329eacd486584db2d0a2fba6944",
+          "ProblemID": 1668795,
+          "Type": "FillBlank",
+          "Body": "<p>已知关于某设备的使用年限x与所支出的维修费用y（万元），有如下统计资料。若y对x呈线性相关关系，则回归直线方程&nbsp;<img src=\"http://sc0.ykt.io/ue_i/20191214/1205755595504881664.png\" alt=\"image.png\" class=\"loadingclass\"/>,表示的直线一定过定点：<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span></p><p><br/></p><p><img src=\"http://sc0.ykt.io/ue_i/20200313/1238470142913024000.png\" alt=\"image.png\"/></p><p><br/></p><p><br/></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 2,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457512,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457512
+        },
+        "score": 2.0,
+        "blank_count": 1,
+        "problem_id": 1668795,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "（4，5）"
+            ]
+          },
+          "is_right": false,
+          "my_answers": {
+            "1": {
+              "answer": "(4, 5)",
+              "is_right": false
+            }
+          },
+          "submit_time": "2020-03-14 19:49",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 24,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "02f662aa3c0b4ae5a0f1834447b056ad",
+          "ProblemID": 1668796,
+          "Type": "FillBlank",
+          "max_retry": 1,
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Num": 1,
+              "Score": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457513,
+          "TypeText": "填空题",
+          "Body": "<p>使用F检验对多元线性回归方程进行线性关系的显著性检验，所求F值越大，说明线性关系越：<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span></p>",
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457513
+        },
+        "score": 2.0,
+        "blank_count": 1,
+        "problem_id": 1668796,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "显著"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "显著",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-14 19:50",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 25,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 3.0,
+          "ProblemID": 1668797,
+          "Type": "FillBlank",
+          "Body": "<p>在使用决定系数R2对回归方程进行拟合优度检验时，R2越大表示回归方程的拟合程度越&nbsp; <span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>，R2越小表示回归方程的拟合程度越<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span> 。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Num": 1,
+              "Score": 2,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Num": 2,
+              "Score": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457527,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "be75ae9e5c63407184a5e23123f2e6b0",
+          "HasRemark": false,
+          "template_id": 457527
+        },
+        "score": 3.0,
+        "blank_count": 2,
+        "problem_id": 1668797,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "好"
+            ],
+            "2": [
+              "差"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "好",
+              "is_right": true
+            },
+            "2": {
+              "answer": "差",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-14 19:50",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 26,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "d493ee7ddee740738678051851e0a236",
+          "ProblemID": 1668799,
+          "Type": "FillBlank",
+          "max_retry": 1,
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Num": 1,
+              "Score": 3,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457516,
+          "TypeText": "填空题",
+          "Body": "<p><span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>是确定两种或两种以上变数间相互依赖的定量关系的一种统计分析方法。</p>",
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457516
+        },
+        "score": 3.0,
+        "blank_count": 1,
+        "problem_id": 1668799,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "回归分析"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "回归分析",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-14 19:51",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 27,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "73f7938ccca348338159a996fb0f3ba3",
+          "ProblemID": 1668803,
+          "Type": "FillBlank",
+          "Body": "<p>F检验运用服从F分布的统计量或方差比作为统计检验，通过<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span> 度量回归方程的线性关系是否显著</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 2,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457530,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457530
+        },
+        "score": 2.0,
+        "blank_count": 1,
+        "problem_id": 1668803,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "显著性水平",
+              "显著性水平检验"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "显著性水平",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-14 19:52",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 28,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 2.0,
+          "ProblemID": 1668805,
+          "Type": "FillBlank",
+          "max_retry": 1,
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 2,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457522,
+          "TypeText": "填空题",
+          "Body": "<p><span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>是指分类器/回归器正确地预测新的或先前未见过的数据的属性值/类标号的能力</p>",
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "a76693505e4e498dbcf1e5d8dc6c4cc1",
+          "HasRemark": false,
+          "template_id": 457522
+        },
+        "score": 2.0,
+        "blank_count": 1,
+        "problem_id": 1668805,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "准确率",
+              "分类准确率"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "分类准确率",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-14 19:52",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 29,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "a89e8f6451f4461d9374089750508f68",
+          "ProblemID": 1668808,
+          "Type": "FillBlank",
+          "max_retry": 1,
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Num": 1,
+              "Score": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457525,
+          "TypeText": "填空题",
+          "Body": "<p>当一些变量的值确定以后，另一些变量的值也随之完全确定的关系，这些变量间的关系完全是已知的，变量间的关系可以用函数关系表示，我们称之为<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span></p>",
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457525
+        },
+        "score": 2.0,
+        "blank_count": 1,
+        "problem_id": 1668808,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "确定性关系"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "确定性关系",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-14 19:54",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 30,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 2.0,
+          "ProblemID": 1668809,
+          "Type": "FillBlank",
+          "Body": "<p>&nbsp;变量之间有一定的依赖关系，变量之间虽然互相影响和制约，但由于受到无法估计和控制的因素的影响，使变量间的关系呈现不确定性，当一些变量的值确定以后，另一些变量值虽然随之变化，却不能完全确定，这时，变量间的关系就可以精确地用函数表示，即不能由一个或若干变量的值精确地确定另一个变量的值，我们称这样的关系为<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Num": 1,
+              "Score": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457533,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "2e8a634f400344ef9ea3bf36c47d82f9",
+          "HasRemark": false,
+          "template_id": 457533
+        },
+        "score": 2.0,
+        "blank_count": 1,
+        "problem_id": 1668809,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "非确定性关系"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "非确定性关系",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-14 19:55",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 31,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "78c823956f374af09887ae51da8f2020",
+          "ProblemID": 1668817,
+          "Type": "FillBlank",
+          "Body": "<p>在回归分析中：被解释变量y是<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>&nbsp; 、解释变量x是<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span> 。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 2.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 2.5,
+              "Num": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 5.0,
+          "TemplateID": 457541,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 5.0,
+          "HasRemark": false,
+          "template_id": 457541
+        },
+        "score": 5.0,
+        "blank_count": 2,
+        "problem_id": 1668817,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "5.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "随机变量",
+              "因变量"
+            ],
+            "2": [
+              "非随机变量",
+              "自变量"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "因变量",
+              "is_right": true
+            },
+            "2": {
+              "answer": "自变量",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-14 19:55",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 32,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.0,
+          "ProblemID": 1668818,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457542,
+          "TypeText": "判断题",
+          "Body": "<p>&nbsp;回归分析通常用于挖掘关联规则</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "11e513567db24cdaa2ac8b9d2962c844",
+          "HasRemark": false,
+          "template_id": 457542
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 19:55",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668818
+      },
+      {
+        "max_retry": 1,
+        "index": 33,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.0,
+          "ProblemID": 1668819,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457543,
+          "TypeText": "判断题",
+          "Body": "<p>某块农田粮食的产量与施肥量之间的关系为不确定性关系</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "f70e0697cc1747cd96d3067073a38729",
+          "HasRemark": false,
+          "template_id": 457543
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 19:56",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668819
+      },
+      {
+        "max_retry": 1,
+        "index": 34,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.0,
+          "ProblemID": 1668820,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457544,
+          "TypeText": "判断题",
+          "Body": "<p>多元线性回归是研究处理两个变量之间关系的最简单模型</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "95ec345a63074fafa3af45e0d33fbfa4",
+          "HasRemark": false,
+          "template_id": 457544
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 19:56",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668820
+      },
+      {
+        "max_retry": 1,
+        "index": 35,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.0,
+          "ProblemID": 1668821,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457545,
+          "TypeText": "判断题",
+          "Body": "<p>回归分析是确定两种或两种以上变量间相互依赖的定量关系的一种统计分析方法</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "742c92f382314b04a02087fc3efb602c",
+          "HasRemark": false,
+          "template_id": 457545
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 19:56",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668821
+      },
+      {
+        "max_retry": 1,
+        "index": 36,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.0,
+          "ProblemID": 1668822,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457546,
+          "TypeText": "判断题",
+          "Body": "<p>&nbsp;时序预测与回归预测一样，也是用已知的数据预测未来的值，但这些数据的区别是变量所处的时间不同</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "508e8ecf4dd14dc0a4a4cc685c34e79b",
+          "HasRemark": false,
+          "template_id": 457546
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 19:58",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668822
+      },
+      {
+        "max_retry": 1,
+        "index": 37,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.0,
+          "ProblemID": 1668823,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457547,
+          "TypeText": "判断题",
+          "Body": "<p>回归分析按照自变量和因变量之间的关系类型，可分为线性回归分析和非线性回归分析</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "86400cb0de0545028edf761b03725ab6",
+          "HasRemark": false,
+          "template_id": 457547
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 19:59",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668823
+      },
+      {
+        "max_retry": 1,
+        "index": 38,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.0,
+          "ProblemID": 1668824,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457548,
+          "TypeText": "判断题",
+          "Body": "<p>一元线性回归模型包含一个解释变量和两个被解释变量</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "0c39e68cae564ae0bb168989ed8163d5",
+          "HasRemark": false,
+          "template_id": 457548
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 19:59",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668824
+      },
+      {
+        "max_retry": 1,
+        "index": 39,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.0,
+          "ProblemID": 1668825,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457549,
+          "TypeText": "判断题",
+          "Body": "<p>用总平方和表示因变量的n个观察值与其均值的误差的总和</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "d49b3abb76254d20bc237d671e764280",
+          "HasRemark": false,
+          "template_id": 457549
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 20:00",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668825
+      },
+      {
+        "max_retry": 1,
+        "index": 40,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.0,
+          "ProblemID": 1668826,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457550,
+          "TypeText": "判断题",
+          "Body": "<p>一元k次多项式回归方程为<img src=\"http://sc0.ykt.io/ue_i/20191214/1205765806009487360.png\" alt=\"image.png\"/></p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "6514025a85294e41b6bf30cce4c308fb",
+          "HasRemark": false,
+          "template_id": 457550
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "submit_time": "2020-03-14 20:00",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668826
+      },
+      {
+        "max_retry": 1,
+        "index": 41,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.0,
+          "ProblemID": 1668827,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457551,
+          "TypeText": "判断题",
+          "Body": "<p>应用回归预测法时，即使变量之间不存在相关关系，也可以对这些变量应用回归预测法</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "c4b209613712498c9296ec689b49b7e3",
+          "HasRemark": false,
+          "template_id": 457551
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 20:00",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668827
+      },
+      {
+        "max_retry": 1,
+        "index": 42,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.0,
+          "ProblemID": 3116654,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 1062767,
+          "TypeText": "判断题",
+          "Body": "<p><span style=\"color: #606266; font-family: &quot;PingFang Sc&quot;, DIN-Medium, DIN, arial, &quot;Helvetica Neue&quot;, tahoma, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 宋体; background-color: #F5F7FA;\">多元线性回归模型表示的是多个自变量与一个因变量之间的关系</span></p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "032473f5d6284c72abd119aef2ec3728",
+          "HasRemark": false,
+          "template_id": 1062767
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-14 20:01",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 3116654
+      },
+      {
+        "max_retry": 1,
+        "index": 43,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.5,
+          "ProblemID": 3135270,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.5,
+          "TemplateID": 1067914,
+          "TypeText": "单选题",
+          "Body": "<p>SVM通过什么实现线性不可分割问题<br/></p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>特征降维<br/></p>"
+            },
+            {
+              "key": "B",
+              "value": "<p>特征筛选<br/></p>"
+            },
+            {
+              "key": "C",
+              "value": "<p>基尼系数<br/></p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>核函数<br/></p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "1773f4620dea4c4092826f05d38b9245",
+          "HasRemark": false,
+          "template_id": 1067914
+        },
+        "score": 2.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-15 10:54",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 3135270
+      }
+    ],
+    "answer_count": 43,
+    "exercise_id": 235664,
+    "name": "第5章 作业"
+  },
+  "success": true
+}

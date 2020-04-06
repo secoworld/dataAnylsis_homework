@@ -1,0 +1,2137 @@
+{
+  "msg": "",
+  "data": {
+    "max_retry": 1,
+    "description": "",
+    "show_answer": 0,
+    "show_answer_time": 0,
+    "is_show_answer": true,
+    "problems": [
+      {
+        "max_retry": 1,
+        "index": 1,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1668648,
+          "max_retry": 1,
+          "Type": "SingleChoice",
+          "Body": "<p>1.&nbsp;下列属于数据挖掘任务的是（ &nbsp; &nbsp;）</p>",
+          "problem_type": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457225,
+          "TypeText": "单选题",
+          "answerIndex": 3,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>根据性别划分公司的顾客</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>计算公司的总销售额</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>预测一对骰子的结果</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>利用历史记录预测公司的未来股价</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "1d419afeecab4fbeb7dbce64c4d08651",
+          "HasRemark": false,
+          "template_id": 457225
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:13",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668648
+      },
+      {
+        "max_retry": 1,
+        "index": 2,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1668647,
+          "max_retry": 1,
+          "Type": "SingleChoice",
+          "Body": "<p>2. &nbsp;可以在不同维度合并数据，从而形成数据立方体的是（ &nbsp; &nbsp;）</p>",
+          "problem_type": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457226,
+          "TypeText": "单选题",
+          "answerIndex": 2,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>数据库</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>数据源</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>数据仓库</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>数据库系统</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "2159c63c124d40b7b09f9b8ee53c1cb9",
+          "HasRemark": false,
+          "template_id": 457226
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:14",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668647
+      },
+      {
+        "max_retry": 1,
+        "index": 3,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1668646,
+          "max_retry": 1,
+          "Type": "SingleChoice",
+          "Body": "<p>3. 目的是缩小数据的取值范围，使其更适合于数据挖掘算法的需要，并且能够得到和原始数据相同的分析结果的是（ &nbsp; &nbsp;）</p>",
+          "problem_type": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457227,
+          "TypeText": "单选题",
+          "answerIndex": 3,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>数据清洗</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>数据集成</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>数据变换</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>数据归约</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "82e8f8def90b4a019e3d1e9fab007d08",
+          "HasRemark": false,
+          "template_id": 457227
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:16",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668646
+      },
+      {
+        "max_retry": 1,
+        "index": 4,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1668645,
+          "max_retry": 1,
+          "Type": "SingleChoice",
+          "Body": "<p>4. 下述四种方法哪一种不是常见的分类方法（ &nbsp; &nbsp;）</p>",
+          "problem_type": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457228,
+          "TypeText": "单选题",
+          "answerIndex": 2,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>决策树</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>支持向量</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>K-Means</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>朴素贝叶斯分类</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "b3568f2b69524e94a79745039cda5dc5",
+          "HasRemark": false,
+          "template_id": 457228
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 2,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:21",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668645
+      },
+      {
+        "max_retry": 1,
+        "index": 5,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1668644,
+          "max_retry": 1,
+          "Type": "SingleChoice",
+          "Body": "<p>5. 下列任务中，属于数据挖掘技术在商务智能方面应用的是（ &nbsp; &nbsp;）</p>",
+          "problem_type": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457229,
+          "TypeText": "单选题",
+          "answerIndex": 3,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>欺诈检测</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>垃圾邮件识别</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>根据因特网的搜索引擎查找特定的Web页面</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>定向营销</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "2cf5e281597145e2a420e10dff16d76c",
+          "HasRemark": false,
+          "template_id": 457229
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:21",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668644
+      },
+      {
+        "max_retry": 1,
+        "index": 6,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1668643,
+          "max_retry": 1,
+          "Type": "SingleChoice",
+          "Body": "<p>6. 异常检测的应用包括（ &nbsp; &nbsp;）</p>",
+          "problem_type": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457230,
+          "TypeText": "单选题",
+          "answerIndex": 0,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>网络攻击</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>预测某股票的未来价格</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>计算公司的总销售额</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>根据性别划分公司顾客</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "e903b5f6562b4680a2a337625587cdd7",
+          "HasRemark": false,
+          "template_id": 457230
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:21",
+          "answer": [
+            "A"
+          ],
+          "my_answer": [
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668643
+      },
+      {
+        "max_retry": 1,
+        "index": 7,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1668642,
+          "max_retry": 1,
+          "Type": "SingleChoice",
+          "Body": "<p>7. 将原始数据进行集成、变换、维度规约、数值规约是哪个步骤的任务（ &nbsp; &nbsp;）</p>",
+          "problem_type": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457231,
+          "TypeText": "单选题",
+          "answerIndex": 2,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>频繁模式挖掘</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>分类和预测</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>数据预处理</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>数据流挖掘</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "330a6b2a56064b55ae2e1f7798c7c556",
+          "HasRemark": false,
+          "template_id": 457231
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:21",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668642
+      },
+      {
+        "max_retry": 1,
+        "index": 8,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1668641,
+          "max_retry": 1,
+          "Type": "SingleChoice",
+          "Body": "<p>8. KDD是（ &nbsp; &nbsp;）</p>",
+          "problem_type": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457232,
+          "TypeText": "单选题",
+          "answerIndex": 0,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>数据挖掘与知识发现</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>领域知识发现</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>文档知识发现</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>动态知识发现</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "85dd2ed9de94485aa5959f910eb6e5ee",
+          "HasRemark": false,
+          "template_id": 457232
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:22",
+          "answer": [
+            "A"
+          ],
+          "my_answer": [
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668641
+      },
+      {
+        "max_retry": 1,
+        "index": 9,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1668640,
+          "max_retry": 1,
+          "Type": "SingleChoice",
+          "Body": "<p>9. 下列有关离群点的分析错误的是（ &nbsp; &nbsp;）</p>",
+          "problem_type": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457233,
+          "TypeText": "单选题",
+          "answerIndex": 1,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>一般情况下离群点会被当作噪声而丢弃</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>离群点即是噪声数据</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>在某些特殊应用中离群点有特殊的意义</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>信用卡在不常消费地区突然消费大量金额的现象属于离群点分析范畴</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "81d887ef35894b9ea929c1fff83fa142",
+          "HasRemark": false,
+          "template_id": 457233
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:22",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668640
+      },
+      {
+        "max_retry": 1,
+        "index": 10,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1668639,
+          "max_retry": 1,
+          "Type": "SingleChoice",
+          "Body": "<p>10. 下列关于模式识别的相关说法中错误的是（ &nbsp; &nbsp;）</p>",
+          "problem_type": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457234,
+          "TypeText": "单选题",
+          "answerIndex": 2,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>模式识别的本质是抽象出不同事物中的模式并由此对事物进行分类</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>医疗诊断属于模式识别的研究内容之一</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>手机的指纹解锁技术不属于模式识别的应用</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>自然语言理解也包含模式识别问题</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "b3d1506e58c84bd1aaa993f4ebfed901",
+          "HasRemark": false,
+          "template_id": 457234
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:22",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668639
+      },
+      {
+        "max_retry": 1,
+        "index": 11,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1668638,
+          "max_retry": 1,
+          "Type": "SingleChoice",
+          "Body": "<p>11.&nbsp;&nbsp;（ &nbsp;）不属于数据挖掘的应用领域。</p>",
+          "problem_type": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457235,
+          "TypeText": "单选题",
+          "answerIndex": 3,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>商务智能</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>信息识别</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>搜索引擎</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>医疗诊断</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "c28f8b03d3304d36a16111799377111f",
+          "HasRemark": false,
+          "template_id": 457235
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 2,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:24",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668638
+      },
+      {
+        "max_retry": 1,
+        "index": 12,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 2,
+          "Version": "48ebeafcb6194389b6a4585d8c17e90f",
+          "ProblemID": 1668637,
+          "problem_type": 1,
+          "max_retry": 1,
+          "Type": "SingleChoice",
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457236,
+          "TypeText": "单选题",
+          "Body": "<p>12. 目前数据分析和数据挖掘面临的挑战性问题不包括（ &nbsp;）</p>",
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>数据类型的多样化</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>高维度数据</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>离群点数据</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>分析与挖掘结果可视化</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457236
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:25",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668637
+      },
+      {
+        "max_retry": 1,
+        "index": 13,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.5,
+          "ProblemID": 1668636,
+          "Type": "FillBlank",
+          "Body": "<p>1.常见的机器学习方法有<span class=\"blank-item\">[填空1]</span>、<span class=\"blank-item\">[填空2]</span>、<span class=\"blank-item\">[填空3]</span>。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 0.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1,
+              "Num": 2,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1,
+              "Num": 3,
+              "FuzzyMatch": false
+            }
+          ],
+          "problem_type": 4,
+          "LibraryName": "数据挖掘",
+          "score": 2.5,
+          "TemplateID": 457237,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "e7a3680bfe684f41967cc4e11e099b34",
+          "HasRemark": false,
+          "template_id": 457237
+        },
+        "score": 2.5,
+        "blank_count": 3,
+        "problem_id": 1668636,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "监督学习"
+            ],
+            "3": [
+              "半监督学习"
+            ],
+            "2": [
+              "无监督学习"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "监督学习",
+              "is_right": true
+            },
+            "3": {
+              "answer": "半监督学习",
+              "is_right": true
+            },
+            "2": {
+              "answer": "无监督学习",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-27 22:26",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 14,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.5,
+          "ProblemID": 1668635,
+          "Type": "FillBlank",
+          "Body": "<p>2.<span class=\"blank-item\">[填空1]</span>是从大规模的数据中抽取或挖掘出感兴趣的知识或模式的过程或方法。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 2.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "problem_type": 4,
+          "LibraryName": "数据挖掘",
+          "score": 2.5,
+          "TemplateID": 457238,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "410299e95c844ad498495357b1cc84de",
+          "HasRemark": false,
+          "template_id": 457238
+        },
+        "score": 2.5,
+        "blank_count": 1,
+        "problem_id": 1668635,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "数据挖掘"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "数据挖掘",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-27 22:27",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 15,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.5,
+          "ProblemID": 1668634,
+          "Type": "FillBlank",
+          "Body": "<p>3.<span class=\"blank-item\">[填空1]</span>是指在数据集中频繁出现的模式。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 2.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "problem_type": 4,
+          "LibraryName": "数据挖掘",
+          "score": 2.5,
+          "TemplateID": 457239,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "b4ff927772994168bb1da127a2300655",
+          "HasRemark": false,
+          "template_id": 457239
+        },
+        "score": 2.5,
+        "blank_count": 1,
+        "problem_id": 1668634,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "频繁模式"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "频繁模式",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-27 22:27",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 16,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.5,
+          "ProblemID": 1668633,
+          "Type": "FillBlank",
+          "Body": "<p>4.<span class=\"blank-item\">[填空1]</span>是指全局或局部范围内偏离一般水平的观测对象。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 2.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "problem_type": 4,
+          "LibraryName": "数据挖掘",
+          "score": 2.5,
+          "TemplateID": 457240,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "6014ff0e271f4dc38b7e5347ff2dc2fe",
+          "HasRemark": false,
+          "template_id": 457240
+        },
+        "score": 2.5,
+        "blank_count": 1,
+        "problem_id": 1668633,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "离群点"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "离群点",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-27 22:27",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 17,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.5,
+          "ProblemID": 1668632,
+          "Type": "FillBlank",
+          "Body": "<p>5.<span class=\"blank-item\">[填空1]</span>是数据仓库系统的主要应用。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 2.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "problem_type": 4,
+          "LibraryName": "数据挖掘",
+          "score": 2.5,
+          "TemplateID": 457241,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "ce8f6372c28240a2b451b63b9556ccef",
+          "HasRemark": false,
+          "template_id": 457241
+        },
+        "score": 2.5,
+        "blank_count": 1,
+        "problem_id": 1668632,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "联机分析处理"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "联机分析处理",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-27 22:27",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 18,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.5,
+          "ProblemID": 1668631,
+          "Type": "FillBlank",
+          "Body": "<p>6.<span class=\"blank-item\">[填空1]</span>是通过建立模型预测离散的标签，而<span class=\"blank-item\">[填空2]</span>则是通过建立连续值模型推断新的数据的某个数值型属性。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1,
+              "Num": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "problem_type": 4,
+          "LibraryName": "数据挖掘",
+          "score": 2.5,
+          "TemplateID": 457242,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "835f4f65788444c695296959bd600d9e",
+          "HasRemark": false,
+          "template_id": 457242
+        },
+        "score": 2.5,
+        "blank_count": 2,
+        "problem_id": 1668631,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "分类"
+            ],
+            "2": [
+              "回归"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "分类",
+              "is_right": true
+            },
+            "2": {
+              "answer": "回归",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-27 22:27",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 19,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.5,
+          "ProblemID": 1668630,
+          "Type": "FillBlank",
+          "Body": "<p>7.数据库是面向<span class=\"blank-item\">[填空1]</span>的设计，数据仓库是面向<span class=\"blank-item\">[填空2]</span>设计的。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1,
+              "Num": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "problem_type": 4,
+          "LibraryName": "数据挖掘",
+          "score": 2.5,
+          "TemplateID": 457243,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "7cd122f76f064c5481311b1ccb3f1f84",
+          "HasRemark": false,
+          "template_id": 457243
+        },
+        "score": 2.5,
+        "blank_count": 2,
+        "problem_id": 1668630,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "事务"
+            ],
+            "2": [
+              "主题"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "事务",
+              "is_right": true
+            },
+            "2": {
+              "answer": "主题",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-27 22:28",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 20,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.5,
+          "ProblemID": 1668629,
+          "Type": "FillBlank",
+          "Body": "<p>8.数据挖掘主要侧重解决四类问题：<span class=\"blank-item\">[填空1]</span>、<span class=\"blank-item\">[填空2]</span>、<span class=\"blank-item\">[填空3]</span>和预测（定量、定性）。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 0.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1,
+              "Num": 2,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1,
+              "Num": 3,
+              "FuzzyMatch": false
+            }
+          ],
+          "problem_type": 4,
+          "LibraryName": "数据挖掘",
+          "score": 2.5,
+          "TemplateID": 457244,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "9fd4fde5d2d8402cb51844bc98cf8ee4",
+          "HasRemark": false,
+          "template_id": 457244
+        },
+        "score": 2.5,
+        "blank_count": 3,
+        "problem_id": 1668629,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "分类"
+            ],
+            "3": [
+              "关联"
+            ],
+            "2": [
+              "聚类"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "分类",
+              "is_right": true
+            },
+            "3": {
+              "answer": "关联",
+              "is_right": true
+            },
+            "2": {
+              "answer": "聚类",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-27 22:28",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 21,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.5,
+          "ProblemID": 1668628,
+          "Type": "FillBlank",
+          "Body": "<p>9.数据分析是指采用适当的<span class=\"blank-item\">[填空1]</span>方法对收集到的数据进行分析、概括和总结。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 2.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "problem_type": 4,
+          "LibraryName": "数据挖掘",
+          "score": 2.5,
+          "TemplateID": 457245,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "82729d640a3c4e96a7481db7a912e0e8",
+          "HasRemark": false,
+          "template_id": 457245
+        },
+        "score": 2.5,
+        "blank_count": 1,
+        "problem_id": 1668628,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "统计分析"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "统计分析",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-27 22:29",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 22,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "c73e4ff41a66429887b9a3c87da16f78",
+          "ProblemID": 1668627,
+          "Type": "FillBlank",
+          "Body": "<p>10.<span class=\"blank-item\">[填空1]</span>是一个目标类数据的一般特性或特性的汇总。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 2.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "problem_type": 4,
+          "LibraryName": "数据挖掘",
+          "score": 2.5,
+          "TemplateID": 457246,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 2.5,
+          "HasRemark": false,
+          "template_id": 457246
+        },
+        "score": 2.5,
+        "blank_count": 1,
+        "problem_id": 1668627,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "特征化",
+              "数据特征化"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "数据特征化",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-27 22:29",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 23,
+        "review_detail": {},
+        "content": {
+          "Body": "<p>1.无监督学习可以在没有标记的数据集上进行学习。（ &nbsp;）</p>",
+          "library_id": 4474,
+          "LibraryID": 4474,
+          "score": 3.0,
+          "template_id": 457258,
+          "Type": "Judgement",
+          "LibraryName": "数据挖掘",
+          "Score": 3.0,
+          "ProblemType": 6,
+          "data": {},
+          "difficulty": 1,
+          "Version": "df3bc5e4a8ab465d9117c6ffd6a3d230",
+          "TemplateID": 457258,
+          "Options": [
+            {
+              "key": "true",
+              "value": "正确"
+            },
+            {
+              "key": "false",
+              "value": "错误"
+            }
+          ],
+          "ProblemID": 1668626,
+          "max_retry": 1,
+          "problem_type": 6,
+          "TypeText": "判断题",
+          "HasRemark": false
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:29",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668626
+      },
+      {
+        "max_retry": 1,
+        "index": 24,
+        "review_detail": {},
+        "content": {
+          "Body": "<p>2.聚类就是把一些对象划分为多个组或者聚簇，从而使同组内对象间比较相似而不同组对象间差异较大。（ &nbsp;）</p>",
+          "library_id": 4474,
+          "LibraryID": 4474,
+          "score": 3.0,
+          "template_id": 457259,
+          "Type": "Judgement",
+          "LibraryName": "数据挖掘",
+          "Score": 3.0,
+          "ProblemType": 6,
+          "data": {},
+          "difficulty": 1,
+          "Version": "d59aaa1a028f45e2ba1e8a9f4c1af30b",
+          "TemplateID": 457259,
+          "Options": [
+            {
+              "key": "true",
+              "value": "正确"
+            },
+            {
+              "key": "false",
+              "value": "错误"
+            }
+          ],
+          "ProblemID": 1668625,
+          "max_retry": 1,
+          "problem_type": 6,
+          "TypeText": "判断题",
+          "HasRemark": false
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:29",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668625
+      },
+      {
+        "max_retry": 1,
+        "index": 25,
+        "review_detail": {},
+        "content": {
+          "Body": "<p>3.事务数据库的每个记录代表一个事务。（ &nbsp;）</p>",
+          "library_id": 4474,
+          "LibraryID": 4474,
+          "score": 3.0,
+          "template_id": 457260,
+          "Type": "Judgement",
+          "LibraryName": "数据挖掘",
+          "Score": 3.0,
+          "ProblemType": 6,
+          "data": {},
+          "difficulty": 1,
+          "Version": "ac1eb88fe7eb43c18d818d560ff5297b",
+          "TemplateID": 457260,
+          "Options": [
+            {
+              "key": "true",
+              "value": "正确"
+            },
+            {
+              "key": "false",
+              "value": "错误"
+            }
+          ],
+          "ProblemID": 1668624,
+          "max_retry": 1,
+          "problem_type": 6,
+          "TypeText": "判断题",
+          "HasRemark": false
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:29",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668624
+      },
+      {
+        "max_retry": 1,
+        "index": 26,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1668623,
+          "Type": "Judgement",
+          "Body": "<p>4.数据仓库和数据库其实是相同的，都是数据或信息的存储系统。（ &nbsp;）</p>",
+          "problem_type": 6,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457261,
+          "TypeText": "判断题",
+          "max_retry": 1,
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "b80f9bff5d7a48889ff79de374947f11",
+          "HasRemark": false,
+          "template_id": 457261
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:29",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668623
+      },
+      {
+        "max_retry": 1,
+        "index": 27,
+        "review_detail": {},
+        "content": {
+          "Body": "<p>5.区分是将目标类数据对象的一般特性与一个或多个对比类对象的一般特性进行比较。（ &nbsp;）</p>",
+          "library_id": 4474,
+          "LibraryID": 4474,
+          "score": 3.0,
+          "template_id": 457262,
+          "Type": "Judgement",
+          "LibraryName": "数据挖掘",
+          "Score": 3.0,
+          "ProblemType": 6,
+          "data": {},
+          "difficulty": 1,
+          "Version": "7af156dba2bb41659f1be5a060d19d84",
+          "TemplateID": 457262,
+          "Options": [
+            {
+              "key": "true",
+              "value": "正确"
+            },
+            {
+              "key": "false",
+              "value": "错误"
+            }
+          ],
+          "ProblemID": 1668622,
+          "max_retry": 1,
+          "problem_type": 6,
+          "TypeText": "判断题",
+          "HasRemark": false
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:30",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668622
+      },
+      {
+        "max_retry": 1,
+        "index": 28,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1668621,
+          "Type": "Judgement",
+          "Body": "<p>6.离群点因偏离一般水平而不需要考虑和研究。（ &nbsp;）</p>",
+          "problem_type": 6,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457263,
+          "TypeText": "判断题",
+          "max_retry": 1,
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "3fc84833cd5a438db6b3c0692fb9a4a7",
+          "HasRemark": false,
+          "template_id": 457263
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:30",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668621
+      },
+      {
+        "max_retry": 1,
+        "index": 29,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1668620,
+          "Type": "Judgement",
+          "Body": "<p>7.聚类过程的输入对象有与之关联的目标信息。（ &nbsp;）</p>",
+          "problem_type": 6,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457264,
+          "TypeText": "判断题",
+          "max_retry": 1,
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "4815580d1b6e4e5dac5c23ed4174e634",
+          "HasRemark": false,
+          "template_id": 457264
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 2,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:30",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668620
+      },
+      {
+        "max_retry": 1,
+        "index": 30,
+        "review_detail": {},
+        "content": {
+          "Body": "<p>8.数据挖掘的主要任务是从数据中发现潜在的规则，从而能更好的完成描述数据、预测数据等任务。（ &nbsp;）</p>",
+          "library_id": 4474,
+          "LibraryID": 4474,
+          "score": 3.0,
+          "template_id": 457265,
+          "Type": "Judgement",
+          "LibraryName": "数据挖掘",
+          "Score": 3.0,
+          "ProblemType": 6,
+          "data": {},
+          "difficulty": 1,
+          "Version": "25e154249dc346b4b32e723bde07cd45",
+          "TemplateID": 457265,
+          "Options": [
+            {
+              "key": "true",
+              "value": "正确"
+            },
+            {
+              "key": "false",
+              "value": "错误"
+            }
+          ],
+          "ProblemID": 1668619,
+          "max_retry": 1,
+          "problem_type": 6,
+          "TypeText": "判断题",
+          "HasRemark": false
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:30",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668619
+      },
+      {
+        "max_retry": 1,
+        "index": 31,
+        "review_detail": {},
+        "content": {
+          "Body": "<p>9.数据挖掘的目标不在于数据采集策略，而在于对于已经存在的数据进行模式的发掘。（ &nbsp;）</p>",
+          "library_id": 4474,
+          "LibraryID": 4474,
+          "score": 3.0,
+          "template_id": 457266,
+          "Type": "Judgement",
+          "LibraryName": "数据挖掘",
+          "Score": 3.0,
+          "ProblemType": 6,
+          "data": {},
+          "difficulty": 1,
+          "Version": "450c6bee826d4eefbad157e5a147577c",
+          "TemplateID": 457266,
+          "Options": [
+            {
+              "key": "true",
+              "value": "正确"
+            },
+            {
+              "key": "false",
+              "value": "错误"
+            }
+          ],
+          "ProblemID": 1668618,
+          "max_retry": 1,
+          "problem_type": 6,
+          "TypeText": "判断题",
+          "HasRemark": false
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:30",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668618
+      },
+      {
+        "max_retry": 1,
+        "index": 32,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1668617,
+          "Type": "Judgement",
+          "Body": "<p>10.数据仓库一般存储在线交易数据，数据库存储的一般是历史数据。（ &nbsp;）</p>",
+          "problem_type": 6,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457267,
+          "TypeText": "判断题",
+          "max_retry": 1,
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "0b0c4b4cdc154c74a0f600a4d9581742",
+          "HasRemark": false,
+          "template_id": 457267
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:30",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668617
+      },
+      {
+        "max_retry": 1,
+        "index": 33,
+        "review_detail": {},
+        "content": {
+          "Body": "11.数据分析是指采用适当的统计分析方法对收集到的数据进行分析、概括和总结，对数据进行恰当的描述，并提取出有用的信息的过程。（  ）",
+          "library_id": 4474,
+          "Remark": null,
+          "LibraryID": 4474,
+          "Version": "0a9e842a53e640edae6dca02b26104f4",
+          "ProblemID": 1668616,
+          "Options": [
+            {
+              "value": "正确",
+              "key": "true"
+            },
+            {
+              "value": "错误",
+              "key": "false"
+            }
+          ],
+          "problem_type": 6,
+          "LibraryName": "数据挖掘",
+          "Score": 3.0,
+          "ProblemType": 6,
+          "template_id": 457268,
+          "difficulty": 1,
+          "score": 3.0,
+          "HasRemark": false,
+          "data": {},
+          "TemplateID": 457268,
+          "max_retry": 1,
+          "Type": "Judgement",
+          "TypeText": "判断题"
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:30",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668616
+      },
+      {
+        "max_retry": 1,
+        "index": 34,
+        "review_detail": {},
+        "content": {
+          "Body": "12.数据分析的定义：数据分析就是对数据进行分析。专业的说法，数据分析是指根据分析目的，用适当的统计分析方法及工具，对收集来的数据进行处理与分析，提取有价值的信息，发挥数据的作用。（  ）",
+          "library_id": 4474,
+          "Remark": null,
+          "LibraryID": 4474,
+          "Version": "806e09b7e2324d76a469e691e093134c",
+          "ProblemID": 1668615,
+          "Options": [
+            {
+              "value": "正确",
+              "key": "true"
+            },
+            {
+              "value": "错误",
+              "key": "false"
+            }
+          ],
+          "problem_type": 6,
+          "LibraryName": "数据挖掘",
+          "Score": 3.0,
+          "ProblemType": 6,
+          "template_id": 457269,
+          "difficulty": 1,
+          "score": 3.0,
+          "HasRemark": false,
+          "data": {},
+          "TemplateID": 457269,
+          "max_retry": 1,
+          "Type": "Judgement",
+          "TypeText": "判断题"
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:31",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668615
+      },
+      {
+        "max_retry": 1,
+        "index": 35,
+        "review_detail": {},
+        "content": {
+          "Body": "13.数据库是一个面向主题的、集成的、相对稳定的、反映历史变化的数据集合，用于支持管理决策。（  ）",
+          "library_id": 4474,
+          "Remark": null,
+          "LibraryID": 4474,
+          "Version": "2d123bc1f3a14c78aaa6b727450987ed",
+          "ProblemID": 1668614,
+          "Options": [
+            {
+              "value": "正确",
+              "key": "true"
+            },
+            {
+              "value": "错误",
+              "key": "false"
+            }
+          ],
+          "problem_type": 6,
+          "LibraryName": "数据挖掘",
+          "Score": 3.0,
+          "ProblemType": 6,
+          "template_id": 457270,
+          "difficulty": 1,
+          "score": 3.0,
+          "HasRemark": false,
+          "data": {},
+          "TemplateID": 457270,
+          "max_retry": 1,
+          "Type": "Judgement",
+          "TypeText": "判断题"
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-27 22:31",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668614
+      }
+    ],
+    "answer_count": 35,
+    "exercise_id": 235660,
+    "name": "第1章 作业"
+  },
+  "success": true
+}

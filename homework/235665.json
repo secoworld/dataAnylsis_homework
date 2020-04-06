@@ -1,0 +1,3251 @@
+{
+  "msg": "",
+  "data": {
+    "max_retry": 1,
+    "description": "",
+    "show_answer": 0,
+    "show_answer_time": 0,
+    "is_show_answer": true,
+    "problems": [
+      {
+        "max_retry": 1,
+        "index": 1,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 0,
+          "Version": "cf5c51d29c8b4ca88f215b970149a957",
+          "ProblemID": 1668831,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457367,
+          "TypeText": "单选题",
+          "Body": "<p>1. 下列几种数据挖掘功能中被广泛的用于购物篮分析的是（ ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A.关联分析；&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p>&nbsp;B.分类和预测；</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p>C.聚类分析；</p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D.演变分析</p>"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457367
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 17:12",
+          "answer": [
+            "A"
+          ],
+          "my_answer": [
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668831
+      },
+      {
+        "max_retry": 1,
+        "index": 2,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 0,
+          "Score": 2.0,
+          "ProblemID": 1668832,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457369,
+          "TypeText": "单选题",
+          "Body": "<p>2. 某超市研究销售纪录数据后发现，买啤酒的人很大概率也会购买尿布，这种属于数据挖掘的哪类问题（ ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A.关联规则发现；</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p>B.聚类；</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p>C.分类；</p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D.自然语言处理；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "df0fd66f52484940a97d8659f4d6a97b",
+          "HasRemark": false,
+          "template_id": 457369
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 17:12",
+          "answer": [
+            "A"
+          ],
+          "my_answer": [
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668832
+      },
+      {
+        "max_retry": 1,
+        "index": 3,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 2,
+          "Score": 1.5,
+          "ProblemID": 1668833,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457370,
+          "TypeText": "单选题",
+          "Body": "<p>3. 设X={1，2，3}是频繁项集，则可由X产生多少个关联规则（ ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. 4；</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B. 5；</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. 6；</p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. 7；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "d43adaeb4045492abcbd2acea265e8b3",
+          "HasRemark": false,
+          "template_id": 457370
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "submit_time": "2020-03-21 17:19",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668833
+      },
+      {
+        "max_retry": 1,
+        "index": 4,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Score": 1.5,
+          "ProblemID": 1668834,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457372,
+          "TypeText": "单选题",
+          "Body": "<p>4. 置信度(confidence)是衡量哪种兴趣度度量的指标（ ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. 简洁性；</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B. 确定性；</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. 实用性；</p>"
+            },
+            {
+              "key": "D",
+              "value": "<p style=\"white-space: normal;\">D. 新颖性；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "f7b20184a75e485abda3f2293873dab9",
+          "HasRemark": false,
+          "template_id": 457372
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 17:23",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668834
+      },
+      {
+        "max_retry": 1,
+        "index": 5,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 2,
+          "Version": "52e72096357e497c9d6c7f41408c1481",
+          "ProblemID": 1668835,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457374,
+          "TypeText": "单选题",
+          "Body": "<p>5. 关联规则的支持度公式为（ ）</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>A.support(A=&gt;B)=P(A∩B)；</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>B.support(A=&gt;B)=P(B|A)；&nbsp;</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>C.support(A=&gt;B)=P(A∪B)；&nbsp; &nbsp;&nbsp;</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>&nbsp;D.support(A=&gt;B)=P(A|B)；&nbsp;</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457374
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "submit_time": "2020-03-21 17:23",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668835
+      },
+      {
+        "max_retry": 1,
+        "index": 6,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 3,
+          "Version": "c4bdbbeb208a4c46b1157c01a7e24f7b",
+          "ProblemID": 1668836,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457375,
+          "TypeText": "单选题",
+          "Body": "<p>6. 下列指标中，能够度量一个规则的强度，同时衡量两个集合之间的独立性的是（ ）</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>A. 提升度；</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p style=\"white-space: normal;\">B. 杠杆度；</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p style=\"white-space: normal;\">C. IS度量；</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>D. 确信度；</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457375
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 17:25",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668836
+      },
+      {
+        "max_retry": 1,
+        "index": 7,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 3,
+          "Score": 1.5,
+          "ProblemID": 1668837,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457376,
+          "TypeText": "单选题",
+          "Body": "<p>7. 规则∅→A和A→∅的置信度是（ ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. 50%；</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B. 75%；</p><p style=\"white-space: normal;\"><br/></p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. 90%；</p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. 100%；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "6bd2a50314014cf9b06fbab54a72fc31",
+          "HasRemark": false,
+          "template_id": 457376
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 17:28",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668837
+      },
+      {
+        "max_retry": 1,
+        "index": 8,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Version": "64e4615cff164421bd0d6bf2884c806f",
+          "ProblemID": 1668838,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457379,
+          "TypeText": "单选题",
+          "Body": "<p>8. 令C1 ,C2和C3分别是规则{p}→{q},{p}→{q,r},{p,r}→{q}的置信度。如果假定C1, C2和C3有不同的值，置信度最低的规则是（ ）</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>A. C1；</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p style=\"white-space: normal;\">B. C2；</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p style=\"white-space: normal;\">C. C3；</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>D. C2和C3；</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457379
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 18:08",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668838
+      },
+      {
+        "max_retry": 1,
+        "index": 9,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 2,
+          "Score": 1.5,
+          "ProblemID": 1668839,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457381,
+          "TypeText": "单选题",
+          "Body": "<p>9. 购买HDTV和购买健身器的情况如下表所示，设最小支持度阈值为0.3，最小置信度阈值为0.6，则{买HDTV }→{买健身器}的支持度为（ ）</p><p><br/></p><p><img src=\"http://sc0.ykt.io/ue_i/20200314/1238720143165624320.png\" alt=\"微信图片_20200314145344.png\"/></p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. 0.45；</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B. 0.55；</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. 0.33；</p>"
+            },
+            {
+              "key": "D",
+              "value": "<p style=\"white-space: normal;\">D. 0.27；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "ff028e0e3d24459e94b011bb61032bfe",
+          "HasRemark": false,
+          "template_id": 457381
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "submit_time": "2020-03-21 18:17",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668839
+      },
+      {
+        "max_retry": 1,
+        "index": 10,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Score": 1.5,
+          "ProblemID": 1668840,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457382,
+          "TypeText": "单选题",
+          "Body": "<p>10. 上一题所给的数据中，{买HDTV }→{买健身器}的置信度为（ ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. 0.65；</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B. 0.55；</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. 0.49；</p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. 0.33；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "b9fd4ceb030643cb95d79a8f8a3b36e8",
+          "HasRemark": false,
+          "template_id": 457382
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 18:18",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668840
+      },
+      {
+        "max_retry": 1,
+        "index": 11,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Score": 1.5,
+          "ProblemID": 1668841,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457385,
+          "TypeText": "单选题",
+          "Body": "<p>11. 如果X∈Y,且Y中至少有一项不在X中，那么Y是X的（ ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. 频繁项集；</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B. 真超项集；</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. 闭频繁项集；</p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. 极大频繁项集；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "f05948e862e24d7092f0db5df671a48b",
+          "HasRemark": false,
+          "template_id": 457385
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 18:18",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668841
+      },
+      {
+        "max_retry": 1,
+        "index": 12,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 2,
+          "Version": "a6a5bcd9711f4bbdb30ab986693fa57f",
+          "ProblemID": 1668842,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457386,
+          "TypeText": "单选题",
+          "Body": "<p>12. 下列关于Apriori算法的分析中，错误的是（ ）</p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. Apriori算法基于支持度的剪枝技术，用来控制候选项集的指数增长；</p><p><br/></p>"
+            },
+            {
+              "key": "B",
+              "value": "<p>B. Apriori算法包括候选集生成和向下封闭检测两个阶段；</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p>C. Apriori算法会扫描数据库2次；</p><p><br/></p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. Apriori算法使用逐层搜索的迭代方法；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457386
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 18:18",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668842
+      },
+      {
+        "max_retry": 1,
+        "index": 13,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 3,
+          "Score": 1.5,
+          "ProblemID": 1668843,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457393,
+          "TypeText": "单选题",
+          "Body": "<p>13. 下表所示的购物篮事务数据集中能够提取的3-项集的最大数量是（ ）</p><p><br/></p><p><img src=\"http://sc0.ykt.io/ue_i/20200314/1238721484676009984.png\" alt=\"微信图片_20200314145924.png\"/></p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. 3；</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B. 6；</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. 10；</p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. 20；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "897e9d341e264faab16ee9b09d285851",
+          "HasRemark": false,
+          "template_id": 457393
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "submit_time": "2020-03-21 18:25",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668843
+      },
+      {
+        "max_retry": 1,
+        "index": 14,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 0,
+          "Version": "40c55c6842d340fe9852aa42815d3836",
+          "ProblemID": 1668845,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457395,
+          "TypeText": "单选题",
+          "Body": "<p>15. 下列不属于Apriori算法的缺点的是（ ）</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>A. Apriori算法分为两个阶段挖掘频繁项集；</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p style=\"white-space: normal;\">B. Apriori算法产生候选项目集时没有排除无用的候选项集；</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p style=\"white-space: normal;\">C. Apriori算法在每一步产生候选项目集时循环产生的组合过多；</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>D. 在扫描大型数据库时，Apriori算法会大大增加计算机系统I/O开销；</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": true,
+          "template_id": 457395
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "explain": "",
+          "submit_time": "2020-03-21 18:30",
+          "answer": [
+            "A"
+          ],
+          "my_answer": [
+            "A"
+          ],
+          "is_show_explain": true
+        },
+        "problem_id": 1668845
+      },
+      {
+        "max_retry": 1,
+        "index": 15,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "Score": 3.0,
+          "ProblemID": 1668846,
+          "max_retry": 1,
+          "Type": "MultipleChoice",
+          "Body": "<p>1. 考虑如下的频繁3-项集：{1, 2, 3}，{1, 2, 4}，{1, 2, 5}，{1, 3, 4}，{1, 3, 5}，{2, 3, 4}，{2, 3, 5}，{3, 4, 5}。选出根据Apriori 算法利用上述频繁3-项集生成的候选4-项集（ ）</p>",
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457398,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. {1,2,3,4}；</p><p><br/></p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B. {1,2,3,5}；</p><p><br/></p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. {1,2,4,5}；</p><p><br/></p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. {2,3,4,5}；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "41d477a33f01406695db491d867cfe40",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457398
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "my_answers": {
+            "A": true,
+            "B": true
+          },
+          "submit_time": "2020-03-21 18:51",
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668846
+      },
+      {
+        "max_retry": 1,
+        "index": 16,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "ProblemID": 1668847,
+          "Version": "a416d74403ee478a9e67827ff2dd3117",
+          "Body": "<p>2. 下表是一个购物篮，假定支持度阈值为40%，其中哪几个是频繁闭项集（ ）</p><p><img src=\"http://sc0.ykt.io/ue_i/20200314/1238725041479356416.png\" alt=\"微信图片_20200314151329.png\"/></p>",
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457401,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. abc；</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B. ad；</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. cd；</p>"
+            },
+            {
+              "key": "D",
+              "value": "<p style=\"white-space: normal;\">D. de；</p><p><br style=\"white-space: normal;\"/></p><p><br/></p>"
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457401
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "A": true,
+            "D": true
+          },
+          "submit_time": "2020-03-21 18:53",
+          "answer": [
+            "A",
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668847
+      },
+      {
+        "max_retry": 1,
+        "index": 17,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "ProblemID": 1668848,
+          "Version": "78031037c60f484291729724bb47d7cb",
+          "Body": "<p>3. 一个数据库有5 个事务，如下表所示。设min_sup=60%，min_conf = 80%。从下列选项中选出频繁2-项集（ ）</p><p><img src=\"http://sc0.ykt.io/ue_i/20200314/1238725413614784512.png\" alt=\"微信图片_20200314115050.png\"/></p>",
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457403,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. {M,K}；</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B. {O,K}；</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. {K,E}；</p><p><br/></p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. {M,O}；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457403
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "my_answers": {
+            "C": true,
+            "B": true,
+            "D": false
+          },
+          "submit_time": "2020-03-21 19:09",
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668848
+      },
+      {
+        "max_retry": 1,
+        "index": 18,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "ProblemID": 1668849,
+          "Version": "1362ddefcb2541dba43e9d110059de67",
+          "Body": "<p>4. 以下关于非频繁模式说法,正确的是（ ）</p>",
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457404,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>A. 其支持度小于阈值；</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p style=\"white-space: normal;\">B. 都是不让人感兴趣的；</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p style=\"white-space: normal;\">C. 其支持度大于阈值；</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>D. 对异常数据项敏感；</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": true,
+          "awardingRule": 1,
+          "template_id": 457404
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "A": true,
+            "D": true
+          },
+          "submit_time": "2020-03-21 19:16",
+          "answer": [
+            "A",
+            "D"
+          ],
+          "explain": "",
+          "is_show_explain": true
+        },
+        "problem_id": 1668849
+      },
+      {
+        "max_retry": 1,
+        "index": 19,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "ProblemID": 1668851,
+          "Version": "9f59f45e1ec848f79584fc3271ca631d",
+          "Body": "<p>6. 下列关于FP-growth算法优缺点的表述中，正确的有（ ）</p>",
+          "Type": "MultipleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457406,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>A. 相比于Apriori算法，FP-growth算法运行速度要快一个数量级；</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p style=\"white-space: normal;\">B. FP-growth算法在建立FP-tree时占用空间较小；</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p style=\"white-space: normal;\">C. FP-growth算法无须多次扫描数据库，节省了运行时间；</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>D. FP-growth算法处理产生的条件树时会占用很多资源；</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": true,
+          "awardingRule": 1,
+          "template_id": 457406
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "A": true,
+            "C": true,
+            "D": true
+          },
+          "submit_time": "2020-03-21 19:16",
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "explain": "",
+          "is_show_explain": true
+        },
+        "problem_id": 1668851
+      },
+      {
+        "max_retry": 1,
+        "index": 20,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "BlanksScore": [],
+          "Score": 3.0,
+          "ProblemID": 1668852,
+          "Type": "FillBlank",
+          "max_retry": 1,
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457408,
+          "TypeText": "填空题",
+          "Body": "<p>1.&nbsp; Aprior算法包括<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>和 <span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>两个基本步骤。</p>",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "685c1128224e4633a7c9ea81ba2d4261",
+          "HasRemark": false,
+          "template_id": 457408
+        },
+        "score": 3.0,
+        "blank_count": 2,
+        "problem_id": 1668852,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "连接"
+            ],
+            "2": [
+              " 剪枝"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "连接",
+              "is_right": true
+            },
+            "2": {
+              "answer": "剪枝",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-21 19:17",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 21,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 3.0,
+          "ProblemID": 1668853,
+          "Type": "FillBlank",
+          "Body": "<p>2. 关联规则的经典算法包括<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>和<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>，其中<span class=\"blank-item\" style=\"display:inline-block;\">[填空3]</span>的效率更高。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Num": 1,
+              "Score": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Num": 2,
+              "Score": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Num": 3,
+              "Score": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457409,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "6c2a87bb8f264ff29d38a56094a37656",
+          "HasRemark": false,
+          "template_id": 457409
+        },
+        "score": 3.0,
+        "blank_count": 3,
+        "problem_id": 1668853,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "Apriori "
+            ],
+            "3": [
+              "FP-growth"
+            ],
+            "2": [
+              "FP-growth "
+            ]
+          },
+          "is_right": false,
+          "my_answers": {
+            "1": {
+              "answer": "Apriori算法",
+              "is_right": false
+            },
+            "3": {
+              "answer": "FP-growth算法",
+              "is_right": false
+            },
+            "2": {
+              "answer": "FP-growth算法",
+              "is_right": false
+            }
+          },
+          "submit_time": "2020-03-21 19:18",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 22,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "d7fa60ae1a45494c92cd7fa6c1d62011",
+          "ProblemID": 1668854,
+          "Type": "FillBlank",
+          "Body": "<p>3. 如果L2={{a,b},{a,c},{a,d},{b,c},{b,d}}，则连接产生的C3=<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457410,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457410
+        },
+        "score": 1.5,
+        "blank_count": 1,
+        "problem_id": 1668854,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "{{a,b,c},{a,b,d},{a,c,d},{b,c,d}}"
+            ]
+          },
+          "is_right": false,
+          "my_answers": {
+            "1": {
+              "answer": "{a,b,c},{a,b,d}",
+              "is_right": false
+            }
+          },
+          "submit_time": "2020-03-21 19:22",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 23,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 1.5,
+          "ProblemID": 1668855,
+          "Type": "FillBlank",
+          "Body": "<p>4. 关联规则的置信度公式为confidence(A=&gt;B)=<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Num": 1,
+              "Score": 1.5,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457412,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "261963dd06254a19b851a426e5ce7de8",
+          "HasRemark": false,
+          "template_id": 457412
+        },
+        "score": 1.5,
+        "blank_count": 1,
+        "problem_id": 1668855,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "P(B|A)"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "P(B|A)",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-21 19:23",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 24,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "8a990ed415a14e3d859795d3c098573f",
+          "ProblemID": 1668856,
+          "Type": "FillBlank",
+          "Body": "<p>5. 同时满足<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>和<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>的规则称之为强关联规则。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457413,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457413
+        },
+        "score": 3.0,
+        "blank_count": 2,
+        "problem_id": 1668856,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "最小支持度阈值"
+            ],
+            "2": [
+              "最小置信度阈值"
+            ]
+          },
+          "is_right": false,
+          "my_answers": {
+            "1": {
+              "answer": "最小支持度",
+              "is_right": false
+            },
+            "2": {
+              "answer": "最小置信度阈值",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-21 19:25",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 25,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 1.5,
+          "ProblemID": 1668857,
+          "Type": "FillBlank",
+          "Body": "<p>6. 如果一个项集的直接超集都不具有和它相同的支持度计数，则称其为:<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Num": 1,
+              "Score": 1.5,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457414,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "e3c710c41d1a449d817a0da2d4b46087",
+          "HasRemark": false,
+          "template_id": 457414
+        },
+        "score": 1.5,
+        "blank_count": 1,
+        "problem_id": 1668857,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "闭项集"
+            ]
+          },
+          "is_right": false,
+          "my_answers": {
+            "1": {
+              "answer": "闭频繁项集",
+              "is_right": false
+            }
+          },
+          "submit_time": "2020-03-21 19:26",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 26,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 3.0,
+          "ProblemID": 1668858,
+          "Type": "FillBlank",
+          "Body": "<p>7. 在挖掘闭模式算法中，直接搜索闭频繁项集，并对结果进行剪枝是最常用的方法，其中剪枝的策略包括<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>和<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span> 。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457416,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "2c1371f7ae2c4259917cd671e6c9f93d",
+          "HasRemark": false,
+          "template_id": 457416
+        },
+        "score": 3.0,
+        "blank_count": 2,
+        "problem_id": 1668858,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "项合并 "
+            ],
+            "2": [
+              "子项集剪枝"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "项合并",
+              "is_right": true
+            },
+            "2": {
+              "answer": "子项集剪枝",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-21 19:27",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 27,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 1.5,
+          "ProblemID": 1668859,
+          "Type": "FillBlank",
+          "Body": "<p>8. 不包含任何考察项集的事务称为:<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Num": 1,
+              "Score": 1.5,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457419,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "3af546af863a48458a214b179fe66a48",
+          "HasRemark": false,
+          "template_id": 457419
+        },
+        "score": 1.5,
+        "blank_count": 1,
+        "problem_id": 1668859,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "零事务"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "零事务",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-21 19:27",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 28,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 1.5,
+          "ProblemID": 1668860,
+          "Type": "FillBlank",
+          "Body": "<p>9. 频繁出现在数据集中的模式称为:<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Num": 1,
+              "Score": 1.5,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457421,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "cd726a1aa7a24258801bbb32afe7ba8b",
+          "HasRemark": false,
+          "template_id": 457421
+        },
+        "score": 1.5,
+        "blank_count": 1,
+        "problem_id": 1668860,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "频繁模式"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "频繁模式",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-21 19:28",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 29,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 2.0,
+          "ProblemID": 1668861,
+          "Type": "FillBlank",
+          "Body": "<p>10. 关联规则挖掘任务主要分为<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>和<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>两个子任务。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 0.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457422,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "4fef723193db4163a1db6084025763da",
+          "HasRemark": false,
+          "template_id": 457422
+        },
+        "score": 2.0,
+        "blank_count": 2,
+        "problem_id": 1668861,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "频繁项集的产生 "
+            ],
+            "2": [
+              "关联规则的产生"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "频繁项集的产生",
+              "is_right": true
+            },
+            "2": {
+              "answer": "关联规则的产生",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-21 19:30",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 30,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 3.0,
+          "ProblemID": 1668862,
+          "Type": "FillBlank",
+          "Body": "<p>11.大型数据库中的关联规则挖掘包含 找出所有<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>和由<span class=\"blank-item\" style=\"display: inline-block;\">[填空2]</span>产生<span class=\"blank-item\" style=\"display:inline-block;\">[填空3]</span>两个过程。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1,
+              "Num": 2,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1,
+              "Num": 3,
+              "FuzzyMatch": true
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457424,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "c5c56db174a6417fb12f251b56d7ccf7",
+          "HasRemark": false,
+          "template_id": 457424
+        },
+        "score": 3.0,
+        "blank_count": 3,
+        "problem_id": 1668862,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "频繁项集"
+            ],
+            "3": [
+              "强关联规则"
+            ],
+            "2": [
+              "频繁项集"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "频繁项集",
+              "is_right": true
+            },
+            "3": {
+              "answer": "强关联规则",
+              "is_right": true
+            },
+            "2": {
+              "answer": "频繁项集",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-21 19:32",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 31,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "053946d045d84924a46dad0e6675c06f",
+          "ProblemID": 1668863,
+          "Type": "FillBlank",
+          "Body": "<p>12.FP-growth算法的基本思想是用FP-growth&nbsp;<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>&nbsp;形成频繁集。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": true
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457425,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457425
+        },
+        "score": 1.5,
+        "blank_count": 1,
+        "problem_id": 1668863,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "递归增长"
+            ]
+          },
+          "is_right": false,
+          "my_answers": {
+            "1": {
+              "answer": "tree",
+              "is_right": false
+            }
+          },
+          "submit_time": "2020-03-21 19:37",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 32,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Score": 2.0,
+          "ProblemID": 1668864,
+          "Type": "FillBlank",
+          "Body": "<p>13. 某个食品连锁店每周的事务记录如下表所示，每个事务表示在一项收款机业务中卖出的商品项集，假定min_sup=40%，min_conf=40%，使用Apriori算法生成的强关联规则有&nbsp; <span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>和<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>两项。</p><p><br/></p><p><img src=\"http://sc0.ykt.io/ue_i/20200314/1238727071988060160.png\" alt=\"微信图片_20200314152138.png\"/></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1,
+              "Num": 1,
+              "FuzzyMatch": true
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1,
+              "Num": 2,
+              "FuzzyMatch": true
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457429,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "f2804d8a822f4bae9566364d8cfce86d",
+          "HasRemark": false,
+          "template_id": 457429
+        },
+        "score": 2.0,
+        "blank_count": 2,
+        "problem_id": 1668864,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "{面包}->{花生酱}"
+            ],
+            "2": [
+              "{花生酱}->{面包}"
+            ]
+          },
+          "is_right": false,
+          "my_answers": {
+            "1": {
+              "answer": "面包",
+              "is_right": false
+            },
+            "2": {
+              "answer": "花生酱",
+              "is_right": false
+            }
+          },
+          "submit_time": "2020-03-21 19:40",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 33,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "418889ca303e49bd9c06a473ac9415d0",
+          "ProblemID": 1668867,
+          "Type": "FillBlank",
+          "Body": "<p>1. 事物t={牛奶，面包，啤酒}是<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>项集。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457437,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457437
+        },
+        "score": 1.5,
+        "blank_count": 1,
+        "problem_id": 1668867,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "3",
+              "三"
+            ]
+          },
+          "is_right": false,
+          "my_answers": {
+            "1": {
+              "answer": "非频繁3",
+              "is_right": false
+            }
+          },
+          "submit_time": "2020-03-21 19:43",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 34,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "01b4757de5924aa5827753e824d01576",
+          "ProblemID": 1668868,
+          "Type": "FillBlank",
+          "Body": "<p>2.&nbsp; FP-growth算法在一次运行中扫描<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>次数据库。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457439,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457439
+        },
+        "score": 1.5,
+        "blank_count": 1,
+        "problem_id": 1668868,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "2",
+              "两",
+              "二"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "两",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-21 19:44",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 35,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "5198cf15ceb74149840c3acfe151dbe5",
+          "ProblemID": 1668869,
+          "Type": "FillBlank",
+          "Body": "<p>3. 计算关联规则{牛奶}=&gt;{咖啡}的支持度和置信度：<span class=\"blank-item\" style=\"display: inline-block;\">[填空1]</span><span class=\"blank-item\" style=\"display: inline-block;\">[填空2]</span>(答案保留小数点后两位)</p><p><br/></p><p><img src=\"http://sc0.ykt.io/ue_i/20200314/1238672933233233920.png\" alt=\"微信图片_20200314114628.png\"/></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1,
+              "Num": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457442,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457442
+        },
+        "score": 2.0,
+        "blank_count": 2,
+        "problem_id": 1668869,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "0.40"
+            ],
+            "2": [
+              " 0.66"
+            ]
+          },
+          "is_right": false,
+          "my_answers": {
+            "1": {
+              "answer": "0.70",
+              "is_right": false
+            },
+            "2": {
+              "answer": "0.80",
+              "is_right": false
+            }
+          },
+          "submit_time": "2020-03-21 19:47",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 36,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "2de4d194604f461ab8b2427b3d42e51a",
+          "ProblemID": 1668870,
+          "Type": "FillBlank",
+          "Body": "<p>4. 从上题的数据中计算牛奶与咖啡之间的提升度和杠杆度：<span class=\"blank-item\" style=\"display: inline-block;\">[填空1]</span><span class=\"blank-item\" style=\"display: inline-block;\">[填空2]</span>(答案保留小数点后一位)</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 1,
+              "Num": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457444,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457444
+        },
+        "score": 2.0,
+        "blank_count": 2,
+        "problem_id": 1668870,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "1.3"
+            ],
+            "2": [
+              " 0.1"
+            ]
+          },
+          "is_right": false,
+          "my_answers": {
+            "1": {
+              "answer": "0.8",
+              "is_right": false
+            },
+            "2": {
+              "answer": "-0.1",
+              "is_right": false
+            }
+          },
+          "submit_time": "2020-03-21 19:51",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 37,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "30d8d338dc6c484cb90bb975e6a84785",
+          "ProblemID": 1668871,
+          "Type": "FillBlank",
+          "Body": "<p>5. 一个数据库有5个事务，如下表所示。设min_sup=60%，min_conf = 80%。</p><p>用Apriori算法找出所有3频繁项集(答案中不要有空格，标点符号用半角)：<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span></p><p><img src=\"http://sc0.ykt.io/ue_i/20200314/1238674096695414784.png\" alt=\"微信图片_20200314115050.png\"/></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457449,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457449
+        },
+        "score": 1.5,
+        "blank_count": 1,
+        "problem_id": 1668871,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "{O,K,E}",
+              "{O,E,K}",
+              "{K,O,E}",
+              "{K,E,O}",
+              "{E,O,K}",
+              "{E,K,O}"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "{O,K,E}",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-21 19:52",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 38,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "6a642fbeb5974b5ea580637b0ce0a111",
+          "ProblemID": 1668874,
+          "Type": "FillBlank",
+          "Body": "<p>8. 计算{面包（A）=&gt;啤酒（E）}的支持度：<span class=\"blank-item\" style=\"display: inline-block;\">[填空1]</span>(保留小数点后一位)</p><p><br/></p><p><br/></p><p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205739483056705536.png\" alt=\"image.png\"/></p><p><br/></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457456,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457456
+        },
+        "score": 1.5,
+        "blank_count": 1,
+        "problem_id": 1668874,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "0.2",
+              "0.20"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "0.2",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-21 19:55",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 39,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "117c82ca595a43959875dfb66d929bb3",
+          "ProblemID": 1668875,
+          "Type": "FillBlank",
+          "Body": "<p>9. 从上题的数据中计算规则{面包（A）}=&gt;{甜酱（B）}的置信度:<span class=\"blank-item\" style=\"display: inline-block;\">[填空1]</span>(答案保留小数点后两位)</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 1.5,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457458,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457458
+        },
+        "score": 1.5,
+        "blank_count": 1,
+        "problem_id": 1668875,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "0.25"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "0.25",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-03-21 19:57",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 40,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "70f4a96eb03644bf9119924a821d2faf",
+          "ProblemID": 1668876,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457460,
+          "TypeText": "判断题",
+          "Body": "<p>1. 关联规则挖掘过程是发现满足最小支持度的所有项集代表的规则。</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457460
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 19:57",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668876
+      },
+      {
+        "max_retry": 1,
+        "index": 41,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.5,
+          "ProblemID": 1668877,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457462,
+          "TypeText": "判断题",
+          "Body": "<p>2. 利用先验原理可以帮助减少频繁项集产生时需要探查的候选项个数。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "2b525e0af4b7447dbaebc26b510c67f1",
+          "HasRemark": false,
+          "template_id": 457462
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 19:58",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668877
+      },
+      {
+        "max_retry": 1,
+        "index": 42,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.5,
+          "ProblemID": 1668878,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457463,
+          "TypeText": "判断题",
+          "Body": "<p>3. 先验原理可以表述为：如果一个项集是频繁的，那包含它的所有项集也是频繁的。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "d724076bd57f41f083188ab55a5afc0f",
+          "HasRemark": false,
+          "template_id": 457463
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 19:59",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668878
+      },
+      {
+        "max_retry": 1,
+        "index": 43,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "58387412e3574953a6430bffd0cecdfd",
+          "ProblemID": 1668879,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457464,
+          "TypeText": "判断题",
+          "Body": "<p>4. 先验原理可以表述为：如果一个项集是频繁的，那包含它的所有非空子集也是频繁的。</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457464
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 20:02",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668879
+      },
+      {
+        "max_retry": 1,
+        "index": 44,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.5,
+          "ProblemID": 1668880,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457465,
+          "TypeText": "判断题",
+          "Body": "<p>5. 具有较高的支持度的项集具有较高的置信度。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "8246ea8992dd4116a7311b46a090c081",
+          "HasRemark": false,
+          "template_id": 457465
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 20:02",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668880
+      },
+      {
+        "max_retry": 1,
+        "index": 45,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.5,
+          "ProblemID": 1668881,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457466,
+          "TypeText": "判断题",
+          "Body": "<p>6. 如果两个项集的提升度的值小于1，则说明两个项集正相关。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "976798cbe33b4deb86e73c1909cbdcd1",
+          "HasRemark": false,
+          "template_id": 457466
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "submit_time": "2020-03-21 20:03",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668881
+      },
+      {
+        "max_retry": 1,
+        "index": 46,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.5,
+          "ProblemID": 1668882,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457467,
+          "TypeText": "判断题",
+          "Body": "<p>7. 两个项集的全置信度越大，说明两个项集的关系越紧密，反之则关系越疏远。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "7df50a1d2ea048b89a6806a3299cb669",
+          "HasRemark": false,
+          "template_id": 457467
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 20:03",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668882
+      },
+      {
+        "max_retry": 1,
+        "index": 47,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "9e25d494830546b79746997369d183a8",
+          "ProblemID": 1668883,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457468,
+          "TypeText": "判断题",
+          "Body": "<p>8. 极大频繁项集的直接超集都不是频繁的。</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457468
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 20:05",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668883
+      },
+      {
+        "max_retry": 1,
+        "index": 48,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.5,
+          "ProblemID": 1668884,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457469,
+          "TypeText": "判断题",
+          "Body": "<p>9. 可信度是对关联规则的准确度的衡量。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "7de467ffbaa04366a74f19b85c5fe8c5",
+          "HasRemark": false,
+          "template_id": 457469
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 20:06",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668884
+      },
+      {
+        "max_retry": 1,
+        "index": 49,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.5,
+          "ProblemID": 1668885,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457470,
+          "TypeText": "判断题",
+          "Body": "<p>10. Apriori算法是一种典型的关联规则挖掘算法。&nbsp;</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "f369d3ffca1d4fdeb6d35567d705145a",
+          "HasRemark": false,
+          "template_id": 457470
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 20:09",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668885
+      },
+      {
+        "max_retry": 1,
+        "index": 50,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "d10d694991014eebbff7eb4fc1bdead5",
+          "ProblemID": 1668886,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457471,
+          "TypeText": "判断题",
+          "Body": "<p>11. 关联规则是形如X=&gt;Y的蕴含式，X和Y满足：X和Y是I的真子集，并且X和Y的交集为空集。</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457471
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 20:10",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668886
+      },
+      {
+        "max_retry": 1,
+        "index": 51,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "66c6b32168284e5ebcd7119b1242877f",
+          "ProblemID": 1668887,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.5,
+          "TemplateID": 457472,
+          "TypeText": "判断题",
+          "Body": "<p>12. 设最小支持度阈值为30%，最小置信度阈值为70%，如果一个项集的支持度为50%，则该项集是频繁项集。</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.5,
+          "HasRemark": false,
+          "template_id": 457472
+        },
+        "score": 1.5,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.50",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-21 20:10",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668887
+      }
+    ],
+    "answer_count": 51,
+    "exercise_id": 235665,
+    "name": "第6章 作业"
+  },
+  "success": true
+}

@@ -1,0 +1,2140 @@
+{
+  "msg": "",
+  "data": {
+    "max_retry": 1,
+    "description": "",
+    "show_answer": 0,
+    "show_answer_time": 0,
+    "is_show_answer": true,
+    "problems": [
+      {
+        "max_retry": 1,
+        "index": 1,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "9a7a6024f6bb4ec8959b120dc53f49a5",
+          "ProblemID": 1668683,
+          "max_retry": 1,
+          "problem_type": 1,
+          "Body": "<p>1. 下面哪个不属于数据的属性类型（ &nbsp; &nbsp;）。</p>",
+          "Type": "SingleChoice",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457271,
+          "TypeText": "单选题",
+          "answerIndex": 3,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>标称</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>序数</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>区间</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>相异</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457271
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-29 13:47",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668683
+      },
+      {
+        "max_retry": 1,
+        "index": 2,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "24c73f56c7774ab4a7c8de6102fbfd50",
+          "ProblemID": 1668682,
+          "max_retry": 1,
+          "problem_type": 1,
+          "Body": "<p>2. 属于定量的属性类型是（ &nbsp; &nbsp;）。</p>",
+          "Type": "SingleChoice",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457272,
+          "TypeText": "单选题",
+          "answerIndex": 2,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>标称</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>序数</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>区间</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>相异</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457272
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-29 13:47",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668682
+      },
+      {
+        "max_retry": 1,
+        "index": 3,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "a4bf1715b7c1493d9d8d5aded0dd5d50",
+          "ProblemID": 1668681,
+          "max_retry": 1,
+          "problem_type": 1,
+          "Body": "<p>3. 一所大学内的各年纪人数分别为：一年级200人，二年级160人，三年级130人，四年级110人。则年级属性的众数是（ &nbsp; &nbsp;） 。</p>",
+          "Type": "SingleChoice",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457273,
+          "TypeText": "单选题",
+          "answerIndex": 0,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>一年级</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>二年级</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>三年级</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>四年级</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457273
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-29 13:48",
+          "answer": [
+            "A"
+          ],
+          "my_answer": [
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668681
+      },
+      {
+        "max_retry": 1,
+        "index": 4,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "27d02f88e4b246d8add7f04776902bbf",
+          "ProblemID": 1668680,
+          "max_retry": 1,
+          "problem_type": 1,
+          "Body": "<p>4. 假设属性income的最大最小值分别是12000元和98000元。利用最大最小规范化的方法将属性的值映射到0至1的范围内。对属性income的73600元将被转化为（ &nbsp; &nbsp;）。</p>",
+          "Type": "SingleChoice",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457274,
+          "TypeText": "单选题",
+          "answerIndex": 3,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>0.821</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>1.224</p>",
+              "key": "B"
+            },
+            {
+              "value": "1.458",
+              "key": "C"
+            },
+            {
+              "value": "<p>0.716</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457274
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-29 13:50",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668680
+      },
+      {
+        "max_retry": 1,
+        "index": 5,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 0,
+          "Score": 2.0,
+          "ProblemID": 1668679,
+          "problem_type": 1,
+          "max_retry": 1,
+          "Type": "SingleChoice",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457275,
+          "TypeText": "单选题",
+          "Body": "<p>5. 考虑数据集{12 24 33 24 55 68 26}，其四分位数极差是（ &nbsp; &nbsp;）。</p>",
+          "Remark": "",
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>31</p>"
+            },
+            {
+              "key": "B",
+              "value": "<p>24</p>"
+            },
+            {
+              "key": "C",
+              "value": "<p>55</p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>3</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "97ad1ff9c78b485ebf80a6afd4671067",
+          "HasRemark": true,
+          "template_id": 457275
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "explain": "",
+          "submit_time": "2020-02-29 13:52",
+          "answer": [
+            "A"
+          ],
+          "my_answer": [
+            "A"
+          ],
+          "is_show_explain": true
+        },
+        "problem_id": 1668679
+      },
+      {
+        "max_retry": 1,
+        "index": 6,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "7eb019f984f143598aef53f018d3bd16",
+          "ProblemID": 1668678,
+          "max_retry": 1,
+          "problem_type": 1,
+          "Body": "<p>6. 光年所属的属性类型为（ &nbsp; &nbsp;）。</p>",
+          "Type": "SingleChoice",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457276,
+          "TypeText": "单选题",
+          "answerIndex": 3,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>标称属性</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>序数属性</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>区间标度属性</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>比率标度属性</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457276
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 2,
+          "is_right": true,
+          "submit_time": "2020-02-29 13:52",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668678
+      },
+      {
+        "max_retry": 1,
+        "index": 7,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Score": 2.0,
+          "ProblemID": 1668652,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "problem_type": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457919,
+          "TypeText": "单选题",
+          "Body": "<p>8. 某班数学期末考成绩分组数据如下，则数据的中位数区间是（ &nbsp; &nbsp;）。</p><p><img src=\"http://sc0.ykt.io/ue_i/20191215/1206023106339147776.png\" alt=\"image.png\"/></p>",
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>60至69分</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>70至79分</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>80至89分</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>90至100分</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Version": "bbde03d114e843ed949dd9cb99d856a3",
+          "HasRemark": false,
+          "template_id": 457919
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-29 13:54",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668652
+      },
+      {
+        "max_retry": 1,
+        "index": 8,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "b2a19060f9a543bfbc376cf58d57ebd3",
+          "ProblemID": 1668677,
+          "max_retry": 1,
+          "problem_type": 1,
+          "Body": "<p>9. 军衔所属的属性类型为（ &nbsp; &nbsp;）。</p>",
+          "Type": "SingleChoice",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457279,
+          "TypeText": "单选题",
+          "answerIndex": 1,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>标称属性</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>序数属性</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>二元属性</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>数值属性</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457279
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-29 13:54",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668677
+      },
+      {
+        "max_retry": 1,
+        "index": 9,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "1e51221c3f504e83931fe6a652a13e8d",
+          "ProblemID": 1668676,
+          "max_retry": 1,
+          "problem_type": 1,
+          "Body": "<p>11. 计算p1(2，1，4，10)和p2(3，0，3，8)两个对象之间的曼哈顿距离（ &nbsp; &nbsp;）。</p>",
+          "Type": "SingleChoice",
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457281,
+          "TypeText": "单选题",
+          "answerIndex": 2,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>4</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>2</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>5</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>3</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457281
+        },
+        "score": 3.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-29 13:54",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668676
+      },
+      {
+        "max_retry": 1,
+        "index": 10,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "5a570b568f464c7a95fc5429a9ff4ab2",
+          "ProblemID": 1668675,
+          "max_retry": 1,
+          "problem_type": 1,
+          "Body": "<p>12. 用AM 和PM 表示的时间的属性类型是（ &nbsp; &nbsp;）。</p>",
+          "Type": "SingleChoice",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457282,
+          "TypeText": "单选题",
+          "answerIndex": 3,
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "<p>标称</p>",
+              "key": "A"
+            },
+            {
+              "value": "<p>序数</p>",
+              "key": "B"
+            },
+            {
+              "value": "<p>区间</p>",
+              "key": "C"
+            },
+            {
+              "value": "<p>二元</p>",
+              "key": "D"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457282
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 2,
+          "is_right": false,
+          "submit_time": "2020-02-29 13:55",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668675
+      },
+      {
+        "max_retry": 1,
+        "index": 11,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "BlanksScore": [],
+          "Version": "d73d63602bbc42809a43b26218d0d80e",
+          "ProblemID": 1668684,
+          "Type": "FillBlank",
+          "Body": "<p style=\"font-size: medium; white-space: normal;\">1. 属性可以分为<span class=\"blank-item\" style=\"display:inline-block;\">[填空1]</span>、<span class=\"blank-item\" style=\"display:inline-block;\">[填空2]</span>、<span class=\"blank-item\" style=\"display:inline-block;\">[填空3]</span>和<span class=\"blank-item\" style=\"display:inline-block;\">[填空4]</span>四类。 &nbsp; &nbsp;</p><table cellpadding=\"0\" cellspacing=\"0\" width=\"180\"><colgroup><col width=\"240\" style=\"width: 180pt;\"/></colgroup><tbody><tr class=\"firstRow\"></tr></tbody></table><p style=\"font-size: medium; white-space: normal;\">&nbsp; &nbsp;</p><p style=\"font-size: medium; white-space: normal;\"><br style=\"font-size: 16px;\"/></p><p><br/></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 2,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 2,
+              "Num": 2,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 2,
+              "Num": 3,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 2,
+              "Num": 4,
+              "FuzzyMatch": false
+            }
+          ],
+          "LibraryName": "数据挖掘",
+          "score": 8.0,
+          "TemplateID": 457927,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 8.0,
+          "HasRemark": false,
+          "template_id": 457927
+        },
+        "score": 8.0,
+        "blank_count": 4,
+        "problem_id": 1668684,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "8.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "标称属性",
+              "标称"
+            ],
+            "3": [
+              "序数属性",
+              "序数"
+            ],
+            "2": [
+              "二元属性",
+              "二元"
+            ],
+            "4": [
+              "数值属性",
+              "数值"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "标称",
+              "is_right": true
+            },
+            "3": {
+              "answer": "序数",
+              "is_right": true
+            },
+            "2": {
+              "answer": "二元",
+              "is_right": true
+            },
+            "4": {
+              "answer": "数值",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-29 13:55",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 12,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "aff4b991a77649488776947bfe3a0413",
+          "ProblemID": 1668674,
+          "problem_type": 4,
+          "Body": "<p>2. 中心趋势度量包括<span class=\"blank-item\">[填空1]</span>、<span class=\"blank-item\">[填空2]</span>、<span class=\"blank-item\">[填空3]</span>和<span class=\"blank-item\">[填空4]</span>。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 2,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 2,
+              "Num": 2,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 2,
+              "Num": 3,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 2,
+              "Num": 4,
+              "FuzzyMatch": false
+            }
+          ],
+          "Type": "FillBlank",
+          "LibraryName": "数据挖掘",
+          "score": 8.0,
+          "TemplateID": 457283,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": true,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 8.0,
+          "HasRemark": false,
+          "template_id": 457283
+        },
+        "score": 8.0,
+        "blank_count": 4,
+        "problem_id": 1668674,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "8.00",
+          "my_count": 2,
+          "answers": {
+            "1": [
+              "均值"
+            ],
+            "3": [
+              "中位数"
+            ],
+            "2": [
+              "众数"
+            ],
+            "4": [
+              "中列数"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "均值",
+              "is_right": true
+            },
+            "3": {
+              "answer": "众数",
+              "is_right": true
+            },
+            "2": {
+              "answer": "中位数",
+              "is_right": true
+            },
+            "4": {
+              "answer": "中列数",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-29 13:58",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 13,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "dd3811528f0844979ec225d4397a9473",
+          "ProblemID": 1668650,
+          "problem_type": 4,
+          "Body": "<p>4. 假设给定的数据集的值已经分组为区间。区间和对应的频率如下。\n\n\n\n\n\n\n\n\n\n则数据的近似分组中位数是<span class=\"blank-item\">[填空1]</span>。</p><p><img src=\"http://sc0.ykt.io/ue_i/20191215/1206024400990769152.png\" alt=\"image.png\"/></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "Type": "FillBlank",
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457921,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457921
+        },
+        "score": 3.0,
+        "blank_count": 1,
+        "problem_id": 1668650,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 2,
+          "answers": {
+            "1": [
+              "32.94"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "32.94",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-29 14:04",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 14,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "6a090b7753804f178b64e959c9bf070d",
+          "ProblemID": 1668672,
+          "Type": "FillBlank",
+          "Body": "<p>5. 某部门的月薪情况如下（单位：千元），30,33,48,50,53,53,57,60,64,68,70,70,90,则该部门员工的月薪的均值为<span class=\"blank-item\">[填空1]</span>。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "problem_type": 4,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457286,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457286
+        },
+        "score": 3.0,
+        "blank_count": 1,
+        "problem_id": 1668672,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "57.38"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "57.38",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-29 14:05",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 15,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "d90e1bc6fe034f4abd0cbf059cc3bbdc",
+          "ProblemID": 1668671,
+          "Type": "FillBlank",
+          "Body": "<p>6. 数据集{5,10,11,13,15,15,35,50,55,72,92,204,215}的中位数为<span class=\"blank-item\">[填空1]</span>，众数为<span class=\"blank-item\">[填空2]</span>。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 2,
+              "FuzzyMatch": false
+            }
+          ],
+          "problem_type": 4,
+          "LibraryName": "数据挖掘",
+          "score": 6.0,
+          "TemplateID": 457287,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 6.0,
+          "HasRemark": false,
+          "template_id": 457287
+        },
+        "score": 6.0,
+        "blank_count": 2,
+        "problem_id": 1668671,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "6.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "35"
+            ],
+            "2": [
+              "15"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "35",
+              "is_right": true
+            },
+            "2": {
+              "answer": "15",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-29 14:06",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 16,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1668649,
+          "Type": "FillBlank",
+          "Body": "<p>7. 假设小明某一学期的考试成绩及每门课的学分如下表所示，则小明本学期的加权平均成绩为<span class=\"blank-item\">[填空1]</span>。</p><p><img src=\"http://sc0.ykt.io/ue_i/20200226/1232493440961482752.png\" alt=\"image.png\"/></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "problem_type": 4,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457922,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "b3f3e211c9a84e66a29c2b4ee94ba88e",
+          "HasRemark": false,
+          "template_id": 457922
+        },
+        "score": 3.0,
+        "blank_count": 1,
+        "problem_id": 1668649,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "81.45"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "81.45",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-29 14:06",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 17,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 3.0,
+          "ProblemID": 1668670,
+          "Type": "FillBlank",
+          "Body": "<p>8. 给定两个对象的元组x=(4,3,5,1)与y=(1,6,7,3)，它们之间的余弦相似度为<span class=\"blank-item\">[填空1]</span>。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "problem_type": 4,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457289,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Version": "0ebba708739b4944a5933c3528cdc0b7",
+          "HasRemark": false,
+          "template_id": 457289
+        },
+        "score": 3.0,
+        "blank_count": 1,
+        "problem_id": 1668670,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "0.86"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "0.86",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-29 14:06",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 18,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "2801edc9703e4354b59b0d8ca201f642",
+          "ProblemID": 1668654,
+          "problem_type": 4,
+          "max_retry": 1,
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "Type": "FillBlank",
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457290,
+          "TypeText": "填空题",
+          "Body": "<p>9. 小明参加数学竞赛选拔赛，他十次测试成绩为：76,84,90,86,81,87,86,82,85,83。则小明同学十次测试成绩的方差是<span class=\"blank-item\">[填空1]</span>。</p>",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "problem_id": 1668654,
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457290
+        },
+        "score": 3.0,
+        "blank_count": 1,
+        "problem_id": 1668654,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "13.2",
+              "13.20"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "13.2",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-29 14:06",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 19,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "f8ec11e7f835436389ecf095e44f1142",
+          "ProblemID": 1668669,
+          "Type": "FillBlank",
+          "Body": "<p>10. 已知点A的空间坐标为(6,30,9)，点B的空间坐标为(10,35,2)，则A与B之间的切比雪夫距离为<span class=\"blank-item\">[填空1]</span>。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "problem_type": 4,
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457291,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457291
+        },
+        "score": 3.0,
+        "blank_count": 1,
+        "problem_id": 1668669,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "7"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "7",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-29 14:07",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 20,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "55f32cd97e9a4e2fa40c312515a375de",
+          "ProblemID": 1668668,
+          "problem_type": 4,
+          "Body": "<p>11. 只有非零值才重要的二元属性被称作<span class=\"blank-item\">[填空1]</span>。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 2,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "Type": "FillBlank",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457292,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457292
+        },
+        "score": 2.0,
+        "blank_count": 1,
+        "problem_id": 1668668,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "非对称二元属性",
+              "非对称二元"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "非对称二元属性",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-29 14:08",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 21,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "0ba8fbd7cec64698a902d967c83de807",
+          "ProblemID": 1668667,
+          "problem_type": 4,
+          "Body": "<p>13. 某组同学的成绩评定结果如下，\n\n\n\n\n\n\n\n则A与B，A与C，B与C之间的相异性是<span class=\"blank-item\">[填空1]</span>、<span class=\"blank-item\">[填空2]</span>和<span class=\"blank-item\">[填空3]</span>。</p><p><img src=\"http://sc0.ykt.io/ue_i/20200226/1232493957490020352.png\" alt=\"image.png\"/></p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 1,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 2,
+              "FuzzyMatch": false
+            },
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 3,
+              "FuzzyMatch": false
+            }
+          ],
+          "Type": "FillBlank",
+          "LibraryName": "数据挖掘",
+          "score": 9.0,
+          "TemplateID": 457293,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 5,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 9.0,
+          "HasRemark": false,
+          "template_id": 457293
+        },
+        "score": 9.0,
+        "blank_count": 3,
+        "problem_id": 1668667,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "9.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "1.06"
+            ],
+            "3": [
+              "0.82"
+            ],
+            "2": [
+              "0.82"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "1.06",
+              "is_right": true
+            },
+            "3": {
+              "answer": "0.82",
+              "is_right": true
+            },
+            "2": {
+              "answer": "0.82",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-29 14:10",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 22,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "9fbf522c286f4eb283eeeb3ac51101e1",
+          "ProblemID": 1668666,
+          "problem_type": 4,
+          "Body": "<p>14. 给定两个词向量元祖A(6,2,5,8)和B(4,5,2,6)，则这两个对象之间的闵可夫斯基距离（其中h=4）是<span class=\"blank-item\">[填空1]</span>。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "Type": "FillBlank",
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457294,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "Remark": "",
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457294
+        },
+        "score": 3.0,
+        "blank_count": 1,
+        "problem_id": 1668666,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 2,
+          "answers": {
+            "1": [
+              "3.73"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "3.73",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-29 14:16",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 23,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "5b28ca0224e64a6a9ba159a02ba129ca",
+          "ProblemID": 1668665,
+          "problem_type": 4,
+          "Body": "<p>15. 假定用于分析的数据包含属性age，数据元组中age 的值如下(按递增序)：\n13,15,16,16,19,20,20,21,22,22,25,25,25,25,30,33,33,35,35,35,35,36,40,45,45,52,70。则该组数据的中列数是<span class=\"blank-item\">[填空1]</span>。</p>",
+          "Blanks": [
+            {
+              "CaseSensitive": false,
+              "Score": 3,
+              "Num": 1,
+              "FuzzyMatch": false
+            }
+          ],
+          "Type": "FillBlank",
+          "LibraryName": "数据挖掘",
+          "score": 3.0,
+          "TemplateID": 457295,
+          "TypeText": "填空题",
+          "max_retry": 1,
+          "ProblemType": 4,
+          "difficulty": 1,
+          "OrderInsensitive": false,
+          "LibraryID": 4474,
+          "data": {},
+          "isEdit": false,
+          "Score": 3.0,
+          "HasRemark": false,
+          "template_id": 457295
+        },
+        "score": 3.0,
+        "blank_count": 1,
+        "problem_id": 1668665,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "3.00",
+          "my_count": 1,
+          "answers": {
+            "1": [
+              "41.5",
+              "41.50"
+            ]
+          },
+          "is_right": true,
+          "my_answers": {
+            "1": {
+              "answer": "41.5",
+              "is_right": true
+            }
+          },
+          "submit_time": "2020-02-29 14:16",
+          "is_show_explain": false
+        }
+      },
+      {
+        "max_retry": 1,
+        "index": 24,
+        "review_detail": {},
+        "content": {
+          "Body": "1. 人的血型属于标称属性。                                    ",
+          "library_id": 4474,
+          "Remark": null,
+          "LibraryID": 4474,
+          "Version": "d030d1b3a1644f13b8f95878a73271ee",
+          "template_id": 457296,
+          "Type": "Judgement",
+          "LibraryName": "数据挖掘",
+          "Score": 2.0,
+          "ProblemType": 6,
+          "Options": [
+            {
+              "value": "正确",
+              "key": "true"
+            },
+            {
+              "value": "错误",
+              "key": "false"
+            }
+          ],
+          "difficulty": 1,
+          "score": 2.0,
+          "TemplateID": 457296,
+          "HasRemark": false,
+          "problem_type": 6,
+          "ProblemID": 1668664,
+          "max_retry": 1,
+          "data": {},
+          "TypeText": "判断题"
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-29 14:16",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668664
+      },
+      {
+        "max_retry": 1,
+        "index": 25,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.0,
+          "ProblemID": 1668663,
+          "problem_type": 6,
+          "Body": "<p>2. 酒店的星级属于数值属性。 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>",
+          "Type": "Judgement",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457297,
+          "TypeText": "判断题",
+          "max_retry": 1,
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "c1d3db9da30742189a1fdbdc5923ff2b",
+          "HasRemark": false,
+          "template_id": 457297
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-29 14:16",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668663
+      },
+      {
+        "max_retry": 1,
+        "index": 26,
+        "review_detail": {},
+        "content": {
+          "Body": "3. 某品种玉米苗中抽取10株，测得它们的株高为：21,42,39,14,19,22,37,41,40,25（单位：cm），则玉米苗株高的标准差为10.21。",
+          "library_id": 4474,
+          "Remark": null,
+          "LibraryID": 4474,
+          "Version": "2b4b855f5d2a45f8b6ef0fe93c8ed73f",
+          "template_id": 457298,
+          "Type": "Judgement",
+          "LibraryName": "数据挖掘",
+          "Score": 2.0,
+          "ProblemType": 6,
+          "Options": [
+            {
+              "value": "正确",
+              "key": "true"
+            },
+            {
+              "value": "错误",
+              "key": "false"
+            }
+          ],
+          "difficulty": 1,
+          "score": 2.0,
+          "TemplateID": 457298,
+          "HasRemark": false,
+          "problem_type": 6,
+          "ProblemID": 1668662,
+          "max_retry": 1,
+          "data": {},
+          "TypeText": "判断题"
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-29 14:17",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668662
+      },
+      {
+        "max_retry": 1,
+        "index": 27,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.0,
+          "ProblemID": 1668661,
+          "problem_type": 6,
+          "Body": "<p>4. 离散属性总是具有有限个值。　　　　　　　　 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>",
+          "Type": "Judgement",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457299,
+          "TypeText": "判断题",
+          "max_retry": 1,
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "29fe2ee0773b4de488ae8c07568e4ab9",
+          "HasRemark": false,
+          "template_id": 457299
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 2,
+          "is_right": true,
+          "submit_time": "2020-02-29 14:17",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668661
+      },
+      {
+        "max_retry": 1,
+        "index": 28,
+        "review_detail": {},
+        "content": {
+          "Body": "5. 标称属性的值提供了足够的信息用于区分对象。                ",
+          "library_id": 4474,
+          "Remark": null,
+          "LibraryID": 4474,
+          "Version": "2df010ca8a96460587547ca6c8391abd",
+          "template_id": 457300,
+          "Type": "Judgement",
+          "LibraryName": "数据挖掘",
+          "Score": 2.0,
+          "ProblemType": 6,
+          "Options": [
+            {
+              "value": "正确",
+              "key": "true"
+            },
+            {
+              "value": "错误",
+              "key": "false"
+            }
+          ],
+          "difficulty": 1,
+          "score": 2.0,
+          "TemplateID": 457300,
+          "HasRemark": false,
+          "problem_type": 6,
+          "ProblemID": 1668660,
+          "max_retry": 1,
+          "data": {},
+          "TypeText": "判断题"
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-29 14:18",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668660
+      },
+      {
+        "max_retry": 1,
+        "index": 29,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.0,
+          "ProblemID": 1668659,
+          "problem_type": 6,
+          "Body": "<p>6. 数值属性的值提供足够的信息确定对象的顺序。 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>",
+          "Type": "Judgement",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457301,
+          "TypeText": "判断题",
+          "max_retry": 1,
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "1639ac2fc2d54db1aaf1ea3df6adc7ac",
+          "HasRemark": false,
+          "template_id": 457301
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 2,
+          "is_right": true,
+          "submit_time": "2020-02-29 14:18",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668659
+      },
+      {
+        "max_retry": 1,
+        "index": 30,
+        "review_detail": {},
+        "content": {
+          "Body": "7. 欧几里得距离、曼哈顿距离、闵可夫斯基距离和切比雪夫距离均满足非负性、同一性和三角不等式。",
+          "library_id": 4474,
+          "Remark": null,
+          "LibraryID": 4474,
+          "Version": "0cda495e9a5744a699be67e404612e57",
+          "template_id": 457302,
+          "Type": "Judgement",
+          "LibraryName": "数据挖掘",
+          "Score": 2.0,
+          "ProblemType": 6,
+          "Options": [
+            {
+              "value": "正确",
+              "key": "true"
+            },
+            {
+              "value": "错误",
+              "key": "false"
+            }
+          ],
+          "difficulty": 1,
+          "score": 2.0,
+          "TemplateID": 457302,
+          "HasRemark": false,
+          "problem_type": 6,
+          "ProblemID": 1668658,
+          "max_retry": 1,
+          "data": {},
+          "TypeText": "判断题"
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 2,
+          "is_right": true,
+          "submit_time": "2020-02-29 14:18",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668658
+      },
+      {
+        "max_retry": 1,
+        "index": 31,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 2.0,
+          "ProblemID": 1668657,
+          "problem_type": 6,
+          "Body": "<p>8. 余弦相似性利用向量空间中两个向量夹角的余弦值来衡量两个个体间的差异。余弦值越接近0，夹角越大，向量之间匹配越大。余弦值越接近1，夹角越小，向量之间匹配越小。</p>",
+          "Type": "Judgement",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457303,
+          "TypeText": "判断题",
+          "max_retry": 1,
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "9feef39a935745b68d981d13e77480de",
+          "HasRemark": false,
+          "template_id": 457303
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-29 14:19",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668657
+      },
+      {
+        "max_retry": 1,
+        "index": 32,
+        "review_detail": {},
+        "content": {
+          "Body": "9. 二元属性的相异性有两种，一种是对称的二元相异性，另一种是非对称的二元相异性。",
+          "library_id": 4474,
+          "Remark": null,
+          "LibraryID": 4474,
+          "Version": "6a45e2fbd8264d65bc8aea1d8f8ecac0",
+          "template_id": 457304,
+          "Type": "Judgement",
+          "LibraryName": "数据挖掘",
+          "Score": 2.0,
+          "ProblemType": 6,
+          "Options": [
+            {
+              "value": "正确",
+              "key": "true"
+            },
+            {
+              "value": "错误",
+              "key": "false"
+            }
+          ],
+          "difficulty": 1,
+          "score": 2.0,
+          "TemplateID": 457304,
+          "HasRemark": false,
+          "problem_type": 6,
+          "ProblemID": 1668656,
+          "max_retry": 1,
+          "data": {},
+          "TypeText": "判断题"
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-29 14:19",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668656
+      },
+      {
+        "max_retry": 1,
+        "index": 33,
+        "review_detail": {},
+        "content": {
+          "Body": "10. 已知点X的空间坐标为(3,4,2)，点Y的空间坐标为(1,6,1)，则X与Y的欧几里得距离为3。",
+          "library_id": 4474,
+          "Remark": null,
+          "LibraryID": 4474,
+          "Version": "0d0589b4c7554b3d8858134bd193ee33",
+          "template_id": 457305,
+          "Type": "Judgement",
+          "LibraryName": "数据挖掘",
+          "Score": 2.0,
+          "ProblemType": 6,
+          "Options": [
+            {
+              "value": "正确",
+              "key": "true"
+            },
+            {
+              "value": "错误",
+              "key": "false"
+            }
+          ],
+          "difficulty": 1,
+          "score": 2.0,
+          "TemplateID": 457305,
+          "HasRemark": false,
+          "problem_type": 6,
+          "ProblemID": 1668655,
+          "max_retry": 1,
+          "data": {},
+          "TypeText": "判断题"
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-29 14:19",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668655
+      },
+      {
+        "max_retry": 1,
+        "index": 34,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "dbe483dcbaa2476fae548a97e6e30ea5",
+          "ProblemID": 1668689,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457938,
+          "TypeText": "判断题",
+          "Body": "<p style=\"font-size: medium; white-space: normal;\">4. 计算由不对称的二元变量描述的对象间的相异度可以使用 Jaccard 系数；</p><p style=\"font-size: medium; white-space: normal;\">计算用分类变量描述的对象间的相异度可以采用属性值匹配的方法(属性值匹配，相似度为1，否则为0)；</p><p style=\"font-size: medium; white-space: normal;\"><br style=\"font-size: 16px;\"/></p><p><br/></p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "template_id": 457938
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-02-29 14:19",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668689
+      }
+    ],
+    "answer_count": 34,
+    "exercise_id": 235661,
+    "name": "第2章 作业"
+  },
+  "success": true
+}

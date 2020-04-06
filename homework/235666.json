@@ -1,0 +1,1684 @@
+{
+  "msg": "",
+  "data": {
+    "max_retry": 1,
+    "description": "",
+    "show_answer": 0,
+    "show_answer_time": 0,
+    "is_show_answer": true,
+    "problems": [
+      {
+        "max_retry": 1,
+        "index": 1,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Version": "5765d0fa94974925ad12981b176b7039",
+          "ProblemID": 1668893,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457740,
+          "TypeText": "单选题",
+          "Body": "<p>6. 某苹果数据集如下所示， K近邻分类法（K取3）对（色度=8.8，高度=7.1，宽度=7.0）的苹果进行分类的结果为（ ）&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205839087790067712.png\" alt=\"image.png\"/></p><p><br/></p><p><br/></p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A.绿苹果；&nbsp;</p><p><br/></p><p><br/></p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B.布瑞本；&nbsp;</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C.金冠苹果；&nbsp;</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D.绿苹果或布瑞本；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.0,
+          "HasRemark": false,
+          "template_id": 457740
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 22:38",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668893
+      },
+      {
+        "max_retry": 1,
+        "index": 2,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Score": 1.0,
+          "ProblemID": 1668894,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457742,
+          "TypeText": "单选题",
+          "Body": "<p>7. 下列是有关于是否投保的数据集，第二列至第四列为特征，表中最后一列类别代表是否投保，按照“年薪”进行划分的信息增益率为（ ）</p><p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205839245957271552.png\" alt=\"image.png\"/></p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A.0.061；&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p><br/></p><p><br/></p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B.0.327；&nbsp; &nbsp; &nbsp;</p><p style=\"white-space: normal;\"><br/></p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C.0.485；&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p style=\"white-space: normal;\"><br/></p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D.0；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "830db78d2a8a4d97802e329101039149",
+          "HasRemark": false,
+          "template_id": 457742
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 22:52",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668894
+      },
+      {
+        "max_retry": 1,
+        "index": 3,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Version": "e297c1138e3845dab31adc07e5eb431c",
+          "ProblemID": 1668895,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457743,
+          "TypeText": "单选题",
+          "Body": "<p>8. 考虑下表中的数据集，使用贝叶斯分类预测记录X=（有房=否，婚姻状况=已婚，年收入=120k）的类标号（ ）</p><p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205839408557854720.png\" alt=\"image.png\"/></p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A.Yes；&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p><br/></p><p><br/></p>"
+            },
+            {
+              "key": "B",
+              "value": "<p>B. No；&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p><br/></p><p><br style=\"white-space: normal;\"/></p><p><br/></p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. Yes or No；&nbsp; &nbsp;&nbsp;</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. 不确定；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.0,
+          "HasRemark": false,
+          "template_id": 457743
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 22:55",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668895
+      },
+      {
+        "max_retry": 1,
+        "index": 4,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 3,
+          "Score": 1.0,
+          "ProblemID": 1668896,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457744,
+          "TypeText": "单选题",
+          "Body": "<p>9. 考虑下表中的一维数据集，根据 1-最近邻、3-最近邻、5-最近邻、9-最近邻，对数据点 x=5.0分类，使用多数表决（ ）</p><p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205839615475453952.png\" alt=\"image.png\"/></p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. -、+、-、+；&nbsp; &nbsp;</p><p><br/></p><p><br/></p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B. +、+、-、-；&nbsp;</p><p style=\"white-space: normal;\"><br/></p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. -、-、+、+；</p><p style=\"white-space: normal;\"><br/></p><p><br style=\"white-space: normal;\"/></p><p><br/></p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. +、-、+、-；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "37ceb43854634f8a8ac36e91ab2a598f",
+          "HasRemark": false,
+          "template_id": 457744
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 23:03",
+          "answer": [
+            "D"
+          ],
+          "my_answer": [
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668896
+      },
+      {
+        "max_retry": 1,
+        "index": 5,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 0,
+          "Score": 1.0,
+          "ProblemID": 1668898,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457746,
+          "TypeText": "单选题",
+          "Body": "<p>11. 下表给出了一个关于动物类别的训练数据。数据集包含5个属性：warm_blooded、feathers、fur、swims、lays_eggs。 若样本按warm_blooded划分，对应的熵为（ ）</p><p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205840232159776768.png\" alt=\"image.png\"/></p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A.0.809；&nbsp; &nbsp; &nbsp; &nbsp;</p><p><br/></p><p><br/></p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B. 0.819；&nbsp; &nbsp; &nbsp; &nbsp;</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. 0.609；&nbsp; &nbsp;&nbsp;</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. 0.619；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "d637bf1d6b064505a793bdbadc0310b5",
+          "HasRemark": false,
+          "template_id": 457746
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 23:58",
+          "answer": [
+            "A"
+          ],
+          "my_answer": [
+            "A"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668898
+      },
+      {
+        "max_retry": 1,
+        "index": 6,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Score": 1.0,
+          "ProblemID": 1668901,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457749,
+          "TypeText": "单选题",
+          "Body": "<p>14. 下面的例子被分为3类：{Short，Tall，Medium}，Height属性被划分为（0，1.6），（1.6，1.7），（1.7，1.8），（1.8，1.9），（1.9，2.0），（2.0，∞），根据下表，对于t=&lt;Adam，M，1.95m&gt;用贝叶斯分类方法进行分类，则最终结果为（ ）</p><p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205840597001310208.png\" alt=\"image.png\"/></p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. Short；&nbsp;</p><p><br/></p>"
+            },
+            {
+              "key": "B",
+              "value": "<p>B. Tall；&nbsp;</p><p><br/></p><p><br style=\"white-space: normal;\"/></p><p><br/></p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. Medium；&nbsp;</p><p><br/></p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. None；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "6b69415252954da68a68b1262f359cf0",
+          "HasRemark": false,
+          "template_id": 457749
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 23:13",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668901
+      },
+      {
+        "max_retry": 1,
+        "index": 7,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 2,
+          "Version": "5ac4cce551b4444eb234bbfeec128d83",
+          "ProblemID": 1668902,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457750,
+          "TypeText": "单选题",
+          "Body": "<p>15. 下列是有关于是否购买电脑的数据集，其中学历，是否结婚，收入为特征，表中最后一列类别代表是否购买电脑，则数据集的信息熵为（ ）</p><p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205840748839309312.png\" alt=\"image.png\"/></p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. 0.254；&nbsp;</p><p><br/></p><p><br/></p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B. 0.376；&nbsp;</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. 0.971；&nbsp;</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. 0.865；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.0,
+          "HasRemark": false,
+          "template_id": 457750
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 23:13",
+          "answer": [
+            "C"
+          ],
+          "my_answer": [
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668902
+      },
+      {
+        "max_retry": 1,
+        "index": 8,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "answerIndex": 1,
+          "Score": 1.0,
+          "ProblemID": 1668904,
+          "Type": "SingleChoice",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457752,
+          "TypeText": "单选题",
+          "Body": "<p>17. 下面的数据集包含两个属性X和Y，两个类标号&quot;+&quot;和&quot;-&quot;。每个属性取三个不同的值： 0, 1或2。&quot;+&quot;类的概念是Y=1， &quot;-&quot;类的概念是X=0或X=2。则由表构建的决策树的F1值（对&quot;+&quot;类定义）是（&nbsp; &nbsp; ）。</p><p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205840988690583552.png\" alt=\"image.png\"/></p>",
+          "review_detail": {},
+          "ProblemType": 1,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. 0.33；&nbsp;</p><p><br/></p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B. 0.5；</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. 0.97；&nbsp;</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. 1;</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "58a0e07779194dae895d17a864c73ce8",
+          "HasRemark": false,
+          "template_id": 457752
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 23:15",
+          "answer": [
+            "B"
+          ],
+          "my_answer": [
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668904
+      },
+      {
+        "max_retry": 1,
+        "index": 9,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "Score": 2.0,
+          "ProblemID": 1668905,
+          "max_retry": 1,
+          "Type": "MultipleChoice",
+          "Body": "<p>1. 决策树分类的主要包括（ ）</p>",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457753,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A 对数据源进行OLAP, 得到训练集和测试集；</p><p><br/></p><p><br/></p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B 对训练集进行训练；</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C 对初始决策树进行树剪枝；</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "D",
+              "value": "<p style=\"white-space: normal;\">D 由所得到的决策树提取分类规则；</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "E",
+              "value": "<p>E 使用测试数据集进行预测，评估决策树模型；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "f4fc0e0eef48490d85083150941df57c",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457753
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "A": true,
+            "C": true,
+            "B": true,
+            "E": true,
+            "D": true
+          },
+          "submit_time": "2020-03-30 23:17",
+          "answer": [
+            "A",
+            "E",
+            "D",
+            "C",
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668905
+      },
+      {
+        "max_retry": 1,
+        "index": 10,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "Score": 2.0,
+          "ProblemID": 1668906,
+          "max_retry": 1,
+          "Type": "MultipleChoice",
+          "Body": "<p>2. 下列哪些是分类与预测的不同之处（ ）</p>",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457754,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. 分类的作用是构造一系列能描述和区分数据类型或概念的模型；</p><p><br/></p><p><br/></p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B. 分类被用作预测目标数据的类的标签；</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. 预测是建立一个模型去预测缺失的或无效的并且通常是数字的数据值；</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. 预测典型的应用是预测缺失的数字型数据的值；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "67864e341a3b414394a0db88f6f6bc91",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457754
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "my_answers": {
+            "A": true,
+            "C": true,
+            "B": false,
+            "D": false
+          },
+          "submit_time": "2020-03-30 23:20",
+          "answer": [
+            "A",
+            "C"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668906
+      },
+      {
+        "max_retry": 1,
+        "index": 11,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "Score": 2.0,
+          "ProblemID": 1668907,
+          "max_retry": 1,
+          "Type": "MultipleChoice",
+          "Body": "<p>3. 下列哪些是朴素贝叶斯分类的优缺点（ ）</p>",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457755,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. 朴素贝叶斯分类做了类条件独立假设，大幅降低了计算开销；</p><p><br/></p><p><br/></p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B. 需要大量训练数据以覆盖类条件概率空间，引入了很大开销；</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. 容易实现并在大多数情况下可以取得较好的结果；</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. 类条件独立在实际应用中缺乏准确性，因为变量之间经常存在依赖关系，这种依赖关系影响了朴素贝叶斯分类器的准确性；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "c34cc30896254f10a9af855c987feae3",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457755
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "my_answers": {
+            "A": false,
+            "C": true,
+            "D": true
+          },
+          "submit_time": "2020-03-30 23:25",
+          "answer": [
+            "C",
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668907
+      },
+      {
+        "max_retry": 1,
+        "index": 12,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "Score": 2.0,
+          "ProblemID": 1668908,
+          "max_retry": 1,
+          "Type": "MultipleChoice",
+          "Body": "<p>4. 支持向量机模型包括（ ）</p>",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457756,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. 线性可分支持向量机；</p><p><br/></p>"
+            },
+            {
+              "key": "B",
+              "value": "<p>B. 线性支持向量机；</p><p><br/></p><p><br/></p>"
+            },
+            {
+              "key": "C",
+              "value": "<p>C. 非线性可分支持向量机；</p><p><br/></p><p><br style=\"white-space: normal;\"/></p><p><br/></p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. 非线性支持向量机；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Version": "2a705a674dbe4b099edc5f0b30fe4bb3",
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457756
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "A": true,
+            "B": true,
+            "D": true
+          },
+          "submit_time": "2020-03-30 23:27",
+          "answer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668908
+      },
+      {
+        "max_retry": 1,
+        "index": 13,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "HalfScore": 0,
+          "Version": "3594d7f6ae034f4aa3c086dd41915ab4",
+          "ProblemID": 1668909,
+          "max_retry": 1,
+          "Type": "MultipleChoice",
+          "Body": "<p>5. 贝叶斯信念网络（BBN）有哪些特点（ ）</p>",
+          "LibraryName": "数据挖掘",
+          "score": 2.0,
+          "TemplateID": 457757,
+          "TypeText": "多选题",
+          "answerIndex": -1,
+          "review_detail": {},
+          "ProblemType": 2,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "A",
+              "value": "<p>A. 构造网络费时费力；</p><p><br/></p><p><br/></p>"
+            },
+            {
+              "key": "B",
+              "value": "<p style=\"white-space: normal;\">B. 对模型的过分问题非常鲁棒；</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "C",
+              "value": "<p style=\"white-space: normal;\">C. 有效地避免过拟合；</p><p style=\"white-space: normal;\"><br/></p><p><br/></p>"
+            },
+            {
+              "key": "D",
+              "value": "<p>D. 最小化计算开销；</p>"
+            }
+          ],
+          "isEdit": false,
+          "Score": 2.0,
+          "HasRemark": false,
+          "awardingRule": 1,
+          "template_id": 457757
+        },
+        "score": 2.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "2.00",
+          "my_count": 1,
+          "is_right": true,
+          "my_answers": {
+            "A": true,
+            "B": true
+          },
+          "submit_time": "2020-03-30 23:32",
+          "answer": [
+            "A",
+            "B"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668909
+      },
+      {
+        "max_retry": 1,
+        "index": 14,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.0,
+          "ProblemID": 1668929,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457795,
+          "TypeText": "判断题",
+          "Body": "<p>1. 当一个数据对象同时属于多个类时，很难评估分类的准确率。通常在这种情况下，我们选择的分类器一般趋向于含有这样的特征：最小化计算开销，即使给予噪声数据或不完整数据也能准确预测，在大规模数据下仍然有效工作，提供简明易懂的结果。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "ebff984ccccd4f36bb8d34693fd27934",
+          "HasRemark": false,
+          "template_id": 457795
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 23:32",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668929
+      },
+      {
+        "max_retry": 1,
+        "index": 15,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.0,
+          "ProblemID": 1668930,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457796,
+          "TypeText": "判断题",
+          "Body": "<p>2. KNN的主要思想是计算每个训练数据（每个训练数据都有一个唯一的类别标识）到待分类元祖的距离，取和待分类元祖距离最近的k个训练数据集，k个数据中哪个类别的训练数据占多数，则待分类元祖就属于那个类别。</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "0b325c45058745528b8ccabcb318060e",
+          "HasRemark": false,
+          "template_id": 457796
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 23:33",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668930
+      },
+      {
+        "max_retry": 1,
+        "index": 16,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.0,
+          "ProblemID": 1668931,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457797,
+          "TypeText": "判断题",
+          "Body": "<p>3. 给定决策树，选项有：（1）将决策树转换成规则，然后对结果规则剪枝；（2）对决策树剪枝，然后将剪枝后的树转换成规则。相对于选项（1），选择（2）的优点是更能泛化规则。</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Version": "d46683ef3a85423e9889c6d4083b6ba0",
+          "HasRemark": false,
+          "template_id": 457797
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 23:35",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668931
+      },
+      {
+        "max_retry": 1,
+        "index": 17,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.0,
+          "ProblemID": 1668932,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457798,
+          "TypeText": "判断题",
+          "Body": "<p>4. 给定数据集 D，具有 m 个属性和 |D| 个训练记录，决策树生长的计算时间最多为m×D ×log(|D|)。</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Version": "e1017ca99ce74a7c81908522a0a9409a",
+          "HasRemark": false,
+          "template_id": 457798
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "submit_time": "2020-03-30 23:37",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668932
+      },
+      {
+        "max_retry": 1,
+        "index": 18,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.0,
+          "ProblemID": 1668933,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457799,
+          "TypeText": "判断题",
+          "Body": "<p>5. 将结点划分为更小的后续结点后，结点熵可能会增加。</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Version": "5d2fa6bb60384dda8558d11f8bcf3fcd",
+          "HasRemark": false,
+          "template_id": 457799
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 23:38",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668933
+      },
+      {
+        "max_retry": 1,
+        "index": 19,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.0,
+          "ProblemID": 1668934,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457800,
+          "TypeText": "判断题",
+          "Body": "<p>6. 朴素贝叶斯假设属性之间是相互独立的。</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Version": "4d14c09ded2c47d29d13512b938c5b81",
+          "HasRemark": false,
+          "template_id": 457800
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 23:38",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668934
+      },
+      {
+        "max_retry": 1,
+        "index": 20,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.0,
+          "ProblemID": 1668935,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457801,
+          "TypeText": "判断题",
+          "Body": "<p>7. 数据分类分为两步：第一步的基本任务是建立一个模型并描述预定的数据类集；第二步的基本任务是评估模型的预测准确率，用准确率可以接受的模型对类标号未知的数据进行分类。&nbsp;</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "b871ca3b3f9e480f80d5c46f19a75129",
+          "HasRemark": false,
+          "template_id": 457801
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "submit_time": "2020-03-30 23:40",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668935
+      },
+      {
+        "max_retry": 1,
+        "index": 21,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.0,
+          "ProblemID": 1668936,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457802,
+          "TypeText": "判断题",
+          "Body": "<p>8. 分类规则的挖掘方法通常有:决策树法、贝叶斯法、人工神经网络法、粗糙集法和遗传算法。&nbsp;</p>",
+          "Remark": "",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "f6dc27351348462c83ac0d52a4c4d6b2",
+          "HasRemark": false,
+          "template_id": 457802
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 23:41",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668936
+      },
+      {
+        "max_retry": 1,
+        "index": 22,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.0,
+          "ProblemID": 1668937,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457803,
+          "TypeText": "判断题",
+          "Body": "<p>9. 决策树是用样本的属性作为树的结构，用样本属性的取值作为树分支的结点。&nbsp;</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Version": "6f3a1922035340c9b847952c28828bad",
+          "HasRemark": false,
+          "template_id": 457803
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "0.00",
+          "my_count": 1,
+          "is_right": false,
+          "submit_time": "2020-03-30 23:41",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668937
+      },
+      {
+        "max_retry": 1,
+        "index": 23,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.0,
+          "ProblemID": 1668938,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457804,
+          "TypeText": "判断题",
+          "Body": "<p>10. 加入正则化项控制模型的复杂度无法有效地避免过拟合。</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Version": "8dbd8b69523d43ae91ebd7b9af5dfe43",
+          "HasRemark": false,
+          "template_id": 457804
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 23:42",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668938
+      },
+      {
+        "max_retry": 1,
+        "index": 24,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.0,
+          "ProblemID": 1668939,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457806,
+          "TypeText": "判断题",
+          "Body": "<p>11. 随机森林算法过程中只有一个随机过程，即每棵决策树的构建所需的特征是从整体特征集中随机选取的。</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Version": "0940d5a13a1e49e9a2e01ca0a1541716",
+          "HasRemark": false,
+          "template_id": 457806
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 23:42",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668939
+      },
+      {
+        "max_retry": 1,
+        "index": 25,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.0,
+          "ProblemID": 1668940,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457807,
+          "TypeText": "判断题",
+          "Body": "<p>12. 惰性学习法的“惰性”体现在它不急于在收到测试对象之前构造分类模型。</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Version": "189b0b920753451bb0b8c89ee287a30b",
+          "HasRemark": false,
+          "template_id": 457807
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 23:43",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668940
+      },
+      {
+        "max_retry": 1,
+        "index": 26,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.0,
+          "ProblemID": 1668941,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457808,
+          "TypeText": "判断题",
+          "Body": "<p>13. K近邻算法中K的取值对结果不会产生较大的影响。</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Version": "b2819fdade594ecaa36263c2140f66f2",
+          "HasRemark": false,
+          "template_id": 457808
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 23:43",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668941
+      },
+      {
+        "max_retry": 1,
+        "index": 27,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Score": 1.0,
+          "ProblemID": 1668942,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457809,
+          "TypeText": "判断题",
+          "Body": "<p>14. 支持向量机（SVM）对训练样本求解最小边距超平面。</p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "key": "true",
+              "value": ""
+            },
+            {
+              "key": "false",
+              "value": ""
+            }
+          ],
+          "isEdit": false,
+          "Version": "d5da70a449a446bfaabf9662831b0757",
+          "HasRemark": false,
+          "template_id": 457809
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 23:43",
+          "answer": [
+            "false"
+          ],
+          "my_answer": [
+            "false"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668942
+      },
+      {
+        "max_retry": 1,
+        "index": 28,
+        "review_detail": {},
+        "content": {
+          "library_id": 4474,
+          "Version": "e88be84f4c7d402da4e1face8afae833",
+          "ProblemID": 1668951,
+          "Type": "Judgement",
+          "max_retry": 1,
+          "LibraryName": "数据挖掘",
+          "score": 1.0,
+          "TemplateID": 457824,
+          "TypeText": "判断题",
+          "Body": "<p>23. 下表为两周内天气与外出购物的数据集，利用朴素贝叶斯分类预测天气情况为（天气=晴，温度=冷，湿度=高，风力=强）时的结果为不会外出购物。</p><p><img src=\"http://sc0.ykt.io/ue_i/20191214/1205847502666993664.png\" alt=\"image.png\"/></p>",
+          "review_detail": {},
+          "ProblemType": 6,
+          "difficulty": 1,
+          "LibraryID": 4474,
+          "data": {},
+          "Options": [
+            {
+              "value": "",
+              "key": "true"
+            },
+            {
+              "value": "",
+              "key": "false"
+            }
+          ],
+          "isEdit": false,
+          "Score": 1.0,
+          "HasRemark": false,
+          "template_id": 457824
+        },
+        "score": 1.0,
+        "user": {
+          "count": 1,
+          "remark": "",
+          "is_show_answer": true,
+          "my_score": "1.00",
+          "my_count": 1,
+          "is_right": true,
+          "submit_time": "2020-03-30 23:50",
+          "answer": [
+            "true"
+          ],
+          "my_answer": [
+            "true"
+          ],
+          "is_show_explain": false
+        },
+        "problem_id": 1668951
+      }
+    ],
+    "answer_count": 28,
+    "exercise_id": 235666,
+    "name": "第7章 作业"
+  },
+  "success": true
+}
