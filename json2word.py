@@ -10,6 +10,7 @@ from docx.shared import Pt, Inches
 from docx.oxml.ns import qn
 from PIL import Image
 import os
+import base64
 
 
 def get_json(path):
@@ -120,9 +121,10 @@ def deal_FillBlank(index, problem, document):
     if 'answers' in problem['user']:
         answers = problem['user']['answers']
         for answer in answers:
-            for an in answers[answer]:
-                p.add_run(an + ",")
-            p.add_run("; ")
+            # for an in answers[answer]:
+            #     p.add_run(an + ",")
+            p.add_run(",".join(answers[answer]))
+            p.add_run(";  ")
     else:
         print("第%d道填空题没有答案：" % (index + 1))
     document.add_paragraph()
@@ -174,6 +176,13 @@ def test_img(data):
 
 
 def get_img(string, part, document):
+    """
+    读取图片，并将其保存
+    :param string:
+    :param part:
+    :param document:
+    :return:
+    """
     img = r'<img.*?src="(.*?)".*?/>'
     urls = re.findall(img, string)
     # res = re.sub(img, "", string)
@@ -191,21 +200,29 @@ def get_img(string, part, document):
             sirs = sirs[res.end():]
             url = re.findall(img, imgs)[0]
             try:
-                response = requests.get(url)
-                fname = url.split("/")[-1]
-                if not re.search(r'.png$', fname):
-                    fname += '.png'
+                # 判断文件是否是base64编码
+                if re.search(r'data:image/png', url):
+                    url = re.sub(r'data:image/png;base64,', "", url)
+                    imgdata = base64.b64decode(url)
+                    fname = "base64.png"
+                    with open("./img/" + fname, 'wb') as f:
+                        f.write(imgdata)
+                else:
+                    response = requests.get(url)
+                    fname = url.split("/")[-1]
+                    if not re.search(r'.png$', fname):
+                        fname += '.png'
 
-                if not os.path.exists("./img/"):
-                    os.mkdir("./img/")
+                    if not os.path.exists("./img/"):
+                        os.mkdir("./img/")
 
-                with open("./img/" + fname, 'wb') as f:
-                    f.write(response.content)
+                    with open("./img/" + fname, 'wb') as f:
+                        f.write(response.content)
                     
                 im = Image.open("./img/" + fname)
                 width = im.width
                 # print("width="+str(width))
-                if width > 600:
+                if width > 500:
                     r.add_picture("./img/" + fname, width=Inches(6))
                 else:
                     r.add_picture("./img/" + fname)
@@ -251,7 +268,10 @@ def rm_tag(data):
     rdata = re.sub(p_tag, "", data)
     rdata = re.sub(blank, " ", rdata)
     rdata = re.sub(br, " ", rdata)
-    rdata = re.sub(underline, "__", rdata)
+    rdata = re.sub(underline, "_____", rdata)
+    rdata = re.sub(r'&gt;', ">", rdata)
+    rdata = re.sub(r'&lt;', "<", rdata)
+    rdata = re.sub(r'&quot;', "\"", rdata)
     # rdata = re.sub(img, "（这是一个图片）", rdata)
 
     return rdata

@@ -14,12 +14,14 @@
 - `Pillow`
 - `json`
 - `requests`
+- `base64`
+- `os`
 
 ![生成的word](./image/word.png)
 
 
 
 # 生成html在线网页
-通过读取json文件，在网页中显示。使用浏览器打开[dataAnalysis.html](./html/dataAnalysis.html)文件即可访问。
+通过读取json文件，在网页中显示。使用浏览器打开[dataAnalysis.html]([数据挖掘作业](https://secoworld.github.io/html/dataAnalysis.html))文件即可访问。
 
 ![生成的html文件](./image/html.png)
