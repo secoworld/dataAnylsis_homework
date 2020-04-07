@@ -47,6 +47,7 @@ def deal_json(data, document):
             deal_Judgement(index, problem, document)
         else:
             print("该问题没有处理方法", type)
+        document.add_paragraph()
 
 
 def deal_SingleChoice(index, problem, document):
@@ -71,9 +72,14 @@ def deal_SingleChoice(index, problem, document):
         anwser = problem['user']['answer']
         document.add_paragraph("[答案] " + anwser[0])
     else:
-        print("第%d道单选题没有答案：" % (index + 1))
-    document.add_paragraph()
-
+        score = float(problem['score'])
+        my_score = float(problem['user']['my_score'])
+        my_answer = problem['user']['my_answer']
+        if score == my_score:
+            document.add_paragraph("[答案] " + my_answer[0])
+        else:
+            print("第%d道单选题没有答案：" % (index + 1))
+    
 
 def deal_MultipleChoice(index, problem, document):
     """
@@ -100,8 +106,14 @@ def deal_MultipleChoice(index, problem, document):
         for answer in answers:
             p.add_run(answer + " ")
     else:
-        print("第%d道多选题没有答案：" % (index + 1))
-    document.add_paragraph()
+        score = float(problem['score'])
+        my_score = float(problem['user']['my_score'])
+        my_answer = problem['user']['my_answers']
+        if score == my_score:
+            p.add_run(" ".join(my_answer))
+        else:
+            print("第%d道多选题没有答案：" % (index + 1))
+
 
 
 def deal_FillBlank(index, problem, document):
@@ -126,8 +138,16 @@ def deal_FillBlank(index, problem, document):
             p.add_run(",".join(answers[answer]))
             p.add_run(";  ")
     else:
-        print("第%d道填空题没有答案：" % (index + 1))
-    document.add_paragraph()
+        score = float(problem['score'])
+        my_score = float(problem['user']['my_score'])
+        my_answer = problem['user']['my_answers']
+        if score == my_score:
+            for answer in my_answer:
+                p.add_run(my_answer[answer]['answer'])
+                p.add_run(";  ")
+        else:
+            print("第%d道填空题没有答案：" % (index + 1))
+
 
 
 def deal_Judgement(index, problem, document):
@@ -150,8 +170,14 @@ def deal_Judgement(index, problem, document):
         else:
             p.add_run("错")
     else:
-        print("第%d道判断题没有答案：" % (index + 1))
-    document.add_paragraph()
+        score = float(problem['score'])
+        my_score = float(problem['user']['my_score'])
+        my_answer = problem['user']['my_answer']
+        if score == my_score:
+            p.add_run("[答案] " + ("对" if my_answer[0] == "true" else "错"))
+        else:
+            print("第%d道判断题没有答案：" % (index + 1))
+
 
 
 def deal_string(data, part, document):

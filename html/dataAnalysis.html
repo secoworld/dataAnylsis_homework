@@ -23,6 +23,7 @@
 
 <div class="container">
     <h1 class="text-center">数据挖掘作业</h1>
+    <h3 class="text-center"><a href="https://secoworld.github.io/">首页</a> <a href="https://github.com/secoworld/dataAnylsis_homework">github地址</a> </h3>
     <div class="row">
         <div class="col-md-12" id="show_body">
             
@@ -31,12 +32,12 @@
 </div>
 
 <script>
-<!--    读取json文件并将其显示在html文档中  -->
+// <!-- 读取json文件并将其显示在html文档中;  -->
 
     $(document).ready(function () {
         $.ajaxSettings.async = false;  //ajax同步执行，防止文件的顺序被破坏
         for(var i=0; i<9; i++){
-            var path = "../homework/23566"+i+".json";
+            var path = "./homework/23566"+i+".json";
             get_json_file(path)
         }
 
@@ -98,7 +99,14 @@
             var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-success").text("[答案] "+answer[0]));
 
         }else{
-            var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-danger").text("[答案] 暂时没有答案"));
+            var score = parseFloat(problem.score);
+            var my_score = parseFloat(problem.user.my_score)
+            var my_answer = problem.user.my_answer;
+            if(score == my_score){
+                var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-success").text("[答案] "+my_answer[0]));
+            }else{
+                var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-danger").text("[答案] 暂时没有答案"));
+            }
         }
           body.append(html_answer);
 
@@ -129,7 +137,14 @@
             var answer = problem.user.answer;
             var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-success").text("[答案] "+answer.join(",")));
         }else{
-            var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-danger").text("[答案]: 暂时不存在"));
+            var score = parseFloat(problem.score);
+            var my_score = parseFloat(problem.user.my_score)
+            var my_answer = problem.user.my_answers;
+            if(score == my_score){
+                var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-success").text("[答案] "+ Object.keys(my_answer).join(",")));
+            }else{
+                var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-danger").text("[答案]: 暂时不存在"));
+            }
         }
         body.append(html_answer);
         parent.append(body).appendTo($("#show_body"));
@@ -156,7 +171,18 @@
             }
             var html_answer = $("<ul></ul>").addClass("list-group").append(html_an);
         }else{
-            var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-danger").text("[答案]: 暂时不存在"));
+            var score = parseFloat(problem.score);
+            var my_score = parseFloat(problem.user.my_score)
+            var my_answer = problem.user.my_answers;
+            if(score == my_score){
+                var html_an = $("<li></li>").addClass("list-group-item list-group-item-success").text("[答案]");
+                for(var an in my_answer){
+                    html_an.append(my_answer[an]['answer']).append(";&nbsp;&nbsp;");
+                }
+                var html_answer = $("<ul></ul>").addClass("list-group").append(html_an);
+            }else{
+                var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-danger").text("[答案]: 暂时不存在"));
+            }
         }
         body.append(html_answer);
         parent.append(body).appendTo($("#show_body"));
@@ -180,7 +206,14 @@
             var answer = problem.user.answer;
             var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-success").text("[答案] "+(answer[0] == "true"?"对":"错")));
         }else{
-            var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-danger").text("[答案]: 暂时不存在"));
+            var score = parseFloat(problem.score);
+            var my_score = parseFloat(problem.user.my_score)
+            var my_answer = problem.user.my_answer;
+            if(score == my_score){
+                var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-success").text("[答案] "+(my_answer[0] == "true"?"对":"错")));
+            }else{
+                var html_answer = $("<ul></ul>").addClass("list-group").append($("<li></li>").addClass("list-group-item list-group-item-danger").text("[答案]: 暂时不存在"));
+            }
         }
         body.append(html_answer);
         parent.append(body).appendTo($("#show_body"));
