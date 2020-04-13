@@ -311,7 +311,7 @@ if __name__ == '__main__':
     document.styles['Normal']._element.rPr.rFonts.set(qn('w:eastAsia'), u'宋体')
 
     # 读取多个文件进行尝试
-    for i in range(1, 9):
+    for i in range(1, 10):
         path = "./json/chapter0" + str(i) + ".json"
         result = get_json(path)
         deal_json(result, document)
