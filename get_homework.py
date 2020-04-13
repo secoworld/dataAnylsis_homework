@@ -4,7 +4,7 @@ import json
 
 # 设置请求头部信息
 header = {
-    'cookie': "UM_distinctid=1707a831af22d0-09b52444af64bf-6701b35-100200-1707a831af3111; login_type=WX; csrftoken=QLdw3KKDQOLPWIVVvOsJyXKI2wq97GZr; sessionid=6lrkwbh9sy1bbrkvp4ee4iu6u91ds5ul; local-lang=zh; k=46887; frontendUserReferrer=http://www.xuetangx.com/community/post/3091; frontendUserTrack=30383; _log_user_id=67ef3219e9957a4aee072714715f8afa; sharesessionid=f8bdf594f9c4e0eab3b634f32704743f; frontendUserTrackPrev=30383",
+    'cookie': "UM_distinctid=1707a831af22d0-09b52444af64bf-6701b35-100200-1707a831af3111; _log_user_id=67ef3219e9957a4aee072714715f8afa; sharesessionid=f8bdf594f9c4e0eab3b634f32704743f; login_type=WX; csrftoken=hm6AJZrTZP70b8ROqT8K7RvO6onwnwMR; sessionid=fz2n3to0zbqn7szpkg5it93vh5gu7dza; k=46887; django_language=zh",
     'user-agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36",
     'referer': "https://next.xuetangx.com/learn/tjnu08091002372/tjnu08091002372/1516372/exercise/1392904",
     'x-csrftoken': "QLdw3KKDQOLPWIVVvOsJyXKI2wq97GZr",
@@ -32,8 +32,8 @@ if __name__ == '__main__':
         url_id = url + str(235660 + i) + '/'
         data = get_json(url_id)
         print(data)
-        path = "./homework/"+ str(235660 + i) + ".json"
-        if not os.path.exists("./homework/"):
-            os.mkdir("./homework/")
+        path = "./html/homework/" + str(235660 + i) + ".json"
+        if not os.path.exists("./html/homework/"):
+            os.mkdir("./html/homework/")
         save_json(path, data)
 
